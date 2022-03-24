@@ -28,7 +28,7 @@ export const IconList = (props: IconListProps) => {
 		}
 
 		fetchMyAPI()
-	// eslint-disable-next-line react-hooks/exhaustive-deps
+		// eslint-disable-next-line react-hooks/exhaustive-deps
 	}, [props.files])
 
 	let gridHeader = () => {
