@@ -39,7 +39,6 @@ export const IconList = (props: IconListProps) => {
 				}
 			}
 			setFileNameTree(addNewUpdated(changedFileNames, props.fileList))
-			console.log(fileNameTree)
 			// setPreviousSVGs(data)
 		}
 
@@ -67,7 +66,6 @@ export const IconList = (props: IconListProps) => {
 	}
 	return (
 		<div className="container main">
-			{console.log(fileNameTree)}
 			{props.files.length > 0 && gridHeader()}
 
 			{Object.keys(fileNameTree).map((iconName: any, index: number) => {
@@ -87,7 +85,6 @@ export const IconList = (props: IconListProps) => {
 						filledIcon = typesAndSizes[i].urlPath
 				}
 
-				console.log("filenameTree", fileNameTree)
 
 				let previousSVGRegular = <></>
 				let previousSVGFilled = <></>
@@ -96,29 +93,39 @@ export const IconList = (props: IconListProps) => {
 
 				let currentSVGFilled = ""
 
-				if (!iconName.includes("_new")) {
+				if (
+					!iconName.includes("_new") &&
+					fileNameTree[iconName][
+						`${Object.keys(fileNameTree[iconName])[0]}`
+					].find((x: any) => x.style === "regular")
+				) {
 					previousSVGRegular = fileNameTree[iconName][
 						`${Object.keys(fileNameTree[iconName])[0]}`
 					]
 						.find((x: any) => x.style === "regular")
 						.component({ title: "idk" })
 
-					previousSVGFilled = fileNameTree[iconName][
-						`${Object.keys(fileNameTree[iconName])[0]}`
-					]
-						.find((x: any) => x.style === "filled")
-						.component({ title: "idk" })
-
 					currentSVGRegular = fileNameTree[iconName][
 						`${Object.keys(fileNameTree[iconName])[0]}`
 					].find((x: any) => x.style === "regular").urlPath
 
-					currentSVGFilled = fileNameTree[iconName][
-						`${Object.keys(fileNameTree[iconName])[0]}`
-					].find((x: any) => x.style === "filled").urlPath
-				}
+					if (
+						!iconName.includes("_new") &&
+						fileNameTree[iconName][
+							`${Object.keys(fileNameTree[iconName])[0]}`
+						].find((x: any) => x.style === "filled")
+					) {
+						previousSVGFilled = fileNameTree[iconName][
+							`${Object.keys(fileNameTree[iconName])[0]}`
+						]
+							.find((x: any) => x.style === "filled")
+							.component({ title: "idk" })
 
-				console.log(previousSVGRegular)
+						currentSVGFilled = fileNameTree[iconName][
+							`${Object.keys(fileNameTree[iconName])[0]}`
+						].find((x: any) => x.style === "filled").urlPath
+					}
+				}
 
 				return (
 					<div className="row">

@@ -73,14 +73,12 @@ let findSVGsInReactPackage = async (sanitizedFilesNames: any[]) => {
 		let reactComponentName = capitalizedName + file.size + capitalizedStyle
 
 		// let ok = require(`@fluentui/react-icons/${reactComponentName}`)
-		// console.log(ok)
 
 		// await Promise.all(
 		// 	tryRequire(`@fluentui/react-icons`, reactComponentName)
 		// )
 
 		resultArr.push(tryRequire(reactComponentName))
-		// console.log(resultArr)
 		// let tryRequire()
 		// let data = tree.find((x) => x.path.toLowerCase() === icon) || null
 		// if (data) resultArr.push(data)
@@ -103,7 +101,6 @@ let gatherTopLevelShaForUpdatedIcons = async (
 
 	searchingFor = sanitizedFilesNames
 
-	console.log(searchingFor)
 	let resultArr: any[] = []
 
 	searchingFor.map((icon) => {

@@ -65,7 +65,6 @@ export let addNewUpdated = (
 	let finalReturnedObj: any = {}
 
 	trimmedFileNames.map((tfilename: any, index) => {
-		console.log(tfilename)
 		if (tfilename.status === "new") {
 			let newName = tfilename.name + "_new"
 			if (finalReturnedObj[newName]) {
