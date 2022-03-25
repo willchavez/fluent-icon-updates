@@ -1,6 +1,5 @@
 .iconLabel {
 	text-transform: capitalize;
-	font-weight: bold;
 }
 
 .previousICON svg {
@@ -20,16 +19,31 @@
 }
 
 .previousICONCompare svg path {
-	fill: red;
-	opacity: 0.5;
+	fill: #d83b01;
+	opacity: 0.9;
 }
+
+.row .col {
+	font-family: Segoe UI, Frutiger, Frutiger Linotype, Dejavu Sans,
+		Helvetica Neue, Arial, sans-serif;
+	font-style: normal;
+	letter-spacing: 0.1em;
+	font-weight: 350;
+}
+
 
 .headerRow .col {
-	font-weight: bold;
+	font-family: Segoe UI, Frutiger, Frutiger Linotype, Dejavu Sans,
+		Helvetica Neue, Arial, sans-serif;
+	font-style: normal;
+	letter-spacing: 0.1em;
+	font-weight: 600;
 }
 
-.row {
-	border-bottom: 1px solid black;
+.main .row {
+	padding-bottom: 2rem;
+	padding-top: 2rem;
+	border-bottom: 1px solid #c8c8c8;
 }
 
 .col {
@@ -38,4 +52,21 @@
 
 .prevCurrentComparison {
 	margin: 0 auto -5% auto;
+}
+
+.newIcon,
+.updatedIcon {
+	font-style: normal;
+	font-weight: 700;
+	line-height: 16px;
+	/* or 80% */
+	padding-bottom: 0.5rem;
+	letter-spacing: 0.1em;
+}
+
+.newIcon {
+	color: #2266e3;
+}
+.updatedIcon {
+	color: #d83b01;
 }

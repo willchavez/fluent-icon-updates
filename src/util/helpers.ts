@@ -1,5 +1,6 @@
 export let sanitizeFileNames = (files: any) => {
 	let fileNames = files.map((a: any) => a.name)
+
 	let trimmedFileNames = fileNames.map((file: any) => {
 		let optimizedFileName: any = {}
 		file = file.replace("ic_fluent_", "")
@@ -24,5 +25,99 @@ export let sanitizeFileNames = (files: any) => {
 
 		return optimizedFileName
 	})
+
 	return trimmedFileNames
+}
+
+export let convertToTree = (
+	trimmedFileNames: any[],
+	fileLocations: any[]
+): any => {
+	let finalReturnedObj: any = {}
+
+	trimmedFileNames.map((tfilename: any, index) => {
+		if (finalReturnedObj[tfilename.name]) {
+			if (finalReturnedObj[tfilename.name][tfilename.size]) {
+				finalReturnedObj[tfilename.name][tfilename.size].push({
+					style: tfilename.style,
+					urlPath: fileLocations[index],
+				})
+			} else {
+				finalReturnedObj[tfilename.name][tfilename.size] = [
+					{ style: tfilename.style, urlPath: fileLocations[index] },
+				]
+			}
+		} else {
+			finalReturnedObj[tfilename.name] = {}
+			finalReturnedObj[tfilename.name][tfilename.size] = [
+				{ style: tfilename.style, urlPath: fileLocations[index] },
+			]
+		}
+		return 0
+	})
+	return finalReturnedObj
+}
+
+export let addNewUpdated = (
+	trimmedFileNames: any[],
+	fileLocations: any[]
+): any => {
+	let finalReturnedObj: any = {}
+
+	trimmedFileNames.map((tfilename: any, index) => {
+		console.log(tfilename)
+		if (tfilename.status === "new") {
+			let newName = tfilename.name + "_new"
+			if (finalReturnedObj[newName]) {
+				if (finalReturnedObj[newName][tfilename.size]) {
+					finalReturnedObj[newName][tfilename.size].push({
+						style: tfilename.style,
+						urlPath: fileLocations[index],
+					})
+				} else {
+					finalReturnedObj[newName][tfilename.size] = [
+						{
+							style: tfilename.style,
+							urlPath: fileLocations[index],
+						},
+					]
+				}
+			} else {
+				finalReturnedObj[newName] = {}
+				finalReturnedObj[newName][tfilename.size] = [
+					{ style: tfilename.style, urlPath: fileLocations[index] },
+				]
+			}
+		} else {
+			if (finalReturnedObj[tfilename.name]) {
+				if (finalReturnedObj[tfilename.name][tfilename.size]) {
+					finalReturnedObj[tfilename.name][tfilename.size].push({
+						style: tfilename.style,
+						urlPath: fileLocations[index],
+						component: tfilename.component,
+					})
+				} else {
+					finalReturnedObj[tfilename.name][tfilename.size] = [
+						{
+							style: tfilename.style,
+							urlPath: fileLocations[index],
+							component: tfilename.component,
+						},
+					]
+				}
+			} else {
+				finalReturnedObj[tfilename.name] = {}
+				finalReturnedObj[tfilename.name][tfilename.size] = [
+					{
+						style: tfilename.style,
+						urlPath: fileLocations[index],
+						component: tfilename.component,
+					},
+				]
+			}
+		}
+
+		return 0
+	})
+	return finalReturnedObj
 }

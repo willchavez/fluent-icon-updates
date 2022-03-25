@@ -3,11 +3,16 @@ import { Icon } from "./Icon"
 import { OverlappingIcon } from "./OverlappingIcon"
 import "./IconList.css"
 import {
-	fetchAssetsUrl,
-	fetchIconNames,
-	fetchRepoCommits,
+	findSVGsInReactPackage,
+	// fetchIconNames,
+	// fetchRepoCommits,
 } from "../api/fetchicons"
-import { sanitizeFileNames } from "../util/helpers"
+import {
+	addNewUpdated,
+	convertToTree,
+	sanitizeFileNames,
+} from "../util/helpers"
+import { gatherTopLevelShaForUpdatedIcons } from "../api/fetchicons"
 
 export interface IconListProps {
 	fileList: any[]
@@ -15,93 +20,170 @@ export interface IconListProps {
 }
 
 export const IconList = (props: IconListProps) => {
-	let sanitizedFilesNames = sanitizeFileNames(props.files)
+	let changedFileNames = sanitizeFileNames(props.files)
+	// let fileNameTree = convertToTree(changedFileNames, props.fileList)
+	let [fileNameTree, setFileNameTree]: any[] = React.useState({})
 	let [previousSVGs, setPreviousSVGs]: any[] = React.useState([])
 
 	React.useEffect(() => {
 		async function fetchMyAPI() {
-			let data = await fetchRepoCommits(sanitizedFilesNames)
+			let data = await findSVGsInReactPackage(changedFileNames)
 
-			let d2 = await fetchAssetsUrl(data)
-			let d3 = await fetchIconNames(d2?.sha)
-			setPreviousSVGs(d3)
+			for (var i = 0; i < data.length; i++) {
+				if (data[i]) {
+					changedFileNames[i].status = "updated"
+					changedFileNames[i].component = data[i].module
+					changedFileNames[i].reactComponentName = data[i].name
+				} else {
+					changedFileNames[i].status = "new"
+				}
+			}
+			setFileNameTree(addNewUpdated(changedFileNames, props.fileList))
+			console.log(fileNameTree)
+			// setPreviousSVGs(data)
 		}
 
 		fetchMyAPI()
 		// eslint-disable-next-line react-hooks/exhaustive-deps
-	}, [props.files])
+	}, [JSON.stringify(props.fileList)])
 
 	let gridHeader = () => {
 		return (
 			<div className="row headerRow">
-				<div className="col">Name</div>
+				{/* <div className="col">Name</div>
 				<div className="col">Icon</div>
 				<div className="col">Regular/Filled Icons Overlapped</div>
 				<div className="col">Published Icon in Github</div>
-				<div className="col">Published/Current Icon Overlapped</div>
+				<div className="col">Published/Current Icon Overlapped</div> */}
+
+				<div className="col">ICON NAME</div>
+				<div className="col">SIZE</div>
+				<div className="col">REGULAR</div>
+				<div className="col">FILLED</div>
+				<div className="col">DIFFERENCE</div>
+				<div className="col"></div>
 			</div>
 		)
 	}
 	return (
-		<div className="container">
+		<div className="container main">
+			{console.log(fileNameTree)}
 			{props.files.length > 0 && gridHeader()}
-			{props.fileList.map((el: any, index: number) => {
-				let labelBoolean: boolean =
-					index > 0 &&
-					sanitizedFilesNames[index].name ===
-						sanitizedFilesNames[index - 1].name &&
-					sanitizedFilesNames[index].size ===
-						sanitizedFilesNames[index - 1].size
 
-				let iconName = (
-					<div className="iconLabel">
-						{sanitizedFilesNames[index].name}{" "}
-						{sanitizedFilesNames[index].size}{" "}
-						{sanitizedFilesNames[index].style}
-					</div>
-				)
+			{Object.keys(fileNameTree).map((iconName: any, index: number) => {
+				let regularIcon = ""
+				let filledIcon = ""
 
-				let current = {
-					element: el,
-					altText: props.files[index],
-				}
-				let previous = {
-					element: props.fileList[index + 1],
-					altText: props.files[index + 1],
+				let typesAndSizes: any[] = []
+				let sizeKeys = Object.keys(fileNameTree[iconName])
+				sizeKeys.map((size) => {
+					typesAndSizes.push(...fileNameTree[iconName][size])
+				})
+
+				for (let i = typesAndSizes.length - 1; i >= 0; i--) {
+					if (typesAndSizes[i].style === "regular" && !regularIcon)
+						regularIcon = typesAndSizes[i].urlPath
+					if (typesAndSizes[i].style === "filled" && !filledIcon)
+						filledIcon = typesAndSizes[i].urlPath
 				}
 
-				if (labelBoolean) {
-					previous = {
-						element: props.fileList[index - 1],
-						altText: props.files[index - 1],
-					}
+				console.log("filenameTree", fileNameTree)
+
+				let previousSVGRegular = <></>
+				let previousSVGFilled = <></>
+
+				let currentSVGRegular = ""
+
+				let currentSVGFilled = ""
+
+				if (!iconName.includes("_new")) {
+					previousSVGRegular = fileNameTree[iconName][
+						`${Object.keys(fileNameTree[iconName])[0]}`
+					]
+						.find((x: any) => x.style === "regular")
+						.component({ title: "idk" })
+
+					previousSVGFilled = fileNameTree[iconName][
+						`${Object.keys(fileNameTree[iconName])[0]}`
+					]
+						.find((x: any) => x.style === "filled")
+						.component({ title: "idk" })
+
+					currentSVGRegular = fileNameTree[iconName][
+						`${Object.keys(fileNameTree[iconName])[0]}`
+					].find((x: any) => x.style === "regular").urlPath
+
+					currentSVGFilled = fileNameTree[iconName][
+						`${Object.keys(fileNameTree[iconName])[0]}`
+					].find((x: any) => x.style === "filled").urlPath
 				}
+
+				console.log(previousSVGRegular)
 
 				return (
-					<div className="row flex-grow-1">
-						<div className="col nameLabel">{iconName}</div>
+					<div className="row">
 						<div className="col">
-							<Icon element={el} altText={props.files[index]} />
-						</div>
-						<div className="col">
-							<OverlappingIcon
-								current={current}
-								previous={previous}
-							/>
-						</div>
-						<div className="col">
-							{previousSVGs.length > 0 && previousSVGs[index] ? (
-								<div
-									className="previousICON"
-									dangerouslySetInnerHTML={{
-										__html: previousSVGs[index],
-									}}
-								/>
+							{iconName.includes("_new") ? (
+								<div className="newIcon">NEW</div>
 							) : (
-								<div>new</div>
+								<div className="updatedIcon">UPDATED</div>
+							)}
+							<div className="iconLabel">
+								{iconName.includes("_new")
+									? iconName.replace("_new", "")
+									: iconName}
+							</div>
+						</div>
+						<div className="col">
+							{Object.keys(fileNameTree[iconName]).join(", ")}
+						</div>
+						<div className="col">
+							<Icon element={regularIcon} altText="" />
+						</div>
+						<div className="col">
+							<Icon element={filledIcon} altText="" />
+						</div>
+
+						<div className="col prevCurrentComparison">
+							{!iconName.includes("new") && (
+								<div>
+									<div>
+										<Icon
+											element={currentSVGRegular}
+											altText=""
+										/>
+									</div>
+									<div className="previousICONCompare">
+										{!iconName.includes("_new") ? (
+											previousSVGRegular
+										) : (
+											<div></div>
+										)}
+									</div>
+								</div>
 							)}
 						</div>
 						<div className="col prevCurrentComparison">
+							{!iconName.includes("new") && (
+								<div>
+									<div>
+										<Icon
+											element={currentSVGFilled}
+											altText=""
+										/>
+									</div>
+
+									<div className="previousICONCompare">
+										{!iconName.includes("_new") ? (
+											previousSVGFilled
+										) : (
+											<div></div>
+										)}
+									</div>
+								</div>
+							)}
+						</div>
+						{/* <div className="col prevCurrentComparison">
 							{previousSVGs.length > 0 && previousSVGs[index] && (
 								<>
 									<div>
@@ -118,9 +200,80 @@ export const IconList = (props: IconListProps) => {
 									/>
 								</>
 							)}
-						</div>
+						</div> */}
 					</div>
 				)
+				// let labelBoolean: boolean =
+				// 	index > 0 &&
+				// 	changedFileNames[index].name ===
+				// 		 [index - 1].name &&
+				// 	changedFileNames[index].size ===
+				// 		changedFileNames[index - 1].size
+				// let iconName = (
+				// 	<div className="iconLabel">
+				// 		{changedFileNames[index].name}{" "}
+				// 		{changedFileNames[index].size}{" "}
+				// 		{changedFileNames[index].style}
+				// 	</div>
+				// )
+				// let current = {
+				// 	element: el,
+				// 	altText: props.files[index],
+				// }
+				// let previous = {
+				// 	element: props.fileList[index + 1],
+				// 	altText: props.files[index + 1],
+				// }
+				// if (labelBoolean) {
+				// 	previous = {
+				// 		element: props.fileList[index - 1],
+				// 		altText: props.files[index - 1],
+				// 	}
+				// }
+				// return (
+				// 	<div className="row flex-grow-1">
+				// 		<div className="col nameLabel">{iconName}</div>
+				// 		<div className="col">
+				// 			<Icon element={el} altText={props.files[index]} />
+				// 		</div>
+				// 		<div className="col">
+				/* <OverlappingIcon
+								current={current}
+								previous={previous}
+							/> */
+				// 	</div>
+				// 	<div className="col">
+				// 		{previousSVGs.length > 0 && previousSVGs[index] ? (
+				// 			<div
+				// 				className="previousICON"
+				// 				dangerouslySetInnerHTML={{
+				// 					__html: previousSVGs[index],
+				// 				}}
+				// 			/>
+				// 		) : (
+				// 			<div>new</div>
+				// 		)}
+				// 	</div>
+				// <div className="col prevCurrentComparison">
+				// 	{previousSVGs.length > 0 && previousSVGs[index] && (
+				// 		<>
+				// 			<div>
+				// 				<Icon
+				// 					element={el}
+				// 					altText={props.files[index]}
+				// 				/>
+				// 			</div>
+				// 			<div
+				// 				className="previousICONCompare"
+				// 				dangerouslySetInnerHTML={{
+				// 					__html: previousSVGs[index],
+				// 				}}
+				// 			/>
+				// 		</>
+				// 	)}
+				// </div>
+				// </div>
+				// 	)
 			})}
 		</div>
 	)
