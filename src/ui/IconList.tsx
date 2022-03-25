@@ -1,18 +1,12 @@
 import * as React from "react"
 import { Icon } from "./Icon"
-import { OverlappingIcon } from "./OverlappingIcon"
 import "./IconList.css"
 import {
 	findSVGsInReactPackage,
 	// fetchIconNames,
 	// fetchRepoCommits,
 } from "../api/fetchicons"
-import {
-	addNewUpdated,
-	convertToTree,
-	sanitizeFileNames,
-} from "../util/helpers"
-import { gatherTopLevelShaForUpdatedIcons } from "../api/fetchicons"
+import { addNewUpdated, sanitizeFileNames } from "../util/helpers"
 
 export interface IconListProps {
 	fileList: any[]
@@ -23,7 +17,7 @@ export const IconList = (props: IconListProps) => {
 	let changedFileNames = sanitizeFileNames(props.files)
 	// let fileNameTree = convertToTree(changedFileNames, props.fileList)
 	let [fileNameTree, setFileNameTree]: any[] = React.useState({})
-	let [previousSVGs, setPreviousSVGs]: any[] = React.useState([])
+	// let [previousSVGs, setPreviousSVGs]: any[] = React.useState([])
 
 	React.useEffect(() => {
 		async function fetchMyAPI() {
@@ -76,6 +70,7 @@ export const IconList = (props: IconListProps) => {
 				let sizeKeys = Object.keys(fileNameTree[iconName])
 				sizeKeys.map((size) => {
 					typesAndSizes.push(...fileNameTree[iconName][size])
+					return undefined
 				})
 
 				for (let i = typesAndSizes.length - 1; i >= 0; i--) {
@@ -84,7 +79,6 @@ export const IconList = (props: IconListProps) => {
 					if (typesAndSizes[i].style === "filled" && !filledIcon)
 						filledIcon = typesAndSizes[i].urlPath
 				}
-
 
 				let previousSVGRegular = <></>
 				let previousSVGFilled = <></>
@@ -127,6 +121,7 @@ export const IconList = (props: IconListProps) => {
 					}
 				}
 
+				console.log(fileNameTree)
 				return (
 					<div className="row">
 						<div className="col">

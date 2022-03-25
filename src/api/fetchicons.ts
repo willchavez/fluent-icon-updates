@@ -6,7 +6,6 @@ const octokit = new Octokit({
 	auth: process.env.REACT_APP_PERSONAL_ACCESS_TOKEN,
 })
 
-let fileNames: any[]
 
 // let fetchRepoCommits = async (sanitizedFilesNames: any[]) => {
 // 	fileNames = sanitizedFilesNames
