@@ -6,7 +6,6 @@ const octokit = new Octokit({
 	auth: process.env.REACT_APP_PERSONAL_ACCESS_TOKEN,
 })
 
-
 // let fetchRepoCommits = async (sanitizedFilesNames: any[]) => {
 // 	fileNames = sanitizedFilesNames
 // 	let result = await octokit
@@ -59,8 +58,12 @@ let findSVGsInReactPackage = async (sanitizedFilesNames: any[]) => {
 		let capitalizeName = () => {
 			let nameArr = file.name.split(" ")
 			for (var i = 0; i < nameArr.length; i++) {
-				nameArr[i] =
-					nameArr[i].charAt(0).toUpperCase() + nameArr[i].slice(1)
+				if (nameArr[i].match(/\d+/)) {
+					nameArr[i] = nameArr[i].toUpperCase()
+				} else {
+					nameArr[i] =
+						nameArr[i].charAt(0).toUpperCase() + nameArr[i].slice(1)
+				}
 			}
 			return nameArr.join("")
 		}
@@ -70,17 +73,7 @@ let findSVGsInReactPackage = async (sanitizedFilesNames: any[]) => {
 		let capitalizedStyle =
 			file.style.charAt(0).toUpperCase() + file.style.slice(1)
 		let reactComponentName = capitalizedName + file.size + capitalizedStyle
-
-		// let ok = require(`@fluentui/react-icons/${reactComponentName}`)
-
-		// await Promise.all(
-		// 	tryRequire(`@fluentui/react-icons`, reactComponentName)
-		// )
-
 		resultArr.push(tryRequire(reactComponentName))
-		// let tryRequire()
-		// let data = tree.find((x) => x.path.toLowerCase() === icon) || null
-		// if (data) resultArr.push(data)
 		return undefined
 	})
 	resultArr = await Promise.all(resultArr)

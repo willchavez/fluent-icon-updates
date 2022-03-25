@@ -1,11 +1,7 @@
 import * as React from "react"
 import { Icon } from "./Icon"
 import "./IconList.css"
-import {
-	findSVGsInReactPackage,
-	// fetchIconNames,
-	// fetchRepoCommits,
-} from "../api/fetchicons"
+import { findSVGsInReactPackage } from "../api/fetchicons"
 import { addNewUpdated, sanitizeFileNames } from "../util/helpers"
 
 export interface IconListProps {
@@ -15,9 +11,7 @@ export interface IconListProps {
 
 export const IconList = (props: IconListProps) => {
 	let changedFileNames = sanitizeFileNames(props.files)
-	// let fileNameTree = convertToTree(changedFileNames, props.fileList)
 	let [fileNameTree, setFileNameTree]: any[] = React.useState({})
-	// let [previousSVGs, setPreviousSVGs]: any[] = React.useState([])
 
 	React.useEffect(() => {
 		async function fetchMyAPI() {
@@ -121,7 +115,6 @@ export const IconList = (props: IconListProps) => {
 					}
 				}
 
-				console.log(fileNameTree)
 				return (
 					<div className="row">
 						<div className="col">

@@ -9,13 +9,26 @@ export let sanitizeFileNames = (files: any) => {
 		if (file.includes("regular")) optimizedFileName.style = "regular"
 		if (file.includes("filled")) optimizedFileName.style = "filled"
 
-		file = file.replace("_regular", "")
-		file = file.replace("_filled", "")
+		if (file.match(/\d+/)) {
+			let sizestring: string = ""
+			let matched: any
 
-		if (file.match(/\d+/))
-			optimizedFileName.size = parseInt(file.match(/\d+/)[0])
+			if (optimizedFileName.style === "regular") {
+				sizestring = file.match(/\d+_regular/)[0]
+			} else {
+				sizestring = file.match(/\d+_filled/)[0]
+			}
 
-		file = file.replace(/[0-9]/g, "")
+			if (sizestring && sizestring.match(/\d+/)) {
+				matched = sizestring.match(/\d+/)
+				optimizedFileName.size = parseInt(matched[0])
+			}
+			// optimizedFileName.size = parseInt(file.match(/\d+/)[0])
+		}
+		file = file.replace(`${optimizedFileName.size}_regular`, "")
+		file = file.replace(`${optimizedFileName.size}_filled`, "")
+
+		// file = file.replace(/[0-9]/g, "")
 		file = file.replace(/_/g, " ")
 		file = file.trim()
 
