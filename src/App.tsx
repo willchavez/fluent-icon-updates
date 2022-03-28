@@ -3,6 +3,7 @@ import "./App.css"
 import { IconList } from "./ui/IconList"
 import html2canvas from "html2canvas"
 import { Camera20Filled } from "@fluentui/react-icons"
+
 function App() {
 	let [files, setFiles] = React.useState([])
 	let [objectUrls, setObjectUrls] = React.useState([])
@@ -76,6 +77,12 @@ function App() {
 						</div>
 						<div className="row">
 							<h4>
+								Using @fluentui/react-icons@
+								{process.env.REACT_APP_FLUENT_ICONS_VERSION}
+							</h4>
+						</div>
+						<div className="row">
+							<h4>
 								{new Date().toDateString()} {button}
 							</h4>{" "}
 						</div>
@@ -88,8 +95,7 @@ function App() {
 
 				<div>
 					{objectUrls.length === 0 && (
-						<>
-							<p>Select your folder!</p>
+						<div style={{ paddingTop: "2rem" }}>
 							<input
 								type="file"
 								id="dcmFolderSelector"
@@ -100,8 +106,15 @@ function App() {
 								ref={__addDirectory}
 								onChange={__onUploadhandler}
 								accept="image/svg"
+								class="hidden"
 							/>
-						</>
+							<label
+								htmlFor="dcmFolderSelector"
+								className="btn btn-primary"
+							>
+								Select your folder!
+							</label>
+						</div>
 					)}
 					<IconList fileList={objectUrls} files={files} />{" "}
 				</div>
