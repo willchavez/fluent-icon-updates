@@ -2,7 +2,7 @@
 	"name": "view-exported-icons",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://williamch-ms.github.io/fluent-icon-updates",
+	"homepage": "https://williamch-ms.github.io/fluent-icon-updates/docs",
 	"dependencies": {
 		"@fluentui/react-icons": "^2.0.166-rc.3",
 		"@griffel/react": "^1.0.2",
@@ -29,7 +29,7 @@
 		"test": "react-scripts test",
 		"eject": "react-scripts eject",
 		"predeploy": "npm run build",
-		 "deploy": "gh-pages -d build"
+		"deploy": "gh-pages -d build"
 	},
 	"eslintConfig": {
 		"extends": [
