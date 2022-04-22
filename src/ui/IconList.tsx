@@ -61,7 +61,7 @@ export const IconList = (props: IconListProps) => {
 					iconName.includes("_new") ||
 					iconName === "text direction horizontal left"
 				)
-					return
+					return <div></div>
 				console.log(iconName)
 				let regularIcon = ""
 				let filledIcon = ""
