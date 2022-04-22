@@ -57,6 +57,12 @@ export const IconList = (props: IconListProps) => {
 			{props.files.length > 0 && gridHeader()}
 
 			{Object.keys(fileNameTree).map((iconName: any, index: number) => {
+				if (
+					iconName.includes("_new") ||
+					iconName === "text direction horizontal left"
+				)
+					return
+				console.log(iconName)
 				let regularIcon = ""
 				let filledIcon = ""
 
@@ -68,8 +74,9 @@ export const IconList = (props: IconListProps) => {
 				})
 
 				for (let i = typesAndSizes.length - 1; i >= 0; i--) {
-					if (typesAndSizes[i].style === "regular" && !regularIcon)
+					if (typesAndSizes[i].style === "regular" && !regularIcon) {
 						regularIcon = typesAndSizes[i].urlPath
+					}
 					if (typesAndSizes[i].style === "filled" && !filledIcon)
 						filledIcon = typesAndSizes[i].urlPath
 				}
@@ -96,23 +103,23 @@ export const IconList = (props: IconListProps) => {
 					currentSVGRegular = fileNameTree[iconName][
 						`${Object.keys(fileNameTree[iconName])[0]}`
 					].find((x: any) => x.style === "regular").urlPath
+				}
 
-					if (
-						!iconName.includes("_new") &&
-						fileNameTree[iconName][
-							`${Object.keys(fileNameTree[iconName])[0]}`
-						].find((x: any) => x.style === "filled")
-					) {
-						previousSVGFilled = fileNameTree[iconName][
-							`${Object.keys(fileNameTree[iconName])[0]}`
-						]
-							.find((x: any) => x.style === "filled")
-							.component({ title: "idk" })
+				if (
+					!iconName.includes("_new") &&
+					fileNameTree[iconName][
+						`${Object.keys(fileNameTree[iconName])[0]}`
+					].find((x: any) => x.style === "filled")
+				) {
+					previousSVGFilled = fileNameTree[iconName][
+						`${Object.keys(fileNameTree[iconName])[0]}`
+					]
+						.find((x: any) => x.style === "filled")
+						.component({ title: "idk" })
 
-						currentSVGFilled = fileNameTree[iconName][
-							`${Object.keys(fileNameTree[iconName])[0]}`
-						].find((x: any) => x.style === "filled").urlPath
-					}
+					currentSVGFilled = fileNameTree[iconName][
+						`${Object.keys(fileNameTree[iconName])[0]}`
+					].find((x: any) => x.style === "filled").urlPath
 				}
 
 				return (
@@ -133,19 +140,28 @@ export const IconList = (props: IconListProps) => {
 							{Object.keys(fileNameTree[iconName]).join(", ")}
 						</div>
 						<div className="col">
-							<Icon element={regularIcon} altText="" />
+							{regularIcon ? (
+								<Icon element={regularIcon} altText="" />
+							) : (
+								<div className="lineline"></div>
+							)}
 						</div>
 						<div className="col">
-							<Icon element={filledIcon} altText="" />
+							{filledIcon ? (
+								<Icon element={filledIcon} altText="" />
+							) : (
+								<div className="lineline"></div>
+							)}
 						</div>
 
 						<div className="col prevCurrentComparison">
-							{!iconName.includes("new") && (
+							{!iconName.includes("new") && regularIcon ? (
 								<div>
 									<div>
 										<Icon
 											element={currentSVGRegular}
 											altText=""
+											isCompare={true}
 										/>
 									</div>
 									<div className="previousICONCompare">
@@ -156,18 +172,20 @@ export const IconList = (props: IconListProps) => {
 										)}
 									</div>
 								</div>
+							) : (
+								<div className="lineline move"></div>
 							)}
 						</div>
-						<div className="col prevCurrentComparison">
-							{!iconName.includes("new") && (
+						<div className="col prevCurrentComparison ">
+							{!iconName.includes("new") && filledIcon ? (
 								<div>
 									<div>
 										<Icon
 											element={currentSVGFilled}
 											altText=""
+											isCompare={true}
 										/>
 									</div>
-
 									<div className="previousICONCompare">
 										{!iconName.includes("_new") ? (
 											previousSVGFilled
@@ -176,6 +194,8 @@ export const IconList = (props: IconListProps) => {
 										)}
 									</div>
 								</div>
+							) : (
+								<div className="lineline "></div>
 							)}
 						</div>
 						{/* <div className="col prevCurrentComparison">

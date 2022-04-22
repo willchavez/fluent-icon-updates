@@ -20,7 +20,7 @@
 
 .previousICONCompare svg path {
 	fill: #d83b01;
-	opacity: 0.9;
+	opacity: 0.4;
 }
 
 .row .col {
@@ -30,7 +30,6 @@
 	letter-spacing: 0.1em;
 	font-weight: 350;
 }
-
 
 .headerRow .col {
 	font-family: Segoe UI, Frutiger, Frutiger Linotype, Dejavu Sans,
@@ -69,4 +68,15 @@
 }
 .updatedIcon {
 	color: #d83b01;
+}
+
+.lineline {
+	border-bottom: #e5e5e5 6px solid;
+	width: 90px;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.move {
+	transform: translateY(-500%);
 }
