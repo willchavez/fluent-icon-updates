@@ -195,7 +195,7 @@ export const IconList = (props: IconListProps) => {
 									</div>
 								</div>
 							) : (
-								<div className="lineline "></div>
+								<div className="lineline move"></div>
 							)}
 						</div>
 						{/* <div className="col prevCurrentComparison">
