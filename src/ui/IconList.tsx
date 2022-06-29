@@ -70,7 +70,6 @@ export const IconList = (props: IconListProps) => {
 				let sizeKeys = Object.keys(fileNameTree[iconName])
 				sizeKeys.map((size) => {
 					typesAndSizes.push(...fileNameTree[iconName][size])
-					return undefined
 				})
 
 				for (let i = typesAndSizes.length - 1; i >= 0; i--) {
@@ -88,37 +87,42 @@ export const IconList = (props: IconListProps) => {
 
 				let currentSVGFilled = ""
 
+
+
+
+
+
 				if (
 					!iconName.includes("_new") &&
 					fileNameTree[iconName][
-						`${Object.keys(fileNameTree[iconName])[0]}`
+						`${sizeKeys[0]}`
 					].find((x: any) => x.style === "regular")
 				) {
 					previousSVGRegular = fileNameTree[iconName][
-						`${Object.keys(fileNameTree[iconName])[0]}`
+						`${sizeKeys[0]}`
 					]
 						.find((x: any) => x.style === "regular")
 						.component({ title: "idk" })
 
 					currentSVGRegular = fileNameTree[iconName][
-						`${Object.keys(fileNameTree[iconName])[0]}`
+						`${sizeKeys[0]}`
 					].find((x: any) => x.style === "regular").urlPath
 				}
 
 				if (
 					!iconName.includes("_new") &&
 					fileNameTree[iconName][
-						`${Object.keys(fileNameTree[iconName])[0]}`
+						`${sizeKeys[0]}`
 					].find((x: any) => x.style === "filled")
 				) {
 					previousSVGFilled = fileNameTree[iconName][
-						`${Object.keys(fileNameTree[iconName])[0]}`
+						`${sizeKeys[0]}`
 					]
 						.find((x: any) => x.style === "filled")
 						.component({ title: "idk" })
 
 					currentSVGFilled = fileNameTree[iconName][
-						`${Object.keys(fileNameTree[iconName])[0]}`
+						`${sizeKeys[0]}`
 					].find((x: any) => x.style === "filled").urlPath
 				}
 
@@ -137,7 +141,7 @@ export const IconList = (props: IconListProps) => {
 							</div>
 						</div>
 						<div className="col">
-							{Object.keys(fileNameTree[iconName]).join(", ")}
+							{sizeKeys.join(", ")}
 						</div>
 						<div className="col">
 							{regularIcon ? (
