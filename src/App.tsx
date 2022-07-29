@@ -42,7 +42,10 @@ function App() {
 			style={{ marginLeft: "2rem", height: "35px" }}
 			onClick={() => {
 				html2canvas(
-					document.querySelector("#app") || new HTMLElement()
+					document.querySelector("#app") || new HTMLElement(),
+					{
+						scale: 3,
+					}
 				).then((canvas: any) => {
 					var image = canvas
 						.toDataURL("image/png")
