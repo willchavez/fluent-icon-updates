@@ -4,7 +4,7 @@
     "private": true,
     "homepage": "https://williamch-ms.github.io/fluent-icon-updates",
     "dependencies": {
-        "@fluentui/react-icons": "^2.0.185",
+        "@fluentui/react-icons": "^2.0.186",
         "@griffel/react": "^1.0.2",
         "@octokit/rest": "^18.12.0",
         "@testing-library/jest-dom": "^5.16.1",
@@ -25,7 +25,7 @@
     },
     "scripts": {
         "start": "react-scripts start",
-        "build": "GENERATE_SOURCEMAP=false react-scripts build && mv build docs",
+        "build": "GENERATE_SOURCEMAP=false react-scripts build && rm -r docs/* && cp -a build/. docs",
         "test": "react-scripts test",
         "eject": "react-scripts eject",
         "predeploy": "npm run build",
