@@ -4,6 +4,7 @@
     "private": true,
     "homepage": "https://williamch-ms.github.io/fluent-icon-updates",
     "dependencies": {
+        "@fluentui/react": "^8.101.0",
         "@fluentui/react-icons": "^2.0.186",
         "@griffel/react": "^1.0.2",
         "@octokit/rest": "^18.12.0",
@@ -50,6 +51,8 @@
         ]
     },
     "devDependencies": {
-        "gh-pages": "^3.2.3"
+        "eslint-config-prettier": "^8.5.0",
+        "gh-pages": "^3.2.3",
+        "prettier": "2.7.1"
     }
 }

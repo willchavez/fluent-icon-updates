@@ -1,299 +1,140 @@
-import * as React from "react"
-import { Icon } from "./Icon"
-import "./IconList.css"
-import { findSVGsInReactPackage } from "../api/fetchicons"
-import { addNewUpdated, sanitizeFileNames } from "../util/helpers"
+import * as React from 'react';
+import { Icon } from './Icon';
+import './IconList.css';
+import { findSVGsInReactPackage } from '../api/fetchicons';
+import {
+	addNewUpdated,
+	convertToObject,
+	sanitizeFileNames,
+} from '../util/helpers';
+import { Base64 } from 'js-base64';
 
 export interface IconListProps {
-	fileList: any[]
-	files: any
+	// fileList: any[]
+	// files: any
+	previousIcons: any[];
+	currentIcons: any[];
 }
 
 export const IconList = (props: IconListProps) => {
-	let changedFileNames = sanitizeFileNames(props.files)
-	let [fileNameTree, setFileNameTree]: any[] = React.useState({})
+	let [iconTree, setIconTree]: any = React.useState({});
 
 	React.useEffect(() => {
-		async function fetchMyAPI() {
-			let data = await findSVGsInReactPackage(changedFileNames)
-
-			for (var i = 0; i < data.length; i++) {
-				if (data[i]) {
-					changedFileNames[i].status = "updated"
-					changedFileNames[i].component = data[i].module
-					changedFileNames[i].reactComponentName = data[i].name
-				} else {
-					changedFileNames[i].status = "new"
-				}
-			}
-			setFileNameTree(addNewUpdated(changedFileNames, props.fileList))
-			// setPreviousSVGs(data)
+		if (props.previousIcons.length > 1 && props.currentIcons.length > 1) {
+			setIconTree(
+				convertToObject(props.previousIcons, props.currentIcons)
+			);
 		}
-
-		fetchMyAPI()
-		// eslint-disable-next-line react-hooks/exhaustive-deps
-	}, [JSON.stringify(props.fileList)])
-
+	}, [props.previousIcons, props.currentIcons]);
 	let gridHeader = () => {
 		return (
-			<div className="row headerRow">
-				{/* <div className="col">Name</div>
-				<div className="col">Icon</div>
-				<div className="col">Regular/Filled Icons Overlapped</div>
-				<div className="col">Published Icon in Github</div>
-				<div className="col">Published/Current Icon Overlapped</div> */}
-
-				<div className="col">ICON NAME</div>
-				<div className="col">SIZE</div>
-				<div className="col">REGULAR</div>
-				<div className="col">FILLED</div>
-				<div className="col">DIFFERENCE</div>
-				<div className="col"></div>
+			<div className='row headerRow'>
+				<div className='col'>ICON NAME</div>
+				<div className='col'>SIZE</div>
+				<div className='col'>REGULAR</div>
+				<div className='col'>FILLED</div>
+				<div className='col'>DIFFERENCE</div>
+				<div className='col'></div>
 			</div>
-		)
-	}
+		);
+	};
+	console.log('icontree');
+	console.log(iconTree);
 	return (
-		<div className="container main">
-			{props.files.length > 0 && gridHeader()}
+		<div className='container main'>
+			{Object.keys(iconTree).length > 0 && gridHeader()}
+			{/* {props.files.length > 0 && gridHeader()} */}
 
-			{Object.keys(fileNameTree).map((iconName: any, index: number) => {
-				if (
-					iconName.includes("_new") ||
-					iconName === "text direction horizontal left"
-				)
-					return <div></div>
-				console.log(iconName)
-				let regularIcon = ""
-				let filledIcon = ""
+			{Object.keys(iconTree).map((name: any, index: number) => {
+				let sizes = Object.keys(iconTree[name]);
 
-				let typesAndSizes: any[] = []
-				let sizeKeys = Object.keys(fileNameTree[iconName])
-				sizeKeys.map((size) => {
-					typesAndSizes.push(...fileNameTree[iconName][size])
-				})
+				let regularCurrentIcon,
+					filledCurrentIcon,
+					regularPreviousIcon,
+					filledPreviousIcon;
+				if (sizes.length > 0) {
+					let regularCurrent =
+						iconTree[name][sizes[0]].regular?.current;
+					let filledCurrent =
+						iconTree[name][sizes[0]].filled?.current;
+					let regularPrevious =
+						iconTree[name][sizes[0]]?.regular?.previous;
+					let filledPrevious =
+						iconTree[name][sizes[0]]?.filled?.previous;
 
-				for (let i = typesAndSizes.length - 1; i >= 0; i--) {
-					if (typesAndSizes[i].style === "regular" && !regularIcon) {
-						regularIcon = typesAndSizes[i].urlPath
+					if (regularCurrent) {
+						regularCurrentIcon =
+							Base64.decode(regularCurrent?.content) || null;
 					}
-					if (typesAndSizes[i].style === "filled" && !filledIcon)
-						filledIcon = typesAndSizes[i].urlPath
-				}
 
-				let previousSVGRegular = <></>
-				let previousSVGFilled = <></>
+					if (filledCurrent) {
+						filledCurrentIcon =
+							Base64.decode(filledCurrent?.content) || null;
+					}
 
-				let currentSVGRegular = ""
+					if (regularPrevious) {
+						regularPreviousIcon =
+							Base64.decode(regularPrevious?.content) || null;
+					}
 
-				let currentSVGFilled = ""
-
-
-
-
-
-
-				if (
-					!iconName.includes("_new") &&
-					fileNameTree[iconName][
-						`${sizeKeys[0]}`
-					].find((x: any) => x.style === "regular")
-				) {
-					previousSVGRegular = fileNameTree[iconName][
-						`${sizeKeys[0]}`
-					]
-						.find((x: any) => x.style === "regular")
-						.component({ title: "idk" })
-
-					currentSVGRegular = fileNameTree[iconName][
-						`${sizeKeys[0]}`
-					].find((x: any) => x.style === "regular").urlPath
-				}
-
-				if (
-					!iconName.includes("_new") &&
-					fileNameTree[iconName][
-						`${sizeKeys[0]}`
-					].find((x: any) => x.style === "filled")
-				) {
-					previousSVGFilled = fileNameTree[iconName][
-						`${sizeKeys[0]}`
-					]
-						.find((x: any) => x.style === "filled")
-						.component({ title: "idk" })
-
-					currentSVGFilled = fileNameTree[iconName][
-						`${sizeKeys[0]}`
-					].find((x: any) => x.style === "filled").urlPath
+					if (filledPrevious) {
+						filledPreviousIcon =
+							Base64.decode(filledPrevious?.content) || null;
+					}
 				}
 
 				return (
-					<div className="row">
-						<div className="col">
-							{iconName.includes("_new") ? (
-								<div className="newIcon">NEW</div>
-							) : (
-								<div className="updatedIcon">UPDATED</div>
-							)}
-							<div className="iconLabel">
-								{iconName.includes("_new")
-									? iconName.replace("_new", "")
-									: iconName}
-							</div>
+					<div className='row'>
+						<div className='col'>
+							<div className='updatedIcon'>UPDATED</div>
+							<div className='iconLabel'>{name}</div>
 						</div>
-						<div className="col">
-							{sizeKeys.join(", ")}
-						</div>
-						<div className="col">
-							{regularIcon ? (
-								<Icon element={regularIcon} altText="" />
-							) : (
-								<div className="lineline"></div>
-							)}
-						</div>
-						<div className="col">
-							{filledIcon ? (
-								<Icon element={filledIcon} altText="" />
-							) : (
-								<div className="lineline"></div>
-							)}
-						</div>
+						<div className='col'>{sizes}</div>
+						<div
+							className='col icon'
+							dangerouslySetInnerHTML={{
+								__html: regularCurrentIcon || '',
+							}}
+						></div>
+						<div
+							className='col icon'
+							dangerouslySetInnerHTML={{
+								__html: filledCurrentIcon || '',
+							}}
+						></div>
+						<div className='col'>
+							<div
+								className='icon compare current'
+								dangerouslySetInnerHTML={{
+									__html: regularCurrentIcon || '',
+								}}
+							></div>
 
-						<div className="col prevCurrentComparison">
-							{!iconName.includes("new") && regularIcon ? (
-								<div>
-									<div>
-										<Icon
-											element={currentSVGRegular}
-											altText=""
-											isCompare={true}
-										/>
-									</div>
-									<div className="previousICONCompare">
-										{!iconName.includes("_new") ? (
-											previousSVGRegular
-										) : (
-											<div></div>
-										)}
-									</div>
-								</div>
-							) : (
-								<div className="lineline move"></div>
-							)}
+							<div
+								className='icon compare previous'
+								dangerouslySetInnerHTML={{
+									__html: regularPreviousIcon || '',
+								}}
+							></div>
 						</div>
-						<div className="col prevCurrentComparison ">
-							{!iconName.includes("new") && filledIcon ? (
-								<div>
-									<div>
-										<Icon
-											element={currentSVGFilled}
-											altText=""
-											isCompare={true}
-										/>
-									</div>
-									<div className="previousICONCompare">
-										{!iconName.includes("_new") ? (
-											previousSVGFilled
-										) : (
-											<div></div>
-										)}
-									</div>
-								</div>
-							) : (
-								<div className="lineline move"></div>
-							)}
+						<div className='col'>
+							<div
+								className='icon compare current'
+								dangerouslySetInnerHTML={{
+									__html: filledCurrentIcon || '',
+								}}
+							></div>
+
+							<div
+								className='icon compare previous'
+								dangerouslySetInnerHTML={{
+									__html: filledPreviousIcon || '',
+								}}
+							></div>
 						</div>
-						{/* <div className="col prevCurrentComparison">
-							{previousSVGs.length > 0 && previousSVGs[index] && (
-								<>
-									<div>
-										<Icon
-											element={el}
-											altText={props.files[index]}
-										/>
-									</div>
-									<div
-										className="previousICONCompare"
-										dangerouslySetInnerHTML={{
-											__html: previousSVGs[index],
-										}}
-									/>
-								</>
-							)}
-						</div> */}
 					</div>
-				)
-				// let labelBoolean: boolean =
-				// 	index > 0 &&
-				// 	changedFileNames[index].name ===
-				// 		 [index - 1].name &&
-				// 	changedFileNames[index].size ===
-				// 		changedFileNames[index - 1].size
-				// let iconName = (
-				// 	<div className="iconLabel">
-				// 		{changedFileNames[index].name}{" "}
-				// 		{changedFileNames[index].size}{" "}
-				// 		{changedFileNames[index].style}
-				// 	</div>
-				// )
-				// let current = {
-				// 	element: el,
-				// 	altText: props.files[index],
-				// }
-				// let previous = {
-				// 	element: props.fileList[index + 1],
-				// 	altText: props.files[index + 1],
-				// }
-				// if (labelBoolean) {
-				// 	previous = {
-				// 		element: props.fileList[index - 1],
-				// 		altText: props.files[index - 1],
-				// 	}
-				// }
-				// return (
-				// 	<div className="row flex-grow-1">
-				// 		<div className="col nameLabel">{iconName}</div>
-				// 		<div className="col">
-				// 			<Icon element={el} altText={props.files[index]} />
-				// 		</div>
-				// 		<div className="col">
-				/* <OverlappingIcon
-								current={current}
-								previous={previous}
-							/> */
-				// 	</div>
-				// 	<div className="col">
-				// 		{previousSVGs.length > 0 && previousSVGs[index] ? (
-				// 			<div
-				// 				className="previousICON"
-				// 				dangerouslySetInnerHTML={{
-				// 					__html: previousSVGs[index],
-				// 				}}
-				// 			/>
-				// 		) : (
-				// 			<div>new</div>
-				// 		)}
-				// 	</div>
-				// <div className="col prevCurrentComparison">
-				// 	{previousSVGs.length > 0 && previousSVGs[index] && (
-				// 		<>
-				// 			<div>
-				// 				<Icon
-				// 					element={el}
-				// 					altText={props.files[index]}
-				// 				/>
-				// 			</div>
-				// 			<div
-				// 				className="previousICONCompare"
-				// 				dangerouslySetInnerHTML={{
-				// 					__html: previousSVGs[index],
-				// 				}}
-				// 			/>
-				// 		</>
-				// 	)}
-				// </div>
-				// </div>
-				// 	)
+				);
 			})}
 		</div>
-	)
-}
+	);
+};
