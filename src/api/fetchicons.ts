@@ -1,9 +1,7 @@
 import { Octokit } from '@octokit/rest';
 import { Base64 } from 'js-base64';
 
-const octokit = new Octokit({
-	auth: process.env.REACT_APP_PERSONAL_ACCESS_TOKEN,
-});
+const octokit = new Octokit();
 
 async function CompareCommits(fromCommit: string, toCommit: string) {
 	const response = await octokit.request(
