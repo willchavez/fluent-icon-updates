@@ -1,11 +1,7 @@
 import * as React from 'react';
-import { Icon } from './Icon';
 import './IconList.css';
-import { findSVGsInReactPackage } from '../api/fetchicons';
 import {
-	addNewUpdated,
 	convertToObject,
-	sanitizeFileNames,
 } from '../util/helpers';
 import { Base64 } from 'js-base64';
 

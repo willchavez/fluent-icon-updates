@@ -4,11 +4,8 @@ import { IconList } from '../ui/IconList';
 import { PrimaryButton } from '@fluentui/react/lib/Button';
 import { useBoolean } from '@fluentui/react-hooks';
 import {
-	fetchSVGCODE,
-	fetchSVGCODE2,
 	getBothVersionsOfFile,
 } from '../api/fetchicons';
-import { Base64 } from 'js-base64';
 
 export function IconContent(props: any) {
 	let [changedFiles, setChangedFiles]: any = useState([]);
@@ -48,7 +45,7 @@ export function IconContent(props: any) {
 				});
 				showDialog();
 			}
-	}, [changedFiles, parentFromCommitSha, parentToCommitSha]);
+	}, [changedFiles, parentFromCommitSha, parentToCommitSha, showDialog]);
 
 	return (
 		<>
