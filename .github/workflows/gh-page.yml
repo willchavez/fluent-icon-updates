@@ -1,0 +1,28 @@
+name: gh-page
+
+on:
+  push:
+    branches:
+      - williamch/octokit_integration
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    
+    - name: Checkout
+      uses: actions/checkout@v3
+
+    - name: Build
+      run: |
+        npm install
+        npm run build
+      env:
+        REACT_APP_PERSONAL_ACCESS_TOKEN: ${{ secrets.REACT_APP_PERSONAL_ACCESS_TOKEN }}
+
+    - name: Deploy
+      uses: JamesIves/github-pages-deploy-action@releases/v4
+      with:
+        FOLDER: build
