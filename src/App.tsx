@@ -46,17 +46,11 @@ function App() {
 
 	return (
 		<div className='App'>
-			<div id='app' style={{ paddingBottom: '1rem' }}>
+			<div style={{ paddingBottom: '1rem' }}>
 				<header className='App-header'>
 					<div className='container'>
 						<div className='row'>
 							<h1>Fluent Icon Updates</h1>
-						</div>
-						<div className='row'>
-							<h4>
-								Using @fluentui/react-icons@
-								{process.env.REACT_APP_FLUENT_ICONS_VERSION}
-							</h4>
 						</div>
 						<div className='row'>
 							<h4>

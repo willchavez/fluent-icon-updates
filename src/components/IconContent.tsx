@@ -3,12 +3,13 @@ import { DialogLargeHeaderExample } from './Dialog';
 import { IconList } from '../ui/IconList';
 import { PrimaryButton } from '@fluentui/react/lib/Button';
 import { useBoolean } from '@fluentui/react-hooks';
-import {
-	getBothVersionsOfFile,
-} from '../api/fetchicons';
+import { getBothVersionsOfFile } from '../api/fetchicons';
+import { TextIconList } from '../ui/TextIconList';
 
 export function IconContent(props: any) {
 	let [changedFiles, setChangedFiles]: any = useState([]);
+	let [addedFiles, setAddedFiles]: any = useState([]);
+	let [renamedFiles, setRenamedFiles]: any = useState([]);
 
 	let [parentFromCommitSha, setParentFromCommitSha] = React.useState('');
 	let [parentToCommitSha, setParentToCommitSha] = React.useState('');
@@ -20,7 +21,6 @@ export function IconContent(props: any) {
 		useBoolean(true);
 
 	useEffect(() => {
-		console.log(changedFiles);
 		if (parentFromCommitSha && parentToCommitSha && changedFiles.length > 1)
 			for (let file of changedFiles) {
 				getBothVersionsOfFile(
@@ -47,6 +47,17 @@ export function IconContent(props: any) {
 			}
 	}, [changedFiles, parentFromCommitSha, parentToCommitSha, showDialog]);
 
+	useEffect(() => {
+		console.log('Added Files');
+		console.log(addedFiles);
+	}, [addedFiles, setAddedFiles]);
+
+	useEffect(() => {
+		console.log('Renamed Files');
+
+		console.log(renamedFiles);
+	}, [renamedFiles, setRenamedFiles]);
+
 	return (
 		<>
 			<div>
@@ -54,6 +65,18 @@ export function IconContent(props: any) {
 					previousIcons={previousIcons}
 					currentIcons={currentIcons}
 				/>
+				<div>
+					{/* Added Icons */}
+					<TextIconList
+						addedFiles={addedFiles}
+						status='Added'
+					></TextIconList>
+					{/* Updated Icons */}
+					<TextIconList
+						addedFiles={changedFiles}
+						status='Updated'
+					></TextIconList>
+				</div>
 			</div>
 
 			{previousIcons.length === 0 && currentIcons.length === 0 && (
@@ -75,6 +98,8 @@ export function IconContent(props: any) {
 				open={value}
 				toggleDialogVisible={toggleDialogVisible}
 				setChangedFiles={setChangedFiles}
+				setAddedFiles={setAddedFiles}
+				setRenamedFiles={setRenamedFiles}
 				setParentFromCommitSha={setParentFromCommitSha}
 				setParentToCommitSha={setParentToCommitSha}
 			></DialogLargeHeaderExample>

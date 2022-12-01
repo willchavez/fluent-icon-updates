@@ -1,17 +1,27 @@
 import * as React from 'react';
-import { Dialog, DialogType, DialogContent } from '@fluentui/react/lib/Dialog';
+import {
+	Dialog,
+	DialogType,
+	DialogContent,
+	DialogFooter,
+} from '@fluentui/react/lib/Dialog';
 import { CompareCommits, GetBranches, RecentCommits } from '../api/fetchicons';
-import { Dropdown, IDropdownOption, PrimaryButton } from '@fluentui/react';
+import {
+	Dropdown,
+	IDropdownOption,
+	Label,
+	PrimaryButton,
+} from '@fluentui/react';
 import { useBoolean } from '@fluentui/react-hooks';
 
 const modelProps = {
 	isBlocking: false,
 	styles: {
 		main: {
-			minWidth: 450,
-			width: 450,
-			height: 450,
-			minHeight: 450,
+			minWidth: '500px !important',
+			width: '500px !important',
+			height: '500px !important',
+			minHeight: '500px !important',
 		},
 	},
 };
@@ -79,18 +89,25 @@ export const DialogLargeHeaderExample: React.FC<any> = (props: any) => {
 
 	let getComparison = (from: string, to: string) => {
 		CompareCommits(from, to).then((response) => {
-			console.log(response);
-			console.log(
+			props.setChangedFiles(
 				response.data.files?.filter(
 					(file: any) =>
 						file.status === 'modified' &&
 						file.filename.includes('.svg')
 				)
 			);
-			props.setChangedFiles(
+			props.setRenamedFiles(
 				response.data.files?.filter(
 					(file: any) =>
-						file.status === 'modified' &&
+						file.status === 'renamed' &&
+						file.filename.includes('.svg')
+				)
+			);
+
+			props.setAddedFiles(
+				response.data.files?.filter(
+					(file: any) =>
+						file.status === 'added' &&
 						file.filename.includes('.svg')
 				)
 			);
@@ -108,14 +125,20 @@ export const DialogLargeHeaderExample: React.FC<any> = (props: any) => {
 				modalProps={modelProps}
 			>
 				<DialogContent>
+					<Label>From commit:</Label>
+
 					<Dropdown
 						placeholder='Select a commit'
-						label='From'
+						label='Commit'
 						options={fromCommitOptions}
 						onChange={(event, option) => {
 							setFromCommitSha(option?.key.toString() || '');
 						}}
 					/>
+
+					<Label styles={{ root: { paddingTop: '2rem !important' } }}>
+						To commit:
+					</Label>
 
 					<Dropdown
 						placeholder='Select a branch'
@@ -132,13 +155,15 @@ export const DialogLargeHeaderExample: React.FC<any> = (props: any) => {
 
 					<Dropdown
 						placeholder='Select a commit'
-						label='To Commit'
+						label='Commit'
 						options={toCommitOptions}
 						disabled={!isBranchSelected}
 						onChange={(event, option) => {
 							setToCommitSha(option?.key.toString() || '');
 						}}
 					/>
+				</DialogContent>
+				<DialogFooter>
 					<PrimaryButton
 						text='See icon changes'
 						disabled={!fromCommitSha && !toCommitSha}
@@ -146,7 +171,7 @@ export const DialogLargeHeaderExample: React.FC<any> = (props: any) => {
 							getComparison(fromCommitSha, toCommitSha);
 						}}
 					></PrimaryButton>
-				</DialogContent>
+				</DialogFooter>
 			</Dialog>
 		</>
 	);

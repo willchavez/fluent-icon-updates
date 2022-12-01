@@ -1,8 +1,6 @@
 import * as React from 'react';
 import './IconList.css';
-import {
-	convertToObject,
-} from '../util/helpers';
+import { convertToObject } from '../util/helpers';
 import { Base64 } from 'js-base64';
 
 export interface IconListProps {
@@ -37,7 +35,7 @@ export const IconList = (props: IconListProps) => {
 	console.log('icontree');
 	console.log(iconTree);
 	return (
-		<div className='container main'>
+		<div className='container main' id='app'>
 			{Object.keys(iconTree).length > 0 && gridHeader()}
 			{/* {props.files.length > 0 && gridHeader()} */}
 
@@ -85,7 +83,7 @@ export const IconList = (props: IconListProps) => {
 							<div className='updatedIcon'>UPDATED</div>
 							<div className='iconLabel'>{name}</div>
 						</div>
-						<div className='col'>{sizes}</div>
+						<div className='col'>{sizes.join(', ')}</div>
 						<div
 							className='col icon'
 							dangerouslySetInnerHTML={{
