@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/fluent-icon-updates/static/css/main.387f784e.css",
-    "main.js": "/fluent-icon-updates/static/js/main.37da9b18.js",
-    "static/js/143.30e177ba.chunk.js": "/fluent-icon-updates/static/js/143.30e177ba.chunk.js",
+    "main.js": "/fluent-icon-updates/static/js/main.d52e4b12.js",
+    "static/js/282.9994c2c6.chunk.js": "/fluent-icon-updates/static/js/282.9994c2c6.chunk.js",
     "static/js/27.0924ff45.chunk.js": "/fluent-icon-updates/static/js/27.0924ff45.chunk.js",
     "index.html": "/fluent-icon-updates/index.html"
   },
   "entrypoints": [
     "static/css/main.387f784e.css",
-    "static/js/main.37da9b18.js"
+    "static/js/main.d52e4b12.js"
   ]
 }
