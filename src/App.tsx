@@ -80,7 +80,7 @@ function App() {
 						</div>
 						<div className='row'>
 							<h4>
-								Using @fluentui/react-icons@
+								Using @fluentui/svg-icons@
 								{process.env.REACT_APP_FLUENT_ICONS_VERSION}
 							</h4>
 						</div>

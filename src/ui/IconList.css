@@ -18,9 +18,8 @@
 	height: 50px;
 }
 
-.previousICONCompare svg path {
-	fill: #d83b01;
-	opacity: 0.4;
+.previousICONCompare img {
+	filter: invert(24%) sepia(57%) saturate(4543%) hue-rotate(15deg) brightness(95%) contrast(99%) opacity(40%);
 }
 
 .row .col {

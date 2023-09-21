@@ -1,7 +1,7 @@
 import * as React from 'react';
 import { Icon } from './Icon';
 import './IconList.css';
-import { findSVGsInReactPackage } from '../api/fetchicons';
+import { findSVGsInSVGPackage } from '../api/fetchicons';
 import { addNewUpdated, sanitizeFileNames } from '../util/helpers';
 
 export interface IconListProps {
@@ -15,8 +15,7 @@ export const IconList = (props: IconListProps) => {
 
 	React.useEffect(() => {
 		async function fetchMyAPI() {
-			let data = await findSVGsInReactPackage(changedFileNames);
-
+			let data = await findSVGsInSVGPackage(changedFileNames);
 			for (var i = 0; i < data.length; i++) {
 				if (data[i]) {
 					changedFileNames[i].status = 'updated';
@@ -27,7 +26,6 @@ export const IconList = (props: IconListProps) => {
 				}
 			}
 			setFileNameTree(addNewUpdated(changedFileNames, props.fileList));
-			// setPreviousSVGs(data)
 		}
 
 		fetchMyAPI();
@@ -37,12 +35,6 @@ export const IconList = (props: IconListProps) => {
 	let gridHeader = () => {
 		return (
 			<div className='row headerRow'>
-				{/* <div className="col">Name</div>
-				<div className="col">Icon</div>
-				<div className="col">Regular/Filled Icons Overlapped</div>
-				<div className="col">Published Icon in Github</div>
-				<div className="col">Published/Current Icon Overlapped</div> */}
-
 				<div className='col'>ICON NAME</div>
 				<div className='col'>SIZE</div>
 				<div className='col'>REGULAR</div>
@@ -52,6 +44,8 @@ export const IconList = (props: IconListProps) => {
 			</div>
 		);
 	};
+
+	console.log(fileNameTree)
 	return (
 		<div className='container main'>
 			{props.files.length > 0 && gridHeader()}
@@ -62,7 +56,6 @@ export const IconList = (props: IconListProps) => {
 					iconName === 'text direction horizontal left'
 				)
 					return <div></div>;
-				console.log(iconName);
 				let regularIcon = '';
 				let filledIcon = '';
 
@@ -80,52 +73,41 @@ export const IconList = (props: IconListProps) => {
 						filledIcon = typesAndSizes[i].urlPath;
 				}
 
-				let previousSVGRegular = <></>;
-				let previousSVGFilled = <></>;
-
 				let currentSVGRegular = '';
-
 				let currentSVGFilled = '';
+				let previousSVGFilled: any;
+				let previousSVGRegular: any;
 
 				if (
 					!iconName.includes('_new') &&
-					fileNameTree[iconName][`${sizeKeys[0]}`].find(
+					fileNameTree[iconName][`${sizeKeys[0]}`]?.find(
 						(x: any) => x.style === 'regular'
 					)
 				) {
 					previousSVGRegular = fileNameTree[iconName][
 						`${sizeKeys[0]}`
-					]
-						.find((x: any) => x.style === 'regular')
-						.component({ title: 'idk' });
+					]?.find((x: any) => x.style === 'regular')?.component;
 
 					currentSVGRegular = fileNameTree[iconName][
 						`${sizeKeys[0]}`
-					].find((x: any) => x.style === 'regular').urlPath;
+					]?.find((x: any) => x.style === 'regular').urlPath;
 				}
 
 				if (
 					!iconName.includes('_new') &&
-					fileNameTree[iconName][`${sizeKeys[0]}`].find(
+					fileNameTree[iconName][`${sizeKeys[0]}`]?.find(
 						(x: any) => x.style === 'filled'
 					)
 				) {
-					previousSVGFilled = fileNameTree[iconName][`${sizeKeys[0]}`]
-						.find((x: any) => x.style === 'filled')
-						.component({ title: 'idk' });
+					previousSVGFilled = fileNameTree[iconName][
+						`${sizeKeys[0]}`
+					]?.find((x: any) => x.style === 'filled')?.component;
 
 					currentSVGFilled = fileNameTree[iconName][
 						`${sizeKeys[0]}`
-					].find((x: any) => x.style === 'filled').urlPath;
+					]?.find((x: any) => x.style === 'filled').urlPath;
 				}
 
-				console.log('stuff');
-
-				console.log(sizeKeys[0]);
-				console.log(previousSVGRegular);
-				console.log(currentSVGRegular);
-				console.log(previousSVGFilled);
-				console.log(currentSVGFilled);
 
 				return (
 					<div className='row'>
@@ -156,7 +138,6 @@ export const IconList = (props: IconListProps) => {
 								<div className='lineline'></div>
 							)}
 						</div>
-
 						<div className='col prevCurrentComparison'>
 							{!iconName.includes('new') && regularIcon ? (
 								<div>
@@ -173,7 +154,11 @@ export const IconList = (props: IconListProps) => {
 									</div>
 									<div className='previousICONCompare'>
 										{!iconName.includes('_new') ? (
-											previousSVGRegular
+											<Icon
+												element={previousSVGRegular}
+												altText=''
+												isCompare={false}
+											/>
 										) : (
 											<div></div>
 										)}
@@ -199,7 +184,11 @@ export const IconList = (props: IconListProps) => {
 									</div>
 									<div className='previousICONCompare'>
 										{!iconName.includes('_new') ? (
-											previousSVGFilled
+											<Icon
+											element={previousSVGFilled}
+											altText=''
+											isCompare={false}
+										/>
 										) : (
 											<div></div>
 										)}
@@ -209,24 +198,6 @@ export const IconList = (props: IconListProps) => {
 								<div className='lineline move'></div>
 							)}
 						</div>
-						{/* <div className="col prevCurrentComparison">
-							{previousSVGs.length > 0 && previousSVGs[index] && (
-								<>
-									<div>
-										<Icon
-											element={el}
-											altText={props.files[index]}
-										/>
-									</div>
-									<div
-										className="previousICONCompare"
-										dangerouslySetInnerHTML={{
-											__html: previousSVGs[index],
-										}}
-									/>
-								</>
-							)}
-						</div> */}
 					</div>
 				);
 			})}
