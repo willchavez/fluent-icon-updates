@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[619284],{619284:function(e,s,i){e.exports=i.p+"static/media/mail_open_person_16_regular.26ede3f161d33d78b67a.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[85927],{85927:function(e,c,i){e.exports=i.p+"static/media/comment_multiple_checkmark_20_filled.c2c9b5061647268db9c7.svg"}}]);

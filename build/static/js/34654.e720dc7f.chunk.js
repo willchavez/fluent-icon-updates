@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[34654],{34654:function(e,s,c){e.exports=c.p+"static/media/mic_sparkle_20_regular.812f10c34b2b8f4052d1.svg"}}]);

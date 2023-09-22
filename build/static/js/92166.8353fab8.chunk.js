@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[92166],{92166:function(e,s,t){e.exports=t.p+"static/media/arrow_trending_settings_20_regular.ad96d5aebf3674916fb0.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[445238],{445238:function(e,s,t){e.exports=t.p+"static/media/text_proofing_tools_20_regular.af05596d49739dbe0f53.svg"}}]);

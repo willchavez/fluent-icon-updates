@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[288334],{288334:function(e,c,s){e.exports=s.p+"static/media/people_error_24_filled.8c2cc742f773465c0a01.svg"}}]);

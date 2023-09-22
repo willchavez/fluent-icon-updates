@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[78084],{78084:function(e,t,i){e.exports=i.p+"static/media/text_italic_20_regular.1859f473c1b4dba34729.svg"}}]);

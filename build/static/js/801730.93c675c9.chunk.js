@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[801730],{801730:function(e,s,c){e.exports=c.p+"static/media/puzzle_cube_28_filled.8fc0a58608f4d54e4ef2.svg"}}]);

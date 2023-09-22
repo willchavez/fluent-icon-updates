@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[912065],{912065:function(e,s,i){e.exports=i.p+"static/media/video_person_star_off_24_filled.878051c9818987eefae4.svg"}}]);

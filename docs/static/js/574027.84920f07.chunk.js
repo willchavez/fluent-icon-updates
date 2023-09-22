@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[574027],{574027:function(e,i,s){e.exports=s.p+"static/media/building_factory_32_filled.4dff72c74286fe511812.svg"}}]);

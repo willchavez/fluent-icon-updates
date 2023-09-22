@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[320871],{320871:function(e,s,p){e.exports=p.p+"static/media/person_desktop_20_regular.3499b3e78fbe48be4ad1.svg"}}]);

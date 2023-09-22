@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[364552],{364552:function(e,s,i){e.exports=i.p+"static/media/ink_stroke_arrow_down_20_regular.5d1dfae230c401eed440.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[10499],{10499:function(e,c,s){e.exports=s.p+"static/media/xbox_controller_28_regular.0fb85b5d0d6cd8ccb806.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[926674],{926674:function(e,s,i){e.exports=i.p+"static/media/position_forward_20_regular.16314bff32a1b3db3e9e.svg"}}]);

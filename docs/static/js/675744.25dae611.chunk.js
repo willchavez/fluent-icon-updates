@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[675744],{675744:function(e,c,s){e.exports=s.p+"static/media/color_fill_accent_20_regular.5f6520d7a1a040487d2b.svg"}}]);

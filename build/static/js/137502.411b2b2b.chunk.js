@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[137502],{137502:function(e,s,i){e.exports=i.p+"static/media/immersive_reader_28_regular.ee8207d5c434c2429f81.svg"}}]);

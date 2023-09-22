@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[461773],{461773:function(e,c,i){e.exports=i.p+"static/media/receipt_16_filled.3c50ec10473914368f11.svg"}}]);

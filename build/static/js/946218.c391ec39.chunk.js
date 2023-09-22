@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[946218],{946218:function(e,c,i){e.exports=i.p+"static/media/guardian_24_filled.f83ccded37459c9633a3.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[893751],{893751:function(e,s,t){e.exports=t.p+"static/media/payment_16_regular.60de9f05d27593a872c1.svg"}}]);

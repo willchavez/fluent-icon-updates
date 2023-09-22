@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[924307],{924307:function(e,s,t){e.exports=t.p+"static/media/math_formula_16_regular.0f794fc614e4681f5185.svg"}}]);

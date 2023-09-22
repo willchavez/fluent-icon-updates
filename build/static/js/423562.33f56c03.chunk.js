@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[423562],{423562:function(e,s,c){e.exports=c.p+"static/media/likert_20_regular.ba269fc8e7d7485afcde.svg"}}]);

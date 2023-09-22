@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[219200],{219200:function(e,s,i){e.exports=i.p+"static/media/tap_single_32_filled.e61b58c8a5a3134a5358.svg"}}]);

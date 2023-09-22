@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[220709],{220709:function(e,c,s){e.exports=s.p+"static/media/megaphone_circle_24_regular.c7a52689a9531753d5e7.svg"}}]);

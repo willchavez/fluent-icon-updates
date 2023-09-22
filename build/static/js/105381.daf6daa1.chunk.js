@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[105381],{105381:function(e,s,c){e.exports=c.p+"static/media/phone_key_20_regular.49a1d1c1014407b8529b.svg"}}]);

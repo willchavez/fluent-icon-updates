@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[448395],{448395:function(e,s,t){e.exports=t.p+"static/media/text_indent_increase_20_regular.2474a7549ba69ba51acb.svg"}}]);

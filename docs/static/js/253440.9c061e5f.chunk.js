@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[253440],{253440:function(e,s,i){e.exports=i.p+"static/media/building_desktop_24_regular.b4b3e79d1b902ce60d51.svg"}}]);

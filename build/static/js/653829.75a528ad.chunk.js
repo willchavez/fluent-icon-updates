@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[653829],{653829:function(e,i,s){e.exports=s.p+"static/media/pill_28_filled.2d83544432cde940a2c4.svg"}}]);

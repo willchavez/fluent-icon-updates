@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[498468],{498468:function(e,s,i){e.exports=i.p+"static/media/people_queue_24_filled.4ba1bcb8957d57e962d3.svg"}}]);

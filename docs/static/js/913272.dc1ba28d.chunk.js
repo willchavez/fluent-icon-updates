@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[913272],{913272:function(e,s,i){e.exports=i.p+"static/media/globe_person_20_filled.5b764f659d4919ff8562.svg"}}]);

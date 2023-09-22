@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[901516],{901516:function(e,a,i){e.exports=i.p+"static/media/mail_inbox_checkmark_20_regular.5781a39ba95b1e89ab0b.svg"}}]);

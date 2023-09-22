@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[975152],{975152:function(e,c,s){e.exports=s.p+"static/media/backspace_20_regular.4c4952287bfbc1cb4c4a.svg"}}]);

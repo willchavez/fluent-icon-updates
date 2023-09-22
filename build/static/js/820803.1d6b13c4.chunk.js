@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[820803],{820803:function(e,i,s){e.exports=s.p+"static/media/paint_bucket_16_filled.682f7129e450f6918934.svg"}}]);

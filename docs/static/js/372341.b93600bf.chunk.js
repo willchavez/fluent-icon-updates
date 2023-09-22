@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[372341],{372341:function(e,s,c){e.exports=c.p+"static/media/smartwatch_24_regular.0f671c2a5f8d66cdf402.svg"}}]);

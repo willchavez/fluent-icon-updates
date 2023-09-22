@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[54692],{54692:function(e,s,t){e.exports=t.p+"static/media/sport_basketball_24_filled.3f58efcbf471a28a5d86.svg"}}]);

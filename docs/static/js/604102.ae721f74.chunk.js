@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[604102],{604102:function(e,s,a){e.exports=a.p+"static/media/sport_baseball_24_filled.7aaa7c52ab275f6c7ed5.svg"}}]);

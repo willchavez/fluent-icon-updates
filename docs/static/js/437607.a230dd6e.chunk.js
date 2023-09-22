@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[437607],{437607:function(e,c,s){e.exports=s.p+"static/media/color_background_20_regular.c6ded69b72965d218b08.svg"}}]);

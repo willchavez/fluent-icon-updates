@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[47274],{47274:function(e,s,i){e.exports=i.p+"static/media/phone_briefcase_24_filled.87e39ca610710f243e3a.svg"}}]);

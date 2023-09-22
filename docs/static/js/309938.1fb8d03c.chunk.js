@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[309938],{309938:function(e,i,s){e.exports=s.p+"static/media/hand_right_28_filled.baf44caf453b08f6216a.svg"}}]);

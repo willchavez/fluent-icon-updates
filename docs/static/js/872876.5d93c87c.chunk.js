@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[872876],{872876:function(e,s,t){e.exports=t.p+"static/media/text_bullet_list_square_clock_20_regular.d491dc561ced8d54f68b.svg"}}]);

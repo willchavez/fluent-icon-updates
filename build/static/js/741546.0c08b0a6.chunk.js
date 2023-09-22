@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[741546],{741546:function(e,c,s){e.exports=s.p+"static/media/data_funnel_20_regular.c8dc891fdb9ca25bf7d6.svg"}}]);

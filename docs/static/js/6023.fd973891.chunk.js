@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[6023],{6023:function(e,c,s){e.exports=s.p+"static/media/cube_rotate_20_regular.721ced237a9da73dec6f.svg"}}]);

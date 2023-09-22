@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[829759],{829759:function(e,c,s){e.exports=s.p+"static/media/dual_screen_clock_20_regular.7ae95ac2f308938a5d44.svg"}}]);

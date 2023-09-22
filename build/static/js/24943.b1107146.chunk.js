@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[24943],{24943:function(e,s,t){e.exports=t.p+"static/media/mention_brackets_20_regular.eaba7e16316f524bd4dc.svg"}}]);

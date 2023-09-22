@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[565148],{565148:function(e,s,i){e.exports=i.p+"static/media/pen_dismiss_32_regular.8282a537a526e61f1fc7.svg"}}]);

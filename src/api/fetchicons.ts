@@ -6,7 +6,7 @@ const octokit = new Octokit({
 })
 
 
-const tryRequire = async (componentName: string) => {
+const importSVG = async (componentName: string) => {
 	try {
 		const mod = await import(`@fluentui/svg-icons/icons/${componentName}.svg`);
 		return { module: mod.default, name: componentName }
@@ -36,7 +36,7 @@ let findSVGsInReactPackage = async (sanitizedFilesNames: any[]) => {
 		let capitalizedStyle =
 			file.style.charAt(0).toUpperCase() + file.style.slice(1)
 		let reactComponentName = capitalizedName + file.size + capitalizedStyle
-		resultArr.push(tryRequire(reactComponentName))
+		resultArr.push(importSVG(reactComponentName))
 		return undefined
 	})
 	resultArr = await Promise.all(resultArr)
@@ -47,7 +47,7 @@ let findSVGsInSVGPackage = async (sanitizedFilesNames: any[]) => {
 	let resultArr: any[] = []
 	sanitizedFilesNames.map(async (file) => {
 		let name = file.name.trim().replaceAll(" ", '_') + "_" + file.size + "_" + file.style.trim()
-		resultArr.push(tryRequire(name))
+		resultArr.push(importSVG(name))
 		return undefined
 	})
 	resultArr = await Promise.all(resultArr)

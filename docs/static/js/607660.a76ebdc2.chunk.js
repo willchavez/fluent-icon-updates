@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[607660],{607660:function(e,s,c){e.exports=c.p+"static/media/presence_oof_24_regular.f998927a4c775e1ae91a.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[922698],{922698:function(e,c,i){e.exports=i.p+"static/media/ticket_diagonal_20_regular.13598f0c8953cb2fe0ed.svg"}}]);

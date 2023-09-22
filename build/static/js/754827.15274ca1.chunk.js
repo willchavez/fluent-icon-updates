@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[754827],{754827:function(e,s,i){e.exports=i.p+"static/media/star_emphasis_16_regular.34d0db2068e670fb9e88.svg"}}]);

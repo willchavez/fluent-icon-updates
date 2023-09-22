@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[222806],{222806:function(e,s,t){e.exports=t.p+"static/media/select_object_skew_edit_24_filled.a8e207b7f8f354d0238d.svg"}}]);

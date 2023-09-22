@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[249903],{249903:function(e,s,c){e.exports=c.p+"static/media/barcode_scanner_20_regular.9519a2f865354c2f0562.svg"}}]);

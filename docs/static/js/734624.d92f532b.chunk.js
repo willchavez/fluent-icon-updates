@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[734624],{734624:function(e,c,s){e.exports=s.p+"static/media/vehicle_truck_bag_24_regular.70033c15c8022594f978.svg"}}]);

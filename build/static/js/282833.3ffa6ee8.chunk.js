@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[282833],{282833:function(e,s,i){e.exports=i.p+"static/media/briefcase_16_regular.b58229eae82945f3f4e4.svg"}}]);

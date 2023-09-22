@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[262802],{262802:function(e,a,s){e.exports=s.p+"static/media/calendar_agenda_24_filled.b77d2bfa7da47bee0e49.svg"}}]);

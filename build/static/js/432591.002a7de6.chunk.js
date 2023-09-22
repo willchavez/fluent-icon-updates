@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[432591],{432591:function(e,s,c){e.exports=c.p+"static/media/tablet_speaker_20_regular.120a1c0b99bd8f3c6c00.svg"}}]);

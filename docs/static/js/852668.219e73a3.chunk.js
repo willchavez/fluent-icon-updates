@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[852668],{852668:function(e,i,s){e.exports=s.p+"static/media/animal_cat_24_filled.7e139b28656cd582b8e8.svg"}}]);

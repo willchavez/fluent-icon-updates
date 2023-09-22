@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[17973],{17973:function(e,s,t){e.exports=t.p+"static/media/phone_status_bar_24_regular.6a0817093b619dca7c7d.svg"}}]);

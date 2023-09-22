@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[733157],{733157:function(e,c,i){e.exports=i.p+"static/media/certificate_20_regular.22e96f08f47ae7aba9cb.svg"}}]);

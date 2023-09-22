@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[64624],{64624:function(e,s,c){e.exports=c.p+"static/media/checkmark_starburst_20_regular.761e8fc0253ed6677e5d.svg"}}]);

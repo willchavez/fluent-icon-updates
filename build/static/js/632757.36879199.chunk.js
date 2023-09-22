@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[632757],{632757:function(e,i,o){e.exports=o.p+"static/media/ratio_one_to_one_20_filled.1771355bd7ea5c8939ee.svg"}}]);

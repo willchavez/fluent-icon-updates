@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[244574],{244574:function(e,t,c){e.exports=c.p+"static/media/document_table_truck_24_filled.56b0654402e499fc4f0f.svg"}}]);

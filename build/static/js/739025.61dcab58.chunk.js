@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[739025],{739025:function(e,t,i){e.exports=i.p+"static/media/text_indent_increase_rotate_270_24_filled.7c5f77a228d10b51e7a7.svg"}}]);

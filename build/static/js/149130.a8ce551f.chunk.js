@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[149130],{149130:function(e,c,s){e.exports=s.p+"static/media/subtract_circle_24_regular.fa2d079e4a25ae0c780e.svg"}}]);

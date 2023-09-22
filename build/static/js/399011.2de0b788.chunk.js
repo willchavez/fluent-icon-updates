@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[399011],{399011:function(e,c,s){e.exports=s.p+"static/media/calculator_multiple_24_regular.3d951ff758d2c28ac4a3.svg"}}]);

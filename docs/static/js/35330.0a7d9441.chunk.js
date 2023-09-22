@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[35330],{35330:function(e,s,t){e.exports=t.p+"static/media/f_stop_24_regular.52b54378b5e05172518d.svg"}}]);

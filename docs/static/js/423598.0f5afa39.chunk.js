@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[423598],{423598:function(e,s,i){e.exports=i.p+"static/media/text_baseline_20_filled.39a9c57fca4f9a108f6e.svg"}}]);

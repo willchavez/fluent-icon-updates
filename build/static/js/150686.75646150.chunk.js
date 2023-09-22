@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[150686],{150686:function(e,i,s){e.exports=s.p+"static/media/shifts_prohibited_24_filled.e832c7ec760490cc6e9d.svg"}}]);

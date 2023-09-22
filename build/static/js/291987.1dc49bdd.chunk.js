@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[291987],{872045:function(e,s,c){e.exports=c.p+"static/media/bowl_chopsticks_16_regular.32bea5bd838ed8218eb5.svg"}}]);

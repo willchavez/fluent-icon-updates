@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[463772],{463772:function(e,s,i){e.exports=i.p+"static/media/slide_transition_20_regular.6f2b59280f60d5b23ac2.svg"}}]);

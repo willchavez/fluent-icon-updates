@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[181255],{181255:function(e,s,c){e.exports=c.p+"static/media/vehicle_bus_24_regular.74b5cb1324457ce5614f.svg"}}]);

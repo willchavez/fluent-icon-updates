@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[303737],{303737:function(e,s,i){e.exports=i.p+"static/media/games_28_filled.1d47e4a8d4f87a793d69.svg"}}]);

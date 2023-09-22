@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[154805],{154805:function(e,s,c){e.exports=c.p+"static/media/globe_star_16_regular.bc63e311c2f3485da03a.svg"}}]);

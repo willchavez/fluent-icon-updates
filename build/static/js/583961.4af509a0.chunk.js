@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[583961],{583961:function(e,s,a){e.exports=a.p+"static/media/money_hand_24_regular.38ae943ac72edbc4ba78.svg"}}]);

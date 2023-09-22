@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[584150],{584150:function(e,c,s){e.exports=s.p+"static/media/money_calculator_20_filled.edc7a7c1a72fbd791f6a.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[95243],{95243:function(e,t,s){e.exports=s.p+"static/media/text_quote_20_regular.f33b890ba07743ff25cb.svg"}}]);

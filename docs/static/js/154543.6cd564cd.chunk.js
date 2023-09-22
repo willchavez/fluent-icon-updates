@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[154543],{154543:function(e,s,p){e.exports=p.p+"static/media/person_phone_24_regular.b2a5f696a3699bdfcfbe.svg"}}]);

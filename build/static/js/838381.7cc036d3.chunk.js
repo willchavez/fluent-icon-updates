@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[838381],{838381:function(e,s,i){e.exports=i.p+"static/media/badge_20_filled.b7f7af8dce794d6009bd.svg"}}]);

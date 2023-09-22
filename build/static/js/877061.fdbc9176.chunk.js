@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[877061],{877061:function(e,s,c){e.exports=c.p+"static/media/news_20_regular.8111b9b0b9c91d9d90b0.svg"}}]);

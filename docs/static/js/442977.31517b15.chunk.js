@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[442977],{442977:function(e,i,s){e.exports=s.p+"static/media/building_multiple_24_regular.a27b0193fe606cec5342.svg"}}]);

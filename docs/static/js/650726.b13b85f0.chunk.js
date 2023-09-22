@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[650726],{650726:function(e,s,t){e.exports=t.p+"static/media/text_asterisk_20_filled.6d9daa1635b639bacfbf.svg"}}]);

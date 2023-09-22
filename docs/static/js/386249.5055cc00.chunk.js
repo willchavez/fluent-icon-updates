@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[386249],{386249:function(e,i,c){e.exports=c.p+"static/media/drink_margarita_24_filled.1f24fc3b886632c141c6.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[921816],{921816:function(e,s,c){e.exports=c.p+"static/media/star_off_28_regular.5fc4ecb7798eb6bfc18f.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[980593],{980593:function(e,c,i){e.exports=i.p+"static/media/video_recording_20_regular.a740c8fde681c9d9c561.svg"}}]);

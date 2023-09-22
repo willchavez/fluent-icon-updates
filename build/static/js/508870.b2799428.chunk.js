@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[508870],{508870:function(e,s,a){e.exports=a.p+"static/media/data_histogram_24_regular.fdc6cd8417aa0c8b57b4.svg"}}]);

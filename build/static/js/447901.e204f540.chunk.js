@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[447901],{447901:function(e,s,i){e.exports=i.p+"static/media/pill_24_regular.4d639c14a6911b663171.svg"}}]);

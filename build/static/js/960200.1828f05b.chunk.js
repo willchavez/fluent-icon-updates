@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[960200],{960200:function(e,s,i){e.exports=i.p+"static/media/bowl_salad_24_filled.9373d1327602fa18d566.svg"}}]);

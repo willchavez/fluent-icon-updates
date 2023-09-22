@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[945256],{945256:function(e,i,s){e.exports=s.p+"static/media/building_retail_money_24_filled.99b1674fd9cffa107940.svg"}}]);

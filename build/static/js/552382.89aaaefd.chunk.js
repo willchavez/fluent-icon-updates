@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[552382],{552382:function(e,s,a){e.exports=a.p+"static/media/rhombus_20_regular.d08b8a5fcab5a1021ab3.svg"}}]);

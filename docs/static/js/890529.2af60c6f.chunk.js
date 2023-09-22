@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[890529],{890529:function(e,c,s){e.exports=s.p+"static/media/food_carrot_20_filled.ecc8ce85ddb13ef22f99.svg"}}]);

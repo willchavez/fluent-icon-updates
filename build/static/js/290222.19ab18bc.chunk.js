@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[290222],{290222:function(e,a,s){e.exports=s.p+"static/media/wallpaper_24_filled.7e363f9ed0aed33aa2fa.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[640565],{640565:function(e,s,i){e.exports=i.p+"static/media/resize_table_20_filled.f74f12981928b8867031.svg"}}]);

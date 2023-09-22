@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[116905],{116905:function(e,s,a){e.exports=a.p+"static/media/receipt_sparkles_24_regular.9fce686a57d0aac7f35a.svg"}}]);

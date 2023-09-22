@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[957533],{957533:function(e,t,s){e.exports=s.p+"static/media/tab_desktop_multiple_bottom_20_filled.229a17ea44a4c6baac85.svg"}}]);

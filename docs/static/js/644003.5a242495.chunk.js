@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[644003],{644003:function(e,s,t){e.exports=t.p+"static/media/person_alert_24_regular.0425d606f9562ec634f7.svg"}}]);

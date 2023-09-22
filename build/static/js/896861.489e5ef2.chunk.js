@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[896861],{896861:function(e,a,s){e.exports=s.p+"static/media/calligraphy_pen_question_mark_20_regular.3fba92baa655f029e95d.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[818485],{818485:function(e,s,c){e.exports=c.p+"static/media/meet_now_48_regular.1f1ecb5be09c690b6d7a.svg"}}]);

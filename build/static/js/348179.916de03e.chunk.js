@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[348179],{348179:function(e,c,s){e.exports=s.p+"static/media/crown_24_filled.b6724f0cda4d7fec8cdc.svg"}}]);

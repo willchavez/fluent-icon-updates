@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[410407],{410407:function(e,c,s){e.exports=s.p+"static/media/calendar_play_20_regular.e403e3c5e37acdb599fb.svg"}}]);

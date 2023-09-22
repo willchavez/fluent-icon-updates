@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[851005],{851005:function(e,s,c){e.exports=c.p+"static/media/person_circle_24_regular.3f0115e295b1e910d6ca.svg"}}]);

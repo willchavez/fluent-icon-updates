@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[866974],{866974:function(e,s,i){e.exports=i.p+"static/media/video_person_24_regular.b13281a668435b034ee3.svg"}}]);

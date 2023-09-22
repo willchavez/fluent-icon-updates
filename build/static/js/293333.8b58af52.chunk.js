@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[293333],{293333:function(e,s,c){e.exports=c.p+"static/media/window_ad_person_20_regular.db1a98f684760bcc5524.svg"}}]);

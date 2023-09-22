@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[766349],{766349:function(e,a,c){e.exports=c.p+"static/media/catch_up_20_regular.dcaae454a9e28949318a.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[73513],{73513:function(e,s,i){e.exports=i.p+"static/media/swipe_right_24_regular.ef25a59e6ac2593f1169.svg"}}]);

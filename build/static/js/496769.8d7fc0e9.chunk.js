@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[496769],{496769:function(e,c,s){e.exports=s.p+"static/media/call_park_24_regular.51ef6a81ced8caf5fd23.svg"}}]);

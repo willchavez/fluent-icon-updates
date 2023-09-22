@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[564025],{564025:function(e,s,c){e.exports=c.p+"static/media/person_lightning_20_regular.f87bee5cf5156182dcdc.svg"}}]);

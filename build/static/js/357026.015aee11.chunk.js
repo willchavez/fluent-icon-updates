@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[357026],{357026:function(e,s,i){e.exports=i.p+"static/media/arrow_trending_sparkle_20_filled.77436fa0bff10af38fb8.svg"}}]);

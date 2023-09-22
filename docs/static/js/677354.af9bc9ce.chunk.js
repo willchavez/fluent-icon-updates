@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[677354],{677354:function(e,i,s){e.exports=s.p+"static/media/building_retail_toolbox_20_filled.f82b010d2bc993945670.svg"}}]);

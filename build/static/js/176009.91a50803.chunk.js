@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[176009],{176009:function(e,i,s){e.exports=s.p+"static/media/mention_20_filled.c81af1f1e3073a596988.svg"}}]);

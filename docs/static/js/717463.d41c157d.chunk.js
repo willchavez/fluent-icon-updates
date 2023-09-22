@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[717463],{717463:function(e,s,c){e.exports=c.p+"static/media/oval_48_regular.a8fc0073413bfbc38510.svg"}}]);

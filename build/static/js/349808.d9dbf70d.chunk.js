@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[349808],{349808:function(e,s,i){e.exports=i.p+"static/media/square_hint_sparkles_48_regular.b29d53dea5c669500bf1.svg"}}]);

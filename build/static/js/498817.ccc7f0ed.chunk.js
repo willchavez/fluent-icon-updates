@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[498817],{498817:function(e,s,i){e.exports=i.p+"static/media/phone_link_setup_24_regular.17e9f2dec7779eb7f60b.svg"}}]);

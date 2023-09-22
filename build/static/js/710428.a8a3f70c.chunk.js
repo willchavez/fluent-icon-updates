@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[710428],{710428:function(e,s,c){e.exports=c.p+"static/media/shield_checkmark_48_regular.8b4a6ddbafd5771800e6.svg"}}]);

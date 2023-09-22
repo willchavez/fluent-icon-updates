@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[925611],{925611:function(e,s,t){e.exports=t.p+"static/media/people_team_delete_28_regular.889734940325f6efbfe6.svg"}}]);

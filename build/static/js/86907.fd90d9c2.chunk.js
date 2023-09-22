@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[86907],{86907:function(e,s,t){e.exports=t.p+"static/media/data_trending_48_regular.029daf0781ce2abcdd6e.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[565537],{565537:function(e,s,t){e.exports=t.p+"static/media/desktop_tower_24_filled.64ba79e0c8b2b208d96c.svg"}}]);

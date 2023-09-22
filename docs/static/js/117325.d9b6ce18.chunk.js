@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[117325],{117325:function(e,a,s){e.exports=s.p+"static/media/call_exclamation_20_regular.fb72f94fed8ff31baa10.svg"}}]);

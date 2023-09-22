@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[812789],{812789:function(e,c,i){e.exports=i.p+"static/media/mail_rewind_20_regular.b232f88dfc970c2c74b8.svg"}}]);

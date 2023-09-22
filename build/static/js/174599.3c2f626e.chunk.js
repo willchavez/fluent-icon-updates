@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[174599],{174599:function(e,s,c){e.exports=c.p+"static/media/quiz_new_48_regular.c8f571b10ab2abec69a5.svg"}}]);

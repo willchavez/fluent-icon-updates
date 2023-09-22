@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[119988],{119988:function(e,c,s){e.exports=s.p+"static/media/desktop_checkmark_24_filled.6d54c566278954efcd8b.svg"}}]);

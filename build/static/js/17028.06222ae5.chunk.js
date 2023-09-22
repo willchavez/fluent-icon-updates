@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[17028],{17028:function(e,i,s){e.exports=s.p+"static/media/drink_bottle_off_20_filled.eeddad2016bbb73791e6.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[596641],{596641:function(e,s,c){e.exports=c.p+"static/media/laser_tool_20_filled.0c8dd3ab7be693c98144.svg"}}]);

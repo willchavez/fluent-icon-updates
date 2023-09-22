@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[270890],{270890:function(e,c,s){e.exports=s.p+"static/media/chess_20_regular.d99ca6cce3e4af595e5c.svg"}}]);

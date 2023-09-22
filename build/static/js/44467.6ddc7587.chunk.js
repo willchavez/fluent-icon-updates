@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[44467],{44467:function(e,s,c){e.exports=c.p+"static/media/store_microsoft_16_filled.c0a733e1e203f5c735fb.svg"}}]);

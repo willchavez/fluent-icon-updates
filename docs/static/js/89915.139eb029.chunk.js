@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[89915],{89915:function(e,s,i){e.exports=i.p+"static/media/rename_24_filled.1200a4d9c98a383a0664.svg"}}]);

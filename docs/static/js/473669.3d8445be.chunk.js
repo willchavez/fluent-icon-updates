@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[473669],{473669:function(e,s,c){e.exports=c.p+"static/media/calendar_month_20_filled.435078ee33b139e2c76b.svg"}}]);

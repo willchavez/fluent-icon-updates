@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[634438],{634438:function(e,s,t){e.exports=t.p+"static/media/textbox_settings_20_regular.803e9dc399f9ea1120d7.svg"}}]);

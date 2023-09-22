@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[802909],{802909:function(e,s,c){e.exports=c.p+"static/media/voicemail_arrow_subtract_20_regular.68fb578b9c7670060d00.svg"}}]);

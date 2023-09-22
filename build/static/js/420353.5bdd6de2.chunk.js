@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[420353],{420353:function(e,i,s){e.exports=s.p+"static/media/guitar_28_filled.ab49a662c6219f988261.svg"}}]);

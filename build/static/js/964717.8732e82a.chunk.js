@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[964717],{964717:function(e,s,i){e.exports=i.p+"static/media/hand_open_heart_20_filled.328e5680fda798e80abb.svg"}}]);

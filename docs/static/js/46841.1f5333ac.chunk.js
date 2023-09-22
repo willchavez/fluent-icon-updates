@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[46841],{46841:function(e,c,s){e.exports=s.p+"static/media/microscope_20_filled.8e008c665fd387c88e3c.svg"}}]);

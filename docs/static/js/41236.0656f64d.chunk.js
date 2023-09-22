@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[41236],{41236:function(e,s,c){e.exports=c.p+"static/media/shortpick_24_regular.e361b73719c16f26743c.svg"}}]);

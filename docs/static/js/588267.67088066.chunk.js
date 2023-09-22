@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[588267],{588267:function(e,s,t){e.exports=t.p+"static/media/table_switch_20_regular.601869c44f3651133b38.svg"}}]);

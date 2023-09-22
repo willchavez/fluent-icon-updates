@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[300922],{300922:function(e,c,s){e.exports=s.p+"static/media/clipboard_checkmark_20_regular.0c054df0bedc02261d8e.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[702868],{702868:function(e,s,i){e.exports=i.p+"static/media/window_shield_20_regular.4bd3265e106b70c808f9.svg"}}]);

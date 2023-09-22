@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[856639],{856639:function(e,t,s){e.exports=s.p+"static/media/text_footnote_20_filled.22b8144af6bfa6a706a5.svg"}}]);

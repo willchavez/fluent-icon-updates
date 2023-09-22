@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[214042],{214042:function(e,s,i){e.exports=i.p+"static/media/people_money_20_filled.f31e4b30ef36396e2ae6.svg"}}]);

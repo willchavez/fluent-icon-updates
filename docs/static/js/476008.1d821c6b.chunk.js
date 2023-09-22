@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[476008],{476008:function(e,c,o){e.exports=o.p+"static/media/book_open_microphone_48_regular.c8c8c30ece3c92d7ea92.svg"}}]);

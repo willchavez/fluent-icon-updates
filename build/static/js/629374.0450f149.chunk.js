@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[629374],{629374:function(e,s,t){e.exports=t.p+"static/media/text_grammar_wand_16_regular.90464b3507391e1bb0d2.svg"}}]);

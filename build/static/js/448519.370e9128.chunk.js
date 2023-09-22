@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[448519],{448519:function(e,s,i){e.exports=i.p+"static/media/pentagon_20_filled.b515fcfbb4ee1e1636dd.svg"}}]);

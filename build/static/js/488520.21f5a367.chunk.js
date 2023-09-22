@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[488520],{488520:function(e,i,s){e.exports=s.p+"static/media/textbox_align_middle_16_regular.e7a58fc2c132a69b4d2f.svg"}}]);

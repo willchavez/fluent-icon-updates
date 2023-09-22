@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[488161],{488161:function(e,s,c){e.exports=c.p+"static/media/phone_update_24_filled.4b33facc1b587e456fad.svg"}}]);

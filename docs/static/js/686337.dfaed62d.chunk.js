@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[686337],{686337:function(e,s,p){e.exports=p.p+"static/media/pen_sparkle_20_regular.5f4a4e102c237ee79591.svg"}}]);

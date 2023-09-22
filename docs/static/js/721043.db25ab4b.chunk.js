@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[721043],{721043:function(e,s,a){e.exports=a.p+"static/media/dual_screen_closed_alert_20_filled.573a883b2a90e3ea0d00.svg"}}]);

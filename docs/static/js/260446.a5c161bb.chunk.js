@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[260446],{260446:function(e,s,c){e.exports=c.p+"static/media/clover_28_regular.3d9326ffe00e3b371be2.svg"}}]);

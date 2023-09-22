@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[75199],{75199:function(e,s,c){e.exports=c.p+"static/media/tab_desktop_arrow_clockwise_16_filled.229e6be87d720d3c99ae.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[237e3],{237e3:function(e,s,c){e.exports=c.p+"static/media/fps_60_20_filled.0c0fb42758026ce9e392.svg"}}]);

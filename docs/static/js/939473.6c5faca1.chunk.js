@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[939473],{939473:function(e,s,r){e.exports=r.p+"static/media/share_screen_person_overlay_28_regular.4d1e8f7af69ec8b17170.svg"}}]);

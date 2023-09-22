@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[548112],{548112:function(e,s,c){e.exports=c.p+"static/media/dual_screen_desktop_20_filled.5bde38aa8c1894853c8d.svg"}}]);

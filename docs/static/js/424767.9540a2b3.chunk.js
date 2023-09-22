@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[424767],{424767:function(e,s,c){e.exports=c.p+"static/media/calendar_mail_20_regular.c828ed521ef33151d24f.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[553911],{553911:function(e,s,c){e.exports=c.p+"static/media/shifts_day_24_regular.5234b30dd858c8cec839.svg"}}]);

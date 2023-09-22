@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[147593],{147593:function(e,s,a){e.exports=a.p+"static/media/dual_screen_status_bar_20_filled.8bc8ae9addc10a654032.svg"}}]);

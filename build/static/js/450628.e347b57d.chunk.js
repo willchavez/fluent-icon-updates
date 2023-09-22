@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[450628],{450628:function(e,s,c){e.exports=c.p+"static/media/calendar_work_week_20_regular.82d42fef9b803f969091.svg"}}]);

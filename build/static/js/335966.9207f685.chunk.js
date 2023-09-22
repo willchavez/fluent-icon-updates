@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[335966],{335966:function(e,c,s){e.exports=s.p+"static/media/food_chicken_leg_32_regular.c355372f6e95129d1976.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[862370],{862370:function(e,s,c){e.exports=c.p+"static/media/drink_to_go_24_regular.00080ed7dacc03a39a1f.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[998982],{998982:function(e,s,c){e.exports=c.p+"static/media/person_voice_20_filled.8d92d5bcf9b9380c84f0.svg"}}]);

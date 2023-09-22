@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[907588],{907588:function(e,s,c){e.exports=c.p+"static/media/video_person_sparkle_off_20_filled.198ace6ce9636c19cd0e.svg"}}]);

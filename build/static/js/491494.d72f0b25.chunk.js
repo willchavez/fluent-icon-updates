@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[491494],{491494:function(e,s,a){e.exports=a.p+"static/media/desktop_signal_20_regular.324aeb1f64fac03df4a4.svg"}}]);

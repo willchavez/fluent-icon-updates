@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[839137],{839137:function(e,c,i){e.exports=i.p+"static/media/airplane_20_filled.725153c64000dc94c7a2.svg"}}]);

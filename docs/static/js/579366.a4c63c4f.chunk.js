@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[579366],{579366:function(e,s,c){e.exports=c.p+"static/media/beach_24_regular.4c5b9fa66ed639945da2.svg"}}]);

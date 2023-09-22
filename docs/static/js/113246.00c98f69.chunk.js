@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[113246],{113246:function(e,t,c){e.exports=c.p+"static/media/tooltip_quote_20_filled.5c7e2794fbbcc9157bd8.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[477135],{477135:function(e,s,i){e.exports=i.p+"static/media/food_fish_20_filled.de0026347c58135331d6.svg"}}]);

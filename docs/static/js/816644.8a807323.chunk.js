@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[816644],{816644:function(e,s,a){e.exports=a.p+"static/media/shield_task_48_filled.fd7931a18bac7ac8a63a.svg"}}]);

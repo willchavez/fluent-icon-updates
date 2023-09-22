@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[149421],{149421:function(e,c,s){e.exports=s.p+"static/media/sparkle_circle_28_regular.916dcf0fbb02dceeec1e.svg"}}]);

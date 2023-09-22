@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[565559],{565559:function(e,s,a){e.exports=a.p+"static/media/calendar_star_20_regular.0b16457fe3fa5d979c64.svg"}}]);

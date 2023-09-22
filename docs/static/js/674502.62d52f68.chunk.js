@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[674502],{674502:function(e,s,c){e.exports=c.p+"static/media/sleep_24_regular.7d16c76147b07aa5cc26.svg"}}]);

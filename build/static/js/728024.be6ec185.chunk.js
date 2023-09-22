@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[728024],{728024:function(e,o,s){e.exports=s.p+"static/media/book_toolbox_24_regular.0e07fabfdaeab7b67456.svg"}}]);

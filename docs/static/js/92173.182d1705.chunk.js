@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[92173],{92173:function(e,i,s){e.exports=s.p+"static/media/notebook_lightning_20_filled.4aa3d9e221c937d824e6.svg"}}]);

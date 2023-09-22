@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[321285],{321285:function(e,s,t){e.exports=t.p+"static/media/person_starburst_24_filled.c92562b5f4a13f0fdf65.svg"}}]);

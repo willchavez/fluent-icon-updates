@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[442375],{442375:function(e,t,c){e.exports=c.p+"static/media/text_word_count_20_regular.655e029515cfd0ddfc68.svg"}}]);

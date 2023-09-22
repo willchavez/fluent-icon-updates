@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[768915],{768915:function(e,s,i){e.exports=i.p+"static/media/star_dismiss_20_regular.3c2e3f63153d3da34423.svg"}}]);

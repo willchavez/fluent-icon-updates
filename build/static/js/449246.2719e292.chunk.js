@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[449246],{449246:function(e,s,i){e.exports=i.p+"static/media/person_arrow_left_24_filled.34a3368657f7205f149d.svg"}}]);

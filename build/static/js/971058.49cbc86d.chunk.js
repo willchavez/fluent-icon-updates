@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[971058],{971058:function(e,i,s){e.exports=s.p+"static/media/bow_tie_20_filled.7a59976fc82485810031.svg"}}]);

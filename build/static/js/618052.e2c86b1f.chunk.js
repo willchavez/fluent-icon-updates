@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[618052],{618052:function(e,i,s){e.exports=s.p+"static/media/card_ui_24_filled.10fb73bb5dfbd38353bb.svg"}}]);

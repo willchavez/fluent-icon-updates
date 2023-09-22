@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[121259],{121259:function(e,s,i){e.exports=i.p+"static/media/building_townhouse_24_regular.7e1c617f61b9637a2a7b.svg"}}]);

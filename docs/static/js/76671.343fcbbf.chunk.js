@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[76671],{76671:function(e,s,i){e.exports=i.p+"static/media/developer_board_20_filled.75d9e06edb28e404c546.svg"}}]);

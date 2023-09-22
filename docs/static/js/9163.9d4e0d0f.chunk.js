@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[9163],{9163:function(e,s,a){e.exports=a.p+"static/media/bookmark_add_24_regular.9189ea7890ed74eb827d.svg"}}]);

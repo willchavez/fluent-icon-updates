@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[783028],{783028:function(e,s,t){e.exports=t.p+"static/media/eraser_tool_20_regular.16591b679ea1147ebe61.svg"}}]);

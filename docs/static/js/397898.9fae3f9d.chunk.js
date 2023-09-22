@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[397898],{397898:function(e,i,s){e.exports=s.p+"static/media/gift_card_money_20_filled.61d5753a9c77a463354a.svg"}}]);

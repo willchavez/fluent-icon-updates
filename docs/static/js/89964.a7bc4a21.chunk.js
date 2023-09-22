@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[89964],{89964:function(e,s,a){e.exports=a.p+"static/media/handshake_20_regular.2d620eb952d566c1af66.svg"}}]);

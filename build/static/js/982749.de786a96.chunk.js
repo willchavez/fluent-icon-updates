@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[982749],{982749:function(e,s,i){e.exports=i.p+"static/media/leaf_three_20_filled.543b4fbc3ede8a133b42.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[558653],{277392:function(e,s,t){e.exports=t.p+"static/media/table_delete_column_24_regular.6ff084aa93e685cf6fa9.svg"}}]);

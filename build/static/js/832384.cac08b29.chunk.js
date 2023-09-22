@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[832384],{832384:function(e,s,i){e.exports=i.p+"static/media/person_heart_20_filled.1421393a0b67e92cf4f6.svg"}}]);

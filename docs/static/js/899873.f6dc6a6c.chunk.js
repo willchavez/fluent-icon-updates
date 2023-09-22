@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[899873],{899873:function(e,c,i){e.exports=i.p+"static/media/animal_turtle_20_filled.68f15507a4c9bcc81f53.svg"}}]);

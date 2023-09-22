@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[353590],{353590:function(e,i,t){e.exports=t.p+"static/media/document_multiple_prohibited_20_filled.94be90d7d7f39c277673.svg"}}]);

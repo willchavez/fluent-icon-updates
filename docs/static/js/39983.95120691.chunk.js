@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[39983],{39983:function(e,s,a){e.exports=a.p+"static/media/calendar_work_week_28_regular.9b85177daa510657c480.svg"}}]);

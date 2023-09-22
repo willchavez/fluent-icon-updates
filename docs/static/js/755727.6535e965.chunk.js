@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[755727],{755727:function(e,s,t){e.exports=t.p+"static/media/clipboard_task_list_rtl_24_regular.fc1d115338225771927b.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[80890],{80890:function(e,s,i){e.exports=i.p+"static/media/book_dismiss_16_filled.f8d9b8db20b0c5776b7f.svg"}}]);

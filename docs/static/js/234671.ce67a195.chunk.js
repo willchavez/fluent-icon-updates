@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[234671],{234671:function(e,s,c){e.exports=c.p+"static/media/closed_caption_off_16_regular.0b93fb448bb303a0e18a.svg"}}]);

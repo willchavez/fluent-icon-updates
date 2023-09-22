@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[8923],{8923:function(e,c,s){e.exports=s.p+"static/media/number_circle_2_32_regular.aae888ab88eed75d957c.svg"}}]);

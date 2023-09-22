@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[721295],{721295:function(e,s,t){e.exports=t.p+"static/media/share_screen_stop_24_regular.86ff11d1f17af18a8dd2.svg"}}]);

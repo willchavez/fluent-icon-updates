@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[292141],{292141:function(e,t,i){e.exports=i.p+"static/media/text_align_left_rotate_270_16_filled.987ac3d5baee946b4570.svg"}}]);

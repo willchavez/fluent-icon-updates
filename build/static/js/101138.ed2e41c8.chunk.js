@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[101138],{101138:function(e,c,s){e.exports=s.p+"static/media/document_percent_24_regular.f3d9091c3b90e09e03aa.svg"}}]);

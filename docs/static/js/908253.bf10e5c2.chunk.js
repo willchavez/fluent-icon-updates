@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[908253],{908253:function(e,s,i){e.exports=i.p+"static/media/sport_24_filled.ea46a0cd2e3fe4fe6af4.svg"}}]);

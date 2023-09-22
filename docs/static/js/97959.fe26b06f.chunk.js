@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[97959],{97959:function(e,s,i){e.exports=i.p+"static/media/live_off_20_regular.e3ac71d9715ff20abe2f.svg"}}]);

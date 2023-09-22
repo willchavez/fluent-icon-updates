@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[613356],{613356:function(e,a,s){e.exports=s.p+"static/media/call_pause_20_regular.d33fea4aa3eca80036ba.svg"}}]);

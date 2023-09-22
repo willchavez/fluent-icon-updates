@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[852660],{852660:function(e,s,a){e.exports=a.p+"static/media/star_half_24_regular.befdc7a2a89b86942867.svg"}}]);

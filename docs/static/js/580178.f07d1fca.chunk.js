@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[580178],{580178:function(e,c,s){e.exports=s.p+"static/media/triangle_up_20_regular.279d1c37982deac5c0bc.svg"}}]);

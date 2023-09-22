@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[689424],{689424:function(e,s,i){e.exports=i.p+"static/media/shield_person_add_20_filled.53568e069ed3d6e2ff8c.svg"}}]);

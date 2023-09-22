@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[210270],{210270:function(e,t,a){e.exports=a.p+"static/media/rectangle_portrait_location_target_20_regular.51667c9fb39dea52819f.svg"}}]);

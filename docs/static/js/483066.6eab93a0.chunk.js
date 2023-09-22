@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[483066],{483066:function(e,p,s){e.exports=s.p+"static/media/phone_laptop_20_regular.1318cd5213b6f4758880.svg"}}]);

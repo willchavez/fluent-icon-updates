@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[826165],{826165:function(e,s,t){e.exports=t.p+"static/media/tablet_48_regular.cb7464b387ad282a0c6f.svg"}}]);

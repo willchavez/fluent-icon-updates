@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[819331],{819331:function(e,s,i){e.exports=i.p+"static/media/pin_24_regular.4953a47b8c4f608a2438.svg"}}]);

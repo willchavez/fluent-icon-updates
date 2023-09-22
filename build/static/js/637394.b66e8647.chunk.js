@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[637394],{637394:function(e,i,s){e.exports=s.p+"static/media/thinking_20_regular.2195036275bf4f63aadc.svg"}}]);

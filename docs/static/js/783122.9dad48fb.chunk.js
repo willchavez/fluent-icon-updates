@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[783122],{783122:function(e,s,c){e.exports=c.p+"static/media/sport_hockey_24_filled.4237791e124bb49860cf.svg"}}]);

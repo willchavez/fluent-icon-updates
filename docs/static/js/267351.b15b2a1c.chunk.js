@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[267351],{267351:function(e,s,i){e.exports=i.p+"static/media/shifts_30_minutes_20_filled.7fc6a78c5598807747c4.svg"}}]);

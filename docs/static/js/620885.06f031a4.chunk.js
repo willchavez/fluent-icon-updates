@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[620885],{620885:function(e,s,t){e.exports=t.p+"static/media/table_delete_row_28_filled.82a759260793f0d84c9a.svg"}}]);

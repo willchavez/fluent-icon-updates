@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[613367],{613367:function(e,c,i){e.exports=i.p+"static/media/vehicle_cab_16_filled.556c91c713f8c7a8ef73.svg"}}]);

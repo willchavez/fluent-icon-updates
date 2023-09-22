@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[301428],{301428:function(e,s,i){e.exports=i.p+"static/media/bezier_curve_square_20_filled.81b173676abf067a91e4.svg"}}]);

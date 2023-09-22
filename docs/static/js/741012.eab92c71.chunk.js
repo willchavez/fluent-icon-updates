@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[741012],{741012:function(e,c,s){e.exports=s.p+"static/media/call_transfer_24_filled.3c29e0dbc5331f34c82a.svg"}}]);

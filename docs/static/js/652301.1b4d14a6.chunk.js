@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[652301],{652301:function(e,c,s){e.exports=s.p+"static/media/call_warning_20_regular.10cf4d84cf60e9fb3ad2.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[844973],{844973:function(e,i,s){e.exports=s.p+"static/media/mail_alert_20_filled.d32db040d7aea8c850ac.svg"}}]);

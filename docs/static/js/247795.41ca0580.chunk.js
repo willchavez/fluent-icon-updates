@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[247795],{247795:function(e,s,i){e.exports=i.p+"static/media/drawer_dismiss_20_regular.dd30b63f1128c169e893.svg"}}]);

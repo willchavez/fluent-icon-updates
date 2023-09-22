@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[395573],{395573:function(e,s,c){e.exports=c.p+"static/media/shifts_16_regular.2d6b43dc3cce878f309e.svg"}}]);

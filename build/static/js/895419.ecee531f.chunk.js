@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[895419],{895419:function(e,i,s){e.exports=s.p+"static/media/hat_graduation_12_filled.65fab711b648f103edd0.svg"}}]);

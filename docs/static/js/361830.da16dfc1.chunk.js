@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[361830],{361830:function(e,c,s){e.exports=s.p+"static/media/rectangle_landscape_hint_copy_24_regular.ff032fcd76df71b40b1e.svg"}}]);

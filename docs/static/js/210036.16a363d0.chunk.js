@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[210036],{210036:function(e,a,s){e.exports=s.p+"static/media/alert_badge_24_filled.7410f7aaca498af9cb5f.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[955069],{955069:function(e,i,s){e.exports=s.p+"static/media/multiplier_1_5x_48_filled.1e42543a0589f627fa46.svg"}}]);

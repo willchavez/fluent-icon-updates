@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[495148],{495148:function(e,s,i){e.exports=i.p+"static/media/font_decrease_24_filled.9ab353b3181411a63f41.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[367850],{367850:function(e,c,s){e.exports=s.p+"static/media/food_cake_12_filled.def07fbb1c761879c390.svg"}}]);

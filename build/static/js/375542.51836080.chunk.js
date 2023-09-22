@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[375542],{375542:function(e,s,i){e.exports=i.p+"static/media/sleep_20_filled.47ae56299b8858b1b4e2.svg"}}]);

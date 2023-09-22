@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[689224],{689224:function(e,s,t){e.exports=t.p+"static/media/battery_saver_24_regular.ea1b8d4ae4e480b25886.svg"}}]);

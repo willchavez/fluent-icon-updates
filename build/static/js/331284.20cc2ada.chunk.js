@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[331284],{331284:function(e,s,a){e.exports=a.p+"static/media/hand_draw_28_regular.8a30bea45e4f4fd75447.svg"}}]);

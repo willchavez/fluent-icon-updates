@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[448607],{448607:function(e,s,c){e.exports=c.p+"static/media/notebook_section_20_filled.5cba5306e96980c63884.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[906739],{906739:function(e,s,c){e.exports=c.p+"static/media/person_square_24_regular.083133e6d5c6ffbfed09.svg"}}]);

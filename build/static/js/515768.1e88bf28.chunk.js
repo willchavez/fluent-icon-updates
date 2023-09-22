@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[515768],{515768:function(e,s,t){e.exports=t.p+"static/media/patch_20_regular.905dbab40580460e2678.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[669969],{669969:function(e,s,t){e.exports=t.p+"static/media/star_three_quarter_12_regular.4457d257b100cadd3dd6.svg"}}]);

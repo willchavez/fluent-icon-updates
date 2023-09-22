@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[634175],{634175:function(e,i,s){e.exports=s.p+"static/media/vehicle_car_collision_28_filled.3596edf378ba48b0bb42.svg"}}]);

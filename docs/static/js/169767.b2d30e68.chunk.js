@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[169767],{169767:function(e,s,p){e.exports=p.p+"static/media/phone_desktop_24_regular.8e65be5e32ac2a783af1.svg"}}]);

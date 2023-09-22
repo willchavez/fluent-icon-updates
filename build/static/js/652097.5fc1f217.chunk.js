@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[652097],{652097:function(e,c,s){e.exports=s.p+"static/media/calendar_ltr_48_filled.3f4f9f9c2ca5ffd1caac.svg"}}]);

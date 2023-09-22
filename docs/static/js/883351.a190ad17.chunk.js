@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[883351],{883351:function(e,s,i){e.exports=i.p+"static/media/uninstall_app_24_filled.e8c6870ad3d65decf277.svg"}}]);

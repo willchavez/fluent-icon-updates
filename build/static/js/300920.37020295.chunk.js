@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[300920],{300920:function(e,s,a){e.exports=a.p+"static/media/keyboard_layout_resize_20_regular.55afbd0776bd1b837dae.svg"}}]);

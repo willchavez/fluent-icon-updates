@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[420404],{420404:function(e,i,s){e.exports=s.p+"static/media/building_lighthouse_20_filled.b196f71da0cc39fa016f.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[998927],{227721:function(e,s,i){e.exports=i.p+"static/media/doctor_16_filled.b117362b0eb7a76e537e.svg"}}]);

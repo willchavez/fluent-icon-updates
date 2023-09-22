@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[195151],{195151:function(e,i,s){e.exports=s.p+"static/media/orientation_20_regular.72977a6517139837a8c7.svg"}}]);

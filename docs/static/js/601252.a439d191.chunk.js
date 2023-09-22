@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[601252],{601252:function(e,i,s){e.exports=s.p+"static/media/emoji_angry_24_filled.b0a30eaa2f23393b0c58.svg"}}]);

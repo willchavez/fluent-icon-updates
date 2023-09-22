@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[44578],{44578:function(e,c,i){e.exports=i.p+"static/media/call_prohibited_20_filled.6e4c8ca3585c782d8506.svg"}}]);

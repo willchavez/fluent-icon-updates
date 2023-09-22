@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[640781],{640781:function(e,c,s){e.exports=s.p+"static/media/document_chevron_double_20_filled.a32e395be93b6380c47c.svg"}}]);

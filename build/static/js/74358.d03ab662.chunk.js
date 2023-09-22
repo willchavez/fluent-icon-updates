@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[74358],{74358:function(e,s,c){e.exports=c.p+"static/media/book_compass_24_regular.803db9df0558c1e08abe.svg"}}]);

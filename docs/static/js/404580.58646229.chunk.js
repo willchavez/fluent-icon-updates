@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[404580],{404580:function(e,i,s){e.exports=s.p+"static/media/emoji_hand_28_filled.a25a6d8e45f8ea806f4a.svg"}}]);

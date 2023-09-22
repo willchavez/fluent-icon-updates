@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[167917],{167917:function(e,s,i){e.exports=i.p+"static/media/food_grains_24_filled.9b2544967be96379f7f1.svg"}}]);

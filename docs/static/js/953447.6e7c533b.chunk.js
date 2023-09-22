@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[953447],{953447:function(e,c,s){e.exports=s.p+"static/media/food_pizza_20_regular.0544fac8b9d5c8dec9d0.svg"}}]);

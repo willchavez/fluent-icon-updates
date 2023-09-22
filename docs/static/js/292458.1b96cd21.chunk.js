@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[292458],{292458:function(e,s,i){e.exports=i.p+"static/media/emoji_sad_slight_24_regular.3575866f44b3485aeccd.svg"}}]);

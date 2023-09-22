@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[264269],{264269:function(e,s,a){e.exports=a.p+"static/media/camera_sparkles_16_regular.72d286af1a068c1877f7.svg"}}]);

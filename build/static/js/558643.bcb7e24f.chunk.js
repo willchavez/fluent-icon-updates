@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[558643],{558643:function(e,s,p){e.exports=p.p+"static/media/people_star_20_regular.1390c33dbe4842f56ba9.svg"}}]);

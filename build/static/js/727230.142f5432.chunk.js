@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[727230],{727230:function(e,s,c){e.exports=c.p+"static/media/gesture_24_regular.c05504a1ab366c24a551.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[244690],{244690:function(e,i,s){e.exports=s.p+"static/media/highlight_accent_20_filled.0a4e4923d899d6b37120.svg"}}]);

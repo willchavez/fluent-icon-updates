@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[453778],{453778:function(e,s,a){e.exports=a.p+"static/media/fax_20_regular.549a9a1098956f69400f.svg"}}]);

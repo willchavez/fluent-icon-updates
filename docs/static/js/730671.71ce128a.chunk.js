@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[730671],{730671:function(e,s,t){e.exports=t.p+"static/media/text_hanging_20_regular.365bc2b404bd4c7fd2b2.svg"}}]);

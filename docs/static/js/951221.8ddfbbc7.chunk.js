@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[951221],{951221:function(e,s,i){e.exports=i.p+"static/media/elevator_24_filled.5d3994766de7f60792b7.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[911483],{911483:function(e,c,s){e.exports=s.p+"static/media/currency_dollar_rupee_24_filled.41eac13d03a1ad8795d5.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[974924],{974924:function(e,c,s){e.exports=s.p+"static/media/joystick_20_filled.cacf9df23165bed6ee3c.svg"}}]);

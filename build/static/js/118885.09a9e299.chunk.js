@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[118885],{118885:function(e,s,t){e.exports=t.p+"static/media/drink_bottle_20_regular.fa19b6d650a58779d016.svg"}}]);

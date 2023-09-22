@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[103173],{103173:function(e,c,i){e.exports=i.p+"static/media/drink_wine_24_filled.c9fb267aa64a634cc5c9.svg"}}]);

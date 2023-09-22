@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[513207],{513207:function(e,s,c){e.exports=c.p+"static/media/qr_code_20_regular.b80fb0a4068f82951184.svg"}}]);

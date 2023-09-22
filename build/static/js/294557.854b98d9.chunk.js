@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[294557],{294557:function(e,s,i){e.exports=i.p+"static/media/folder_globe_16_regular.e6bf376d6bb50d5b573f.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[919187],{919187:function(e,s,c){e.exports=c.p+"static/media/food_grains_20_regular.3ce34ac711d127f56893.svg"}}]);

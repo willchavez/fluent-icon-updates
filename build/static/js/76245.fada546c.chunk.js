@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[76245],{76245:function(e,s,i){e.exports=i.p+"static/media/board_games_20_filled.d2b35cdf8206761e746e.svg"}}]);

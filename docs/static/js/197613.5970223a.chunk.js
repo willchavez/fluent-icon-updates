@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[197613],{197613:function(e,a,s){e.exports=s.p+"static/media/heart_off_24_regular.86f2aa8690a0431815ab.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[616351],{616351:function(e,s,i){e.exports=i.p+"static/media/syringe_20_filled.b381c287626edc215f47.svg"}}]);

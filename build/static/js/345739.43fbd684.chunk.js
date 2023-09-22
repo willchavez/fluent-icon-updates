@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[345739],{345739:function(e,s,c){e.exports=c.p+"static/media/send_beaker_20_regular.b4112b0ea06d7f5f9c7f.svg"}}]);

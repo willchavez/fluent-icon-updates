@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[707652],{707652:function(e,i,s){e.exports=s.p+"static/media/tag_circle_20_filled.d680d23e67063e2866ff.svg"}}]);

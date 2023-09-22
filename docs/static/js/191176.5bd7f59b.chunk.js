@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[191176],{191176:function(e,s,t){e.exports=t.p+"static/media/headset_48_regular.c2bd2b5b59e315dbbaa8.svg"}}]);

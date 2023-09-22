@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[892477],{892477:function(e,s,c){e.exports=c.p+"static/media/calendar_star_24_filled.12ae2ce4d27bc8593e72.svg"}}]);

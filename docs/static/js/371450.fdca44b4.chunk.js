@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[371450],{371450:function(e,c,s){e.exports=s.p+"static/media/couch_12_regular.1c6c7f8b0a2d052263f1.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[419779],{419779:function(e,s,c){e.exports=c.p+"static/media/desktop_arrow_down_24_regular.c0432c0b1d622523980a.svg"}}]);

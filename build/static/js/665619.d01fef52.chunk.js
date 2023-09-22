@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[665619],{665619:function(e,s,t){e.exports=t.p+"static/media/data_bar_vertical_star_20_filled.b4bcefb4011119de7719.svg"}}]);

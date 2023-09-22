@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[334952],{334952:function(e,s,c){e.exports=c.p+"static/media/briefcase_medical_32_regular.359014c4efd642d452e1.svg"}}]);

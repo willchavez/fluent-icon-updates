@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[152479],{152479:function(e,s,c){e.exports=c.p+"static/media/glasses_off_28_regular.a6aff35a6cc1c91bb545.svg"}}]);

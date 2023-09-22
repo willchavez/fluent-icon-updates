@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[327549],{327549:function(e,s,i){e.exports=i.p+"static/media/mail_arrow_up_16_regular.f48b252ca93bfb5de8d7.svg"}}]);

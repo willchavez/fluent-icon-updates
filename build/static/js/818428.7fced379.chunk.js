@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[818428],{818428:function(e,c,s){e.exports=s.p+"static/media/gavel_20_regular.6049b1fcddfc829bca63.svg"}}]);
