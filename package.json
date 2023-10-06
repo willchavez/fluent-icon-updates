@@ -5,7 +5,7 @@
 	"homepage": "https://williamch-ms.github.io/fluent-icon-updates",
 	"dependencies": {
 		"@fluentui/react-icons": "2.0.204",
-		"@fluentui/svg-icons": "1.1.217",
+		"@fluentui/svg-icons": "1.1.218",
 		"@griffel/react": "^1.0.2",
 		"@octokit/rest": "^18.12.0",
 		"@testing-library/jest-dom": "^5.16.1",
