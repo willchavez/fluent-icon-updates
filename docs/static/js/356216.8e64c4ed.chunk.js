@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[356216],{356216:function(e,c,i){e.exports=i.p+"static/media/arrow_bidirectional_left_right_16_regular.b60cc78c78413988ec5a.svg"}}]);

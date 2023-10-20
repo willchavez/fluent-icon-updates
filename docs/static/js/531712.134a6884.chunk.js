@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[531712],{531712:function(e,t,s){e.exports=s.p+"static/media/teardrop_bottom_right_32_regular.535a894a8e2ccb6e818d.svg"}}]);

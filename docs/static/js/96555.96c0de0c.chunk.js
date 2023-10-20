@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[96555],{96555:function(e,a,c){e.exports=c.p+"static/media/table_freeze_column_and_row_20_filled.2d70a62dac6db3f4aa7c.svg"}}]);
