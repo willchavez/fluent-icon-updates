@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[331436],{331436:function(e,c,s){e.exports=s.p+"static/media/document_pdf_16_regular.6ca4f71ad1748cc44ad7.svg"}}]);

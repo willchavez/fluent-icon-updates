@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[424134],{424134:function(e,s,i){e.exports=i.p+"static/media/briefcase_off_32_filled.16602419b59d0f7db705.svg"}}]);

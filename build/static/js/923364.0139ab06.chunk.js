@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[923364],{923364:function(e,s,t){e.exports=t.p+"static/media/text_font_size_24_filled.d09725615f5eae7daf8f.svg"}}]);

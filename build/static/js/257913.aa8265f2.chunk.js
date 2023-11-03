@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[257913],{257913:function(e,s,c){e.exports=c.p+"static/media/desktop_toolbox_20_regular.f215c1bcb8dbce609502.svg"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[865871],{865871:function(e,c,s){e.exports=s.p+"static/media/surface_hub_24_filled.6defcec2282ed058f2dc.svg"}}]);

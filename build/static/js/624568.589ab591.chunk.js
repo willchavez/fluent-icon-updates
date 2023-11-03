@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[624568],{624568:function(e,s,c){e.exports=c.p+"static/media/cloud_words_28_regular.b1e536e1bf669e8f4a3d.svg"}}]);

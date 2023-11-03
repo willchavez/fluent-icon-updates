@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[109172],{109172:function(e,c,s){e.exports=s.p+"static/media/heart_pulse_warning_20_regular.cb758fe3bc05c42d6cae.svg"}}]);

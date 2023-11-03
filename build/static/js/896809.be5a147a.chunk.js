@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[896809],{896809:function(e,s,i){e.exports=i.p+"static/media/sparkle_20_regular.998014d98b27549f5825.svg"}}]);

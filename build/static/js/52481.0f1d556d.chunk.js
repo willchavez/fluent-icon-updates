@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[52481],{52481:function(e,s,c){e.exports=c.p+"static/media/font_space_tracking_in_28_regular.af005383b111ffcafd06.svg"}}]);

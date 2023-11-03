@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[257467],{257467:function(e,s,t){e.exports=t.p+"static/media/book_theta_20_filled.92b1e9b9f0d6eb626cc0.svg"}}]);

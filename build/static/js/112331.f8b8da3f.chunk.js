@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[112331],{112331:function(e,s,i){e.exports=i.p+"static/media/chevron_left_12_filled.bfa41d9309356540e133.svg"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[338394],{338394:function(e,s,c){e.exports=c.p+"static/media/phone_screen_time_24_regular.21a2b4b46cc5d9775077.svg"}}]);

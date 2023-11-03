@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[911258],{911258:function(e,c,s){e.exports=s.p+"static/media/contact_card_20_filled.e62794c03056fee6708d.svg"}}]);

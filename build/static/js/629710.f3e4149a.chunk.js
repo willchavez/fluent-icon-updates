@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[629710],{629710:function(e,s,a){e.exports=a.p+"static/media/headphones_sound_wave_20_regular.232c378a05044774a398.svg"}}]);

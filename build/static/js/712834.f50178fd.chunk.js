@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[712834],{712834:function(e,s,c){e.exports=c.p+"static/media/globe_12_filled.4631d63c8e95300cfbf4.svg"}}]);

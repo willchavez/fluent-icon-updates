@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[918878],{918878:function(e,s,t){e.exports=t.p+"static/media/data_sunburst_24_regular.5394c99678266f845138.svg"}}]);

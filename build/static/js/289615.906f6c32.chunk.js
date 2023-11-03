@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[289615],{289615:function(e,s,c){e.exports=c.p+"static/media/person_subtract_24_filled.ffc9f786379cf80c8b3d.svg"}}]);

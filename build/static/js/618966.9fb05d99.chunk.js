@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[618966],{618966:function(e,c,s){e.exports=s.p+"static/media/arrow_circle_down_28_regular.58e0fe5df49006e04e0c.svg"}}]);

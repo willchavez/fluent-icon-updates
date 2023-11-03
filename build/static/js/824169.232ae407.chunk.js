@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[824169],{824169:function(e,s,a){e.exports=a.p+"static/media/globe_surface_24_regular.17e6c6ae9ad80509aa7f.svg"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[601741],{601741:function(e,s,c){e.exports=c.p+"static/media/snooze_20_regular.ab76e4a64acd1c6e14e0.svg"}}]);

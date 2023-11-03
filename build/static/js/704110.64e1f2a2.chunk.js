@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[704110],{704110:function(e,s,i){e.exports=i.p+"static/media/image_shadow_24_filled.2a7634f461a282c47755.svg"}}]);

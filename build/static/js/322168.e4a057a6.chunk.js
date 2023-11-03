@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[322168],{322168:function(e,s,t){e.exports=t.p+"static/media/dual_screen_tablet_24_regular.083acb787b667a8e044e.svg"}}]);

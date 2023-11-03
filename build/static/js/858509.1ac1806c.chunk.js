@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[858509],{858509:function(e,c,t){e.exports=t.p+"static/media/contract_down_left_20_regular.714fc95b21dad01b0cb0.svg"}}]);

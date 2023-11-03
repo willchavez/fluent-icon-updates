@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[535587],{535587:function(e,s,c){e.exports=c.p+"static/media/calendar_rtl_16_filled.85b8ff92c284f1faae71.svg"}}]);

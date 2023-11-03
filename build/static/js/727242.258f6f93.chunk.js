@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[727242],{727242:function(e,s,i){e.exports=i.p+"static/media/paint_brush_20_regular.1007c5605b89284d3281.svg"}}]);

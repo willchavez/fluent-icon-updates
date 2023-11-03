@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[84876],{84876:function(e,i,s){e.exports=s.p+"static/media/arrow_forward_down_lightning_24_filled.154b8402cab48f5272b1.svg"}}]);

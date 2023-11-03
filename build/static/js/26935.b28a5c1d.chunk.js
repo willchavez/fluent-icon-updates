@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[26935],{26935:function(e,c,s){e.exports=s.p+"static/media/port_micro_usb_20_filled.9dcf3d8acf23a0fbc921.svg"}}]);

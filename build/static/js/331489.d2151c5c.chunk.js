@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[331489],{331489:function(e,c,i){e.exports=i.p+"static/media/chat_multiple_24_filled.cfc7b9a0f46f84e33cc3.svg"}}]);

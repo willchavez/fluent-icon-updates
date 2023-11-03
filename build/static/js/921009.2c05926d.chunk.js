@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[921009],{921009:function(e,c,i){e.exports=i.p+"static/media/rating_mature_16_filled.4cdd6c05c7cef0930e3f.svg"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[976706],{976706:function(e,c,s){e.exports=s.p+"static/media/calendar_work_week_16_filled.d8869b77168f1c2b658c.svg"}}]);

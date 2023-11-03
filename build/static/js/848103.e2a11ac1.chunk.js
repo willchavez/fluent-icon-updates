@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[848103],{848103:function(e,a,r){e.exports=r.p+"static/media/calendar_arrow_right_20_regular.a0551a21fbe90de22b32.svg"}}]);

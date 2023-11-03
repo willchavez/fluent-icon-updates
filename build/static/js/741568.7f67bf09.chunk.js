@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[741568],{741568:function(e,i,s){e.exports=s.p+"static/media/building_government_20_regular.646c7307e40cdf36fd5a.svg"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[27673],{27673:function(e,s,i){e.exports=i.p+"static/media/usb_plug_20_filled.976e5aba8f4119e80324.svg"}}]);

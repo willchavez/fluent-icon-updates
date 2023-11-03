@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[386993],{386993:function(e,s,t){e.exports=t.p+"static/media/lottery_24_regular.f36feb0a91bd4223be5d.svg"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[87254],{87254:function(e,s,t){e.exports=t.p+"static/media/text_underline_double_24_regular.0831fb6877b7a296c8c2.svg"}}]);

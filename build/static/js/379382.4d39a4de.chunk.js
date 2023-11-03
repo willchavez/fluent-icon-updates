@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[379382],{379382:function(e,p,s){e.exports=s.p+"static/media/phone_laptop_32_filled.8d7a5e952259fe29da06.svg"}}]);

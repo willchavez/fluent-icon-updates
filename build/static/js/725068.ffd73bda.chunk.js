@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[725068],{725068:function(e,i,s){e.exports=s.p+"static/media/building_mosque_48_filled.d0fcc984a4f4678ed84b.svg"}}]);

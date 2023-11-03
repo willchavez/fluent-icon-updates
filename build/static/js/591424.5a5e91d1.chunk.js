@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[591424],{591424:function(e,s,i){e.exports=i.p+"static/media/wand_20_regular.bfdf432d5d157891b335.svg"}}]);

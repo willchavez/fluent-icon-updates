@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[853896],{853896:function(e,s,c){e.exports=c.p+"static/media/paint_brush_arrow_up_20_regular.4ced8b198e30c6c6f0dd.svg"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[740232],{740232:function(e,s,a){e.exports=a.p+"static/media/grid_kanban_16_regular.77991faabc588d8783ee.svg"}}]);

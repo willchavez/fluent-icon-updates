@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[278633],{278633:function(e,s,c){e.exports=c.p+"static/media/code_py_rectangle_16_regular.f98b56047130b038be6e.svg"}}]);

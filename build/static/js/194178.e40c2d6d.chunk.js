@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[194178],{194178:function(e,s,t){e.exports=t.p+"static/media/chat_bubbles_question_32_regular.65aff9ba5b7f3048e6d0.svg"}}]);

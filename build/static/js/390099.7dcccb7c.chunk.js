@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[390099],{390099:function(e,i,s){e.exports=s.p+"static/media/people_community_add_20_filled.eba5e012c20921a53050.svg"}}]);

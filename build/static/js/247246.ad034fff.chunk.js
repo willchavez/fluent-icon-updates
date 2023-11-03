@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[247246],{247246:function(e,s,i){e.exports=i.p+"static/media/autosum_20_filled.bf8a7450411d7319b1bf.svg"}}]);

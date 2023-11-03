@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[924284],{924284:function(e,s,i){e.exports=i.p+"static/media/math_format_professional_16_filled.54f6bec3a1446141da11.svg"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[356655],{356655:function(e,c,i){e.exports=i.p+"static/media/vehicle_truck_16_filled.98abac812c3051886191.svg"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[505153],{505153:function(e,s,i){e.exports=i.p+"static/media/phone_arrow_right_20_regular.7211597f580af0c3335f.svg"}}]);

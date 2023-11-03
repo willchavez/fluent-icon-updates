@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[846748],{846748:function(e,c,i){e.exports=i.p+"static/media/emoji_edit_48_regular.7f50dc0cdf9c8e12aed2.svg"}}]);

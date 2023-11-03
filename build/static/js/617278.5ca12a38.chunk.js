@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[617278],{617278:function(e,c,s){e.exports=s.p+"static/media/molecule_20_regular.622d421a39c07c3a1839.svg"}}]);

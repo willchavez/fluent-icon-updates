@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[273632],{273632:function(e,c,i){e.exports=i.p+"static/media/drink_coffee_24_filled.a9c1693f4db5cc8b524c.svg"}}]);

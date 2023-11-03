@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[765221],{765221:function(e,s,i){e.exports=i.p+"static/media/slide_eraser_24_filled.710d920d500dda945c2c.svg"}}]);

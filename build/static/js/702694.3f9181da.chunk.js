@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[702694],{702694:function(e,s,t){e.exports=t.p+"static/media/star_one_quarter_12_filled.f86e4ac4774d06b2867c.svg"}}]);

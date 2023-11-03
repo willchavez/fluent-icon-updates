@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[572275],{572275:function(e,s,i){e.exports=i.p+"static/media/ios_arrow_ltr_24_regular.d6a33499cdbd053f3f62.svg"}}]);

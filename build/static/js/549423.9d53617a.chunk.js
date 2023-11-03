@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[549423],{549423:function(e,i,s){e.exports=s.p+"static/media/building_people_16_regular.c511aac945e9d428f270.svg"}}]);

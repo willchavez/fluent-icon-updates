@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[172716],{172716:function(e,i,s){e.exports=s.p+"static/media/battery_warning_20_filled.919dd363583090822b2c.svg"}}]);

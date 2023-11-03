@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[566154],{566154:function(e,s,i){e.exports=i.p+"static/media/data_whisker_24_regular.4b90ee40ca0800bb4bf7.svg"}}]);

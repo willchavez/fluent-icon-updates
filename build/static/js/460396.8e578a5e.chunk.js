@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[460396],{460396:function(e,s,i){e.exports=i.p+"static/media/heart_broken_20_filled.a87044b2d36a0ae6996e.svg"}}]);

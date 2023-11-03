@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[339787],{339787:function(e,s,a){e.exports=a.p+"static/media/pause_48_regular.a2831a9b8c896a87c7e1.svg"}}]);

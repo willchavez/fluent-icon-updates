@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[380615],{380615:function(e,s,i){e.exports=i.p+"static/media/document_margins_20_filled.9d8326fcd86df67585ab.svg"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[755783],{755783:function(e,a,s){e.exports=s.p+"static/media/airplane_take_off_16_regular.07ca3b4acb021561eb8b.svg"}}]);

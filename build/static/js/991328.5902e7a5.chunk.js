@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[991328],{991328:function(e,a,s){e.exports=s.p+"static/media/table_calculator_16_filled.b93e91a40a4d38fa578d.svg"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[205149],{205149:function(e,s,c){e.exports=c.p+"static/media/food_apple_20_regular.7d9102ad4dbca8d45c4f.svg"}}]);

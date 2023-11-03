@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[748117],{748117:function(e,s,c){e.exports=c.p+"static/media/tetris_app_24_regular.39a9365c970bacc9a4f9.svg"}}]);

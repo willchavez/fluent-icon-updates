@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[322673],{322673:function(e,s,i){e.exports=i.p+"static/media/shield_globe_16_regular.c4fa7341d4fd33e59de5.svg"}}]);

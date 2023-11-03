@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[362482],{362482:function(e,s,i){e.exports=i.p+"static/media/diversity_20_regular.421db0b0122ad9b32290.svg"}}]);

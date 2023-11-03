@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[299062],{299062:function(e,s,i){e.exports=i.p+"static/media/book_globe_20_filled.f4788d15101b00dfbfa9.svg"}}]);

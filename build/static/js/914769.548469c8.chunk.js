@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[914769],{914769:function(e,s,i){e.exports=i.p+"static/media/padding_down_20_regular.de0e910a426215f1a1c4.svg"}}]);

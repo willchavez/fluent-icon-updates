@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[790297],{790297:function(e,s,a){e.exports=a.p+"static/media/phone_shake_24_regular.901462ea1e392eab51f5.svg"}}]);

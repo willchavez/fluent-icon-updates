@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[9777],{9777:function(e,s,t){e.exports=t.p+"static/media/phone_subtract_24_filled.25bf1fb1108cb4db657e.svg"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[901246],{901246:function(e,c,t){e.exports=t.p+"static/media/document_multiple_percent_20_filled.437a55632c7dc000f9f2.svg"}}]);

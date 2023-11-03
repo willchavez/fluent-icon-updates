@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[451557],{451557:function(e,s,c){e.exports=c.p+"static/media/conference_room_48_regular.91a6a819528983474fae.svg"}}]);

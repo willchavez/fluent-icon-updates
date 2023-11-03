@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[865153],{865153:function(e,s,i){e.exports=i.p+"static/media/animal_dog_16_regular.1cff900655670f56336a.svg"}}]);

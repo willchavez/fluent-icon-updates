@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[13210],{13210:function(e,i,a){e.exports=a.p+"static/media/shifts_availability_24_filled.781b3a31a9ebaee9a73a.svg"}}]);

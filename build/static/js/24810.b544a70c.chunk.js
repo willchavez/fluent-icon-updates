@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[24810],{24810:function(e,i,t){e.exports=t.p+"static/media/text_column_one_wide_lightning_20_filled.86b1a35779b5aeaf2676.svg"}}]);

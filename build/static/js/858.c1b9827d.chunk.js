@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[858],{858:function(e,s,i){e.exports=i.p+"static/media/lightbulb_person_28_regular.0e93ff4869d62f569c98.svg"}}]);

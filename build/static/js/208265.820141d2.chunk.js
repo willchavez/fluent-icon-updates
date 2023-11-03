@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[208265],{208265:function(e,i,s){e.exports=s.p+"static/media/inking_tool_32_filled.686927d1b36a9fc4cb94.svg"}}]);

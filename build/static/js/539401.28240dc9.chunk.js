@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[539401],{539401:function(e,c,s){e.exports=s.p+"static/media/flag_checkered_20_regular.8635995a923432de5ccd.svg"}}]);

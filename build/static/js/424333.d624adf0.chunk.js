@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[424333],{424333:function(e,s,i){e.exports=i.p+"static/media/hand_left_20_filled.3f04a741223561a6c933.svg"}}]);

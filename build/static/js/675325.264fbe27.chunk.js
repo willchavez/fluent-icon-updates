@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[675325],{675325:function(e,s,i){e.exports=i.p+"static/media/oven_48_regular.5edfd2437208bd431309.svg"}}]);

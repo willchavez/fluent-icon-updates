@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[233913],{233913:function(e,s,i){e.exports=i.p+"static/media/calendar_assistant_24_filled.db260eeb46a699046944.svg"}}]);

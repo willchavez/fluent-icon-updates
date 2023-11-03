@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[719037],{719037:function(e,s,t){e.exports=t.p+"static/media/drink_bottle_off_20_regular.6a204ed9543bb276eef4.svg"}}]);

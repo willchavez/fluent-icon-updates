@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[793294],{793294:function(e,s,i){e.exports=i.p+"static/media/table_simple_exclude_28_regular.b3b2e68a0f78692f1f09.svg"}}]);

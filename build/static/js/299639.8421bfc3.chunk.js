@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[299639],{299639:function(e,r,s){e.exports=s.p+"static/media/arrow_trending_checkmark_24_regular.7fb77a42a95d0b0f5699.svg"}}]);

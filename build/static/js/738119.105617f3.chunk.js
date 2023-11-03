@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[738119],{738119:function(e,s,t){e.exports=t.p+"static/media/desktop_mac_24_regular.703d9433e2a320827e26.svg"}}]);

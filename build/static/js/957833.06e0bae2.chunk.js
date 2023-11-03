@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[957833],{957833:function(e,s,i){e.exports=i.p+"static/media/router_20_filled.f20ab41ce65abd7f0422.svg"}}]);

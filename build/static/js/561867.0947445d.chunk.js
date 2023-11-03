@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[561867],{561867:function(e,i,s){e.exports=s.p+"static/media/wifi_1_20_filled.7208d4a7e0411fdb81ad.svg"}}]);

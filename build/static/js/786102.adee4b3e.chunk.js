@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[786102],{786102:function(e,s,a){e.exports=a.p+"static/media/scratchpad_20_regular.ad2ab8b5b9d411e29d62.svg"}}]);

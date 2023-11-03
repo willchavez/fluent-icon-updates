@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[523377],{523377:function(e,i,s){e.exports=s.p+"static/media/rewind_28_filled.0973194c56cbd1ddbe65.svg"}}]);

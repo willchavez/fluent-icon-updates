@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[442723],{442723:function(e,s,c){e.exports=c.p+"static/media/pen_off_48_regular.3877594344b99c31c372.svg"}}]);

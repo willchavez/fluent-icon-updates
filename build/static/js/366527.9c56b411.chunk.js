@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[366527],{366527:function(e,c,s){e.exports=s.p+"static/media/code_cs_rectangle_16_regular.9156473495219ce89d67.svg"}}]);

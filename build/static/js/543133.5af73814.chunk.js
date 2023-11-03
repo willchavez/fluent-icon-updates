@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[543133],{543133:function(e,s,i){e.exports=i.p+"static/media/speaker_1_28_regular.37dd56f5383a4189d3ee.svg"}}]);

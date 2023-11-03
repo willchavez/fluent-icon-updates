@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[10],{10:function(e,s,a){e.exports=a.p+"static/media/space_3d_48_regular.aba627ad1e71e2515bf4.svg"}}]);

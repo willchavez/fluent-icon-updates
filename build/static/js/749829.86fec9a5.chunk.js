@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[749829],{749829:function(e,i,s){e.exports=s.p+"static/media/calligraphy_pen_24_filled.5af96c4d9a9bed0d4fd9.svg"}}]);

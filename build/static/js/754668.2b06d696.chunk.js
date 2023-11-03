@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[754668],{754668:function(e,s,a){e.exports=a.p+"static/media/elevator_20_regular.5a72403a10a7e5313cee.svg"}}]);

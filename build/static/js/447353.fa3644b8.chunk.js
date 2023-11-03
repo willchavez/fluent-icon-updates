@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[447353],{447353:function(e,c,s){e.exports=s.p+"static/media/number_circle_0_48_regular.4dfb9fdbb3d008dc64b9.svg"}}]);

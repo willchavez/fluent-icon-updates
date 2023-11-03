@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[417937],{417937:function(e,s,c){e.exports=c.p+"static/media/person_note_20_filled.ed784101c32f0dc5d6b4.svg"}}]);

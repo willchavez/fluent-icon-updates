@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[125420],{125420:function(e,i,s){e.exports=s.p+"static/media/fireplace_48_filled.18b975feef44ad8cba89.svg"}}]);

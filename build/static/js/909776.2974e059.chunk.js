@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[909776],{909776:function(e,c,i){e.exports=i.p+"static/media/mic_record_20_filled.daf5ce2bb9d082721a12.svg"}}]);

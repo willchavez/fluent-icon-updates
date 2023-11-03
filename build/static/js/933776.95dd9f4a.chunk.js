@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[933776],{933776:function(e,i,s){e.exports=s.p+"static/media/diamond_24_filled.9a51e330950a5c4392b0.svg"}}]);

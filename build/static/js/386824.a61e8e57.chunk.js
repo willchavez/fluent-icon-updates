@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[386824],{386824:function(e,s,c){e.exports=c.p+"static/media/chess_20_filled.79df9e2700711bfad26c.svg"}}]);

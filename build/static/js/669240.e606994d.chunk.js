@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[669240],{669240:function(e,s,c){e.exports=c.p+"static/media/dumbbell_28_regular.c10a96fdcf1927a9d142.svg"}}]);

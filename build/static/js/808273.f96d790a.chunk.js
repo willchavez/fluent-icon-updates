@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[808273],{808273:function(e,s,c){e.exports=c.p+"static/media/form_new_28_regular.819442f0caffa85d8882.svg"}}]);

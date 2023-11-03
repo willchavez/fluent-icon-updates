@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[465071],{465071:function(e,s,c){e.exports=c.p+"static/media/playing_cards_20_filled.e17ad1c9a2f9ecb59d19.svg"}}]);

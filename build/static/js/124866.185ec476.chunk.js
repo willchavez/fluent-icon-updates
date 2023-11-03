@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[124866],{124866:function(e,s,c){e.exports=c.p+"static/media/book_pulse_24_regular.c6acf0ae08066ae21d4d.svg"}}]);

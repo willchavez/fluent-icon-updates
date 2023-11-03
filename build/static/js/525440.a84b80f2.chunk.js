@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[525440],{525440:function(e,s,c){e.exports=c.p+"static/media/leaf_three_16_regular.cd97bbb1b1ff2dac883f.svg"}}]);

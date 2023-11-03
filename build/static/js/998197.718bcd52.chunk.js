@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[998197],{998197:function(e,t,s){e.exports=s.p+"static/media/text_number_list_rotate_90_24_filled.58fe579008736223bbb9.svg"}}]);

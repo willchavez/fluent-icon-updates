@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[892414],{892414:function(e,s,i){e.exports=i.p+"static/media/hat_graduation_sparkle_16_filled.2257d9a17d1130804209.svg"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[961419],{961419:function(e,s,a){e.exports=a.p+"static/media/arrow_sprint_16_regular.a6e6a6fa80114a3ec702.svg"}}]);

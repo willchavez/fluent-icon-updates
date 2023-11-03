@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[953741],{953741:function(e,s,c){e.exports=c.p+"static/media/braces_28_regular.4de14e66bc6e22fc3ede.svg"}}]);

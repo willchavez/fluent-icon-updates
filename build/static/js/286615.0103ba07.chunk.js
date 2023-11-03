@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[286615],{286615:function(e,c,s){e.exports=s.p+"static/media/clock_28_regular.b49b05d3cfa1e6d582d0.svg"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[190959],{190959:function(e,c,s){e.exports=s.p+"static/media/zoom_in_20_regular.e94f7bc400b31f065acc.svg"}}]);

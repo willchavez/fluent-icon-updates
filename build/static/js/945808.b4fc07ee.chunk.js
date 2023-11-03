@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[945808],{945808:function(e,s,a){e.exports=a.p+"static/media/people_list_20_regular.57966a0f2a5498aacce1.svg"}}]);

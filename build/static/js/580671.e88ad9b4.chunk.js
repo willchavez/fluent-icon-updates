@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[580671],{580671:function(e,i,o){e.exports=o.p+"static/media/developer_board_lightning_toolbox_20_filled.7fc560db2b73f246973a.svg"}}]);

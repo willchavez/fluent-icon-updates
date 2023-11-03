@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[999423],{999423:function(e,s,c){e.exports=c.p+"static/media/person_call_24_regular.6692381249619c6d668e.svg"}}]);

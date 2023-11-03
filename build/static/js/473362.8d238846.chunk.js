@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[473362],{473362:function(e,i,t){e.exports=t.p+"static/media/text_grammar_lightning_28_filled.87199ea3f7b773011fc5.svg"}}]);

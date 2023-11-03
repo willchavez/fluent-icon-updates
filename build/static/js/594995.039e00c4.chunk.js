@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[594995],{594995:function(e,s,t){e.exports=t.p+"static/media/book_letter_24_filled.7723deb77d3f865f762c.svg"}}]);

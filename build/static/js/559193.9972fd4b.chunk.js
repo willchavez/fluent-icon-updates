@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[559193],{559193:function(e,i,s){e.exports=s.p+"static/media/whiteboard_20_filled.f9266c63ad48c21f8aff.svg"}}]);

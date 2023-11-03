@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[429902],{429902:function(e,s,i){e.exports=i.p+"static/media/skip_forward_tab_20_regular.a3ef8273971dbc46293b.svg"}}]);

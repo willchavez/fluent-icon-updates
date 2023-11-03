@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[898603],{898603:function(e,s,i){e.exports=i.p+"static/media/money_off_24_filled.81d123d8e61e41f937b5.svg"}}]);

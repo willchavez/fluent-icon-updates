@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[949348],{949348:function(e,s,c){e.exports=c.p+"static/media/eraser_20_regular.af58ff6d62b89c8b27d7.svg"}}]);

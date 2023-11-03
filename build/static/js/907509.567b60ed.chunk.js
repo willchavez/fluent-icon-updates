@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[907509],{907509:function(e,s,p){e.exports=p.p+"static/media/people_error_24_regular.7c89a2197066136db979.svg"}}]);

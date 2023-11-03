@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[581980],{581980:function(e,s,i){e.exports=i.p+"static/media/position_to_back_20_regular.ab3b0ff7afede9332c29.svg"}}]);

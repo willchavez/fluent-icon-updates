@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[141890],{141890:function(e,s,i){e.exports=i.p+"static/media/headset_vr_20_filled.81d04e9542c98fa5de21.svg"}}]);

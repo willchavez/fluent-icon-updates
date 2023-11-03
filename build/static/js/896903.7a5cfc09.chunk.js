@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[896903],{896903:function(e,s,t){e.exports=t.p+"static/media/stethoscope_20_regular.42aa7e97eed321253802.svg"}}]);

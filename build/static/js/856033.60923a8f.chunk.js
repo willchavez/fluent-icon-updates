@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[856033],{856033:function(e,s,c){e.exports=c.p+"static/media/note_pin_16_regular.40f801ca12ec0538da69.svg"}}]);

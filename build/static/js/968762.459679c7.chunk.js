@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[968762],{968762:function(e,i,s){e.exports=s.p+"static/media/organization_28_regular.e6e2aa7171c66b5d8b63.svg"}}]);

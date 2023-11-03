@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[488197],{488197:function(e,s,c){e.exports=c.p+"static/media/ribbon_off_20_regular.8ae464e33f7c1babcbe8.svg"}}]);

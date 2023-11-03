@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[50516],{50516:function(e,s,i){e.exports=i.p+"static/media/globe_arrow_forward_16_filled.644af602d8bafe590b54.svg"}}]);

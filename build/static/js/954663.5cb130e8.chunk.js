@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[954663],{954663:function(e,i,s){e.exports=s.p+"static/media/globe_prohibited_20_filled.a55c03b2bd5462e54739.svg"}}]);

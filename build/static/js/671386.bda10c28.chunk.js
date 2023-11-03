@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[671386],{671386:function(e,s,t){e.exports=t.p+"static/media/desktop_keyboard_24_regular.41545dbe12cd1e7ae227.svg"}}]);

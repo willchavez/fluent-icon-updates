@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[374843],{374843:function(e,c,s){e.exports=s.p+"static/media/fast_acceleration_24_filled.da4c648167a1c1e626f4.svg"}}]);

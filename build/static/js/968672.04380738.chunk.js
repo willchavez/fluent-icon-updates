@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[968672],{968672:function(e,c,s){e.exports=s.p+"static/media/checkbox_unchecked_20_filled.b69fd03afa3681271e32.svg"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[723072],{723072:function(e,s,c){e.exports=c.p+"static/media/cloud_swap_20_filled.f41ce38fa9104de35ad6.svg"}}]);

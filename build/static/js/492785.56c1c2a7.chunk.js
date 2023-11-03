@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[492785],{492785:function(e,c,s){e.exports=s.p+"static/media/calendar_checkmark_24_regular.778928b829ec28f45577.svg"}}]);

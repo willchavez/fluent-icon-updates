@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[609775],{609775:function(e,i,s){e.exports=s.p+"static/media/edit_prohibited_48_regular.92971fd313a9f99f9fdc.svg"}}]);

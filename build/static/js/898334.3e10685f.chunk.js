@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[898334],{898334:function(e,s,c){e.exports=c.p+"static/media/folder_arrow_up_32_filled.d19ca26988683d407f1c.svg"}}]);

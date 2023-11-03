@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[298748],{298748:function(e,i,s){e.exports=s.p+"static/media/ios_chevron_right_20_filled.9d098921ed7195a7f743.svg"}}]);

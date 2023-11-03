@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[674647],{674647:function(e,s,a){e.exports=a.p+"static/media/hourglass_24_regular.82ed4ae5adeaf2fe2394.svg"}}]);

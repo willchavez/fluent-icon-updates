@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[623202],{623202:function(e,i,s){e.exports=s.p+"static/media/sanitize_20_filled.f054614b76a2cdb370f8.svg"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[419422],{419422:function(e,s,c){e.exports=c.p+"static/media/presence_away_12_regular.bf42545cf52b528d83d5.svg"}}]);

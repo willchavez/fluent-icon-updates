@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[522872],{522872:function(e,s,a){e.exports=a.p+"static/media/read_aloud_20_regular.a105b9716085c501ed87.svg"}}]);

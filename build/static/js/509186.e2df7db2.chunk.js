@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[509186],{509186:function(e,s,c){e.exports=c.p+"static/media/oval_24_filled.fd19cc526a284485aaf6.svg"}}]);

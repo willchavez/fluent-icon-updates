@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[445155],{445155:function(e,s,i){e.exports=i.p+"static/media/xbox_console_20_filled.7a5640440bd4d8219231.svg"}}]);

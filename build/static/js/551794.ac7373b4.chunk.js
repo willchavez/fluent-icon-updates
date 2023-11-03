@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[551794],{551794:function(e,s,t){e.exports=t.p+"static/media/text_header_3_lines_caret_24_regular.2a15b396caffd42a54eb.svg"}}]);

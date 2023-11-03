@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[981501],{981501:function(e,s,i){e.exports=i.p+"static/media/arrow_trending_lines_20_regular.21f7dedbba570d6916fd.svg"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[408451],{408451:function(e,s,c){e.exports=c.p+"static/media/flag_clock_28_regular.dd96f31e4ba575f4d60a.svg"}}]);

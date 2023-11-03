@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[413438],{413438:function(e,c,s){e.exports=s.p+"static/media/star_checkmark_20_regular.b3cc4362a084056e76fc.svg"}}]);

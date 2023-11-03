@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[418445],{418445:function(e,s,c){e.exports=c.p+"static/media/sport_baseball_20_regular.a8bbe26cf101bdec0f22.svg"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[849798],{849798:function(e,i,s){e.exports=s.p+"static/media/video_360_off_20_filled.d793c5d1122879f6c240.svg"}}]);

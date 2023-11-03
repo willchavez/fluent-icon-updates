@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[414106],{414106:function(e,s,t){e.exports=t.p+"static/media/bluetooth_32_regular.4adf4d1dd0c9a23d6ce6.svg"}}]);

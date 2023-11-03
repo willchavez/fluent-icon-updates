@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[304757],{304757:function(e,s,i){e.exports=i.p+"static/media/grid_20_regular.8ded2009253f7ae7709d.svg"}}]);

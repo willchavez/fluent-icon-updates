@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[704405],{704405:function(e,s,i){e.exports=i.p+"static/media/board_split_20_regular.2610febf5395278fdeae.svg"}}]);

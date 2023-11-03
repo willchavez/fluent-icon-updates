@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[102809],{102809:function(e,t,c){e.exports=c.p+"static/media/text_indent_decrease_ltr_16_regular.d847129122c8adf6ceca.svg"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[177362],{177362:function(e,s,i){e.exports=i.p+"static/media/protocol_handler_24_filled.13d3710bd1288dbe8e4f.svg"}}]);

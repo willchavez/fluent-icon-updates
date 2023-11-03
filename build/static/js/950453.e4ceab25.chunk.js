@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[950453],{950453:function(e,c,s){e.exports=s.p+"static/media/camera_switch_20_regular.c38c710551c79475b42f.svg"}}]);

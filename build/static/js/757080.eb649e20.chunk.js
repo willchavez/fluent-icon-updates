@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[757080],{757080:function(e,i,s){e.exports=s.p+"static/media/reading_list_add_16_filled.2f61a6e2fc0406122128.svg"}}]);

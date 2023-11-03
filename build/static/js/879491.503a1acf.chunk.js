@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[879491],{879491:function(e,t,s){e.exports=s.p+"static/media/text_number_list_rtl_90_24_regular.791de55f6a68ad5e8643.svg"}}]);

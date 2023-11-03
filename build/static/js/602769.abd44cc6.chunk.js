@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[602769],{602769:function(e,s,f){e.exports=f.p+"static/media/calendar_week_numbers_20_filled.1cffbdfefde4a70f2a2f.svg"}}]);

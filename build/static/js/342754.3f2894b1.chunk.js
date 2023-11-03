@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[342754],{342754:function(e,c,s){e.exports=s.p+"static/media/document_bullet_list_clock_24_filled.718f9adc12c1743f9fd2.svg"}}]);

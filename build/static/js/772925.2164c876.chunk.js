@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[772925],{772925:function(e,s,i){e.exports=i.p+"static/media/flag_off_48_regular.672170a10468031e575f.svg"}}]);

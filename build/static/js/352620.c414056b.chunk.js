@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[352620],{352620:function(e,s,i){e.exports=i.p+"static/media/calendar_shield_24_filled.d02451642f32a4fe2988.svg"}}]);

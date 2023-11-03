@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[670125],{670125:function(e,i,s){e.exports=s.p+"static/media/text_position_line_20_regular.23267dc472407366d47a.svg"}}]);

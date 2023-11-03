@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[624090],{624090:function(e,s,t){e.exports=t.p+"static/media/speaker_bluetooth_20_filled.f9451dbe9998962fa3c4.svg"}}]);

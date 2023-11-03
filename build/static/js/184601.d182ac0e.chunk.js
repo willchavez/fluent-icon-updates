@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[184601],{184601:function(e,s,t){e.exports=t.p+"static/media/caret_left_24_filled.3f09e3269950c66652d9.svg"}}]);

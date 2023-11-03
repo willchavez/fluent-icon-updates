@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[331558],{331558:function(e,s,i){e.exports=i.p+"static/media/double_tap_swipe_down_24_filled.b26fae0e31522f3e1878.svg"}}]);

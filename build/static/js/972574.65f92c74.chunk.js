@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[972574],{972574:function(e,s,a){e.exports=a.p+"static/media/spacebar_24_regular.da5ef2e443e7b7b9a40e.svg"}}]);

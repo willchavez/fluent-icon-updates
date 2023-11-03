@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[115082],{115082:function(e,c,s){e.exports=s.p+"static/media/balloon_24_regular.8c3bb196e64fcbb6dce5.svg"}}]);

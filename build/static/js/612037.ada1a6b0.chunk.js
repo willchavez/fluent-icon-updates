@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[612037],{612037:function(e,s,a){e.exports=a.p+"static/media/book_exclamation_mark_20_regular.04bb55f1641a5743227f.svg"}}]);

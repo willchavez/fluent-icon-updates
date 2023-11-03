@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[915464],{915464:function(e,s,a){e.exports=a.p+"static/media/showerhead_32_regular.a9135a5ea740508ad9bb.svg"}}]);

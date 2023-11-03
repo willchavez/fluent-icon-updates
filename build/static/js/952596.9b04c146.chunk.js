@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[952596],{952596:function(e,s,c){e.exports=c.p+"static/media/drawer_play_20_regular.535d5261bf7b67345c9c.svg"}}]);

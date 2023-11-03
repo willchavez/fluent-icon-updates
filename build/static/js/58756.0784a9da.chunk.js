@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[58756],{58756:function(e,s,i){e.exports=i.p+"static/media/text_grammar_dismiss_24_regular.c568f6b6d86f469536af.svg"}}]);

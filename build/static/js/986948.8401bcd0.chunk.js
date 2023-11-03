@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[986948],{986948:function(e,s,i){e.exports=i.p+"static/media/dishwasher_20_regular.64edb37f678a56049cfd.svg"}}]);

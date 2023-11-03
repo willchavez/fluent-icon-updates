@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[85188],{85188:function(e,s,a){e.exports=a.p+"static/media/person_heart_24_regular.edb0d77a27eb3c4ea6ca.svg"}}]);

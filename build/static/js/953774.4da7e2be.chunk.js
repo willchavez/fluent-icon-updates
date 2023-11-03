@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[953774],{953774:function(e,s,t){e.exports=t.p+"static/media/hand_left_chat_28_regular.8a528684c90f00fba2f4.svg"}}]);

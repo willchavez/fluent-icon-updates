@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[231849],{231849:function(e,s,a){e.exports=a.p+"static/media/sport_american_football_24_filled.eb77dc7de280a4a618ea.svg"}}]);

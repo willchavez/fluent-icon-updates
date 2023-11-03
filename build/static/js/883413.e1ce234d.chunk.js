@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[883413],{883413:function(e,c,i){e.exports=i.p+"static/media/device_meeting_room_28_regular.112e03c78f7ca306b375.svg"}}]);

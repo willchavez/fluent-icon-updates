@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[715530],{715530:function(e,c,s){e.exports=s.p+"static/media/shifts_checkmark_20_regular.a7faac27c2c56e71b356.svg"}}]);

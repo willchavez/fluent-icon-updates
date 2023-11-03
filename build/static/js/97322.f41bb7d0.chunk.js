@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[97322],{97322:function(e,c,s){e.exports=s.p+"static/media/arrow_undo_20_filled.21cbc11cb19a381ad830.svg"}}]);

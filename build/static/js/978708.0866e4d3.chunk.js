@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[978708],{978708:function(e,s,i){e.exports=i.p+"static/media/question_circle_24_regular.676dbdb47154d46e507b.svg"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[227320],{227320:function(e,i,s){e.exports=s.p+"static/media/diversity_28_filled.010994c84f4752918e28.svg"}}]);

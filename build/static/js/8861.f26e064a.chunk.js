@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[8861],{8861:function(e,c,i){e.exports=i.p+"static/media/binder_triangle_20_regular.a40b2c697a9c04c82cef.svg"}}]);

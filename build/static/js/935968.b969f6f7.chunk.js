@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[935968],{935968:function(e,s,t){e.exports=t.p+"static/media/lottery_24_filled.5d5cd41b6ba0272596a1.svg"}}]);

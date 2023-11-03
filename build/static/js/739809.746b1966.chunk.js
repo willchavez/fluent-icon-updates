@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[739809],{739809:function(e,c,s){e.exports=s.p+"static/media/play_circle_48_regular.ba9227ebf1ad6c0fd94f.svg"}}]);

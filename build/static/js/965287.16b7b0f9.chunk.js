@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[965287],{965287:function(e,s,c){e.exports=c.p+"static/media/slide_microphone_32_regular.3a6efc09649f26dbc0b2.svg"}}]);

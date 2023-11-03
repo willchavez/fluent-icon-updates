@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[726929],{726929:function(e,i,s){e.exports=s.p+"static/media/brain_circuit_24_regular.b107ff1ef337a02a7d57.svg"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[92306],{92306:function(e,s,i){e.exports=i.p+"static/media/glasses_32_filled.9edea9d627377bbf6d9a.svg"}}]);

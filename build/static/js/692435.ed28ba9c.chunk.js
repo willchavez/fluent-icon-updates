@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[692435],{692435:function(e,c,s){e.exports=s.p+"static/media/wallet_16_regular.87fc4c0c203f9fa3cb45.svg"}}]);

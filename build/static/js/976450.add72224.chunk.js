@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[976450],{976450:function(e,s,i){e.exports=i.p+"static/media/usb_stick_20_regular.4bdf20a1683be1e30766.svg"}}]);

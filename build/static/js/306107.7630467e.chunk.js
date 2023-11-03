@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[306107],{306107:function(e,s,i){e.exports=i.p+"static/media/umbrella_24_filled.bdde233c01353e396722.svg"}}]);

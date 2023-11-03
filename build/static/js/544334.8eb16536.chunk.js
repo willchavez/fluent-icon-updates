@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[544334],{544334:function(e,s,a){e.exports=a.p+"static/media/phone_12_regular.83a6815371f8877b6eaa.svg"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[575073],{575073:function(e,a,r){e.exports=r.p+"static/media/text_grammar_error_20_regular.93a1f6caff20ea5f9ab7.svg"}}]);

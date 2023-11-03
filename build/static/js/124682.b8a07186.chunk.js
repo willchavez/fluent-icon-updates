@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[124682],{124682:function(e,s,i){e.exports=i.p+"static/media/globe_desktop_24_filled.b4e8da94c64d15736d38.svg"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[78720],{78720:function(e,c,s){e.exports=s.p+"static/media/wallet_credit_card_24_regular.0f0d293dc0d0709090cf.svg"}}]);

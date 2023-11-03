@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[66351],{66351:function(e,c,s){e.exports=s.p+"static/media/clipboard_clock_20_regular.abef78672ec6a5260a41.svg"}}]);

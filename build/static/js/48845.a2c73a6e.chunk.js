@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[48845],{48845:function(e,s,i){e.exports=i.p+"static/media/shifts_team_24_filled.dc834a794d06d71dca0e.svg"}}]);

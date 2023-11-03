@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[945889],{945889:function(e,s,t){e.exports=t.p+"static/media/toggle_left_48_regular.f0a5ff6bb8b796b7b533.svg"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[831094],{831094:function(e,s,c){e.exports=c.p+"static/media/scales_32_regular.3f3c664dc3bb4023b1c5.svg"}}]);

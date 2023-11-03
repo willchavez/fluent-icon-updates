@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[789338],{789338:function(e,s,i){e.exports=i.p+"static/media/delete_dismiss_28_filled.75004db4045a886b74a0.svg"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[642199],{642199:function(e,s,t){e.exports=t.p+"static/media/clipboard_bullet_list_ltr_16_regular.1d95765e1d0f5c3e9ba4.svg"}}]);

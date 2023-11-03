@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[841696],{841696:function(e,s,t){e.exports=t.p+"static/media/document_flowchart_20_regular.d539085007f9e440a7da.svg"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[780434],{780434:function(e,c,s){e.exports=s.p+"static/media/puzzle_cube_piece_20_regular.fe74007b727ff03dbc87.svg"}}]);

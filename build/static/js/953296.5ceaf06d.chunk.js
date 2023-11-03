@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[953296],{953296:function(e,i,r){e.exports=r.p+"static/media/gift_card_arrow_right_24_regular.a553260b0a19669e3231.svg"}}]);

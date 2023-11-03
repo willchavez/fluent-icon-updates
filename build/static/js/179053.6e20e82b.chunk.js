@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[179053],{179053:function(e,s,c){e.exports=c.p+"static/media/emoji_sparkle_32_filled.c74cd953c016e079eb35.svg"}}]);

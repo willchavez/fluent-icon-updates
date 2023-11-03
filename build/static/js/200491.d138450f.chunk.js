@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[200491],{200491:function(e,s,i){e.exports=i.p+"static/media/shape_union_16_filled.1e452f27a6acb6305514.svg"}}]);

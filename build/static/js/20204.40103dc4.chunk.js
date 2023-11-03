@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[20204],{20204:function(e,s,c){e.exports=c.p+"static/media/door_arrow_left_20_filled.4adb555e79c66f471f1c.svg"}}]);

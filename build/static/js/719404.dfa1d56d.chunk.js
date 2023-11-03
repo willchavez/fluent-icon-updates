@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[719404],{719404:function(e,a,s){e.exports=s.p+"static/media/star_line_horizontal_3_16_regular.b82a2aaf1f1a5e359ff5.svg"}}]);

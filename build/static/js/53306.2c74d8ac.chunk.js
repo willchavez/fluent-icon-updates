@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[53306],{53306:function(e,s,p){e.exports=p.p+"static/media/people_swap_20_filled.649e23bb59656d300ee9.svg"}}]);

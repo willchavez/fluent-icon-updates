@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[900608],{900608:function(e,d,s){e.exports=s.p+"static/media/document_pill_24_regular.7e10ed3d615db626ddde.svg"}}]);

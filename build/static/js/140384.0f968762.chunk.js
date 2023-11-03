@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[140384],{140384:function(e,s,i){e.exports=i.p+"static/media/cursor_hover_24_filled.5a726dd72e93a788e86f.svg"}}]);

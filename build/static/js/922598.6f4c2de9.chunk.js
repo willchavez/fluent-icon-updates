@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[922598],{922598:function(e,s,c){e.exports=c.p+"static/media/circle_eraser_20_filled.1c7d6b4de1f2a49ff501.svg"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[191762],{191762:function(e,s,t){e.exports=t.p+"static/media/arrow_outline_down_left_48_regular.2d6adc69c2661d43749b.svg"}}]);

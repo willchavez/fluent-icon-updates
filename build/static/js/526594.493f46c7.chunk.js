@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[526594],{526594:function(e,s,c){e.exports=c.p+"static/media/merge_16_regular.04c26579e250c97ab25e.svg"}}]);

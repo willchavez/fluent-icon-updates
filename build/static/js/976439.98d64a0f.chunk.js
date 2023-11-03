@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[976439],{976439:function(e,i,s){e.exports=s.p+"static/media/drive_train_20_filled.adcf908a3a452ffe652c.svg"}}]);

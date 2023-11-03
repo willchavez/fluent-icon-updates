@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[146315],{744196:function(e,s,c){e.exports=c.p+"static/media/calendar_date_24_filled.276a2eff2d8db1490b2c.svg"}}]);

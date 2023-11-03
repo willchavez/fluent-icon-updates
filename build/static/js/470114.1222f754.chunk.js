@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[470114],{470114:function(e,c,s){e.exports=s.p+"static/media/tab_desktop_clock_20_filled.8c5184c6149938a2778d.svg"}}]);

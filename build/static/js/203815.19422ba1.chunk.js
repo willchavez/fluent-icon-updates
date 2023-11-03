@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[203815],{203815:function(e,s,c){e.exports=c.p+"static/media/calendar_phone_16_regular.30d1461ed6e6013a54cd.svg"}}]);

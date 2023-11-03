@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[297527],{297527:function(e,s,c){e.exports=c.p+"static/media/wallpaper_24_regular.f28afc4e7c48571f4963.svg"}}]);

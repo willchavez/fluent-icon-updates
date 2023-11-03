@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[617522],{617522:function(e,c,s){e.exports=s.p+"static/media/calendar_chat_20_filled.59558aa45c44507699b3.svg"}}]);

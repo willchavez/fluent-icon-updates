@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[881868],{881868:function(e,c,s){e.exports=s.p+"static/media/people_lock_24_filled.288ee4cad5474c1d5285.svg"}}]);

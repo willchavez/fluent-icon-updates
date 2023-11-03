@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[758217],{758217:function(e,s,t){e.exports=t.p+"static/media/document_heart_pulse_24_regular.fa88cb2eee710dda4b9d.svg"}}]);

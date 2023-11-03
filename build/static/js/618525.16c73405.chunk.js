@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[618525],{618525:function(e,c,s){e.exports=s.p+"static/media/text_abc_underline_double_32_regular.4999b9fb0f4ae45cac19.svg"}}]);

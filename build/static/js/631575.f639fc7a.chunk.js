@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[631575],{631575:function(e,c,s){e.exports=s.p+"static/media/arrow_sync_checkmark_20_regular.4fa3df67a01848c21cb7.svg"}}]);

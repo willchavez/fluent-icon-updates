@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[696758],{696758:function(e,s,i){e.exports=i.p+"static/media/book_coins_24_filled.99111465fe3485d93667.svg"}}]);

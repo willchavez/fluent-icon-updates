@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[404986],{404986:function(e,i,s){e.exports=s.p+"static/media/communication_person_24_filled.eb6a1a6d566395ec060b.svg"}}]);

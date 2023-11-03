@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[367226],{367226:function(e,a,s){e.exports=s.p+"static/media/data_treemap_20_filled.4121b90ea10ce0aac191.svg"}}]);

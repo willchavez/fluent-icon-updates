@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[486542],{486542:function(e,s,i){e.exports=i.p+"static/media/text_bullet_list_dismiss_20_filled.470c4479ab99a24caf50.svg"}}]);

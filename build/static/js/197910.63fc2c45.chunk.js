@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[197910],{197910:function(e,i,s){e.exports=s.p+"static/media/document_lightning_16_regular.b5eba1dcd199e14d912d.svg"}}]);

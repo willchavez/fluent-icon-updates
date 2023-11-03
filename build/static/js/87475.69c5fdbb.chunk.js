@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[87475],{87475:function(e,i,s){e.exports=s.p+"static/media/dialpad_32_filled.b6b646e1e11721e2517f.svg"}}]);

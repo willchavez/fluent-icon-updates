@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[742575],{742575:function(e,s,c){e.exports=c.p+"static/media/vehicle_ship_20_regular.cd4d0236fc536a79b47a.svg"}}]);

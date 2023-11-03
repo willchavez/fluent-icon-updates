@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[994538],{994538:function(e,c,s){e.exports=s.p+"static/media/arrow_clockwise_24_regular.cbff25649cba0df4d3bb.svg"}}]);

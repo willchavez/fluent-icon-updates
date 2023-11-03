@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[157626],{157626:function(e,s,i){e.exports=i.p+"static/media/hdr_24_filled.f7be998a7056a5f877c3.svg"}}]);

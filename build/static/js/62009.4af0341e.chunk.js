@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[62009],{62009:function(e,s,i){e.exports=i.p+"static/media/ink_stroke_20_regular.35256244c80347a9af57.svg"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[271710],{271710:function(e,s,i){e.exports=i.p+"static/media/arrow_between_down_24_filled.46de9f30af597b50dc8b.svg"}}]);

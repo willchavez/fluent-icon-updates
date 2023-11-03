@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[629888],{629888:function(e,s,i){e.exports=i.p+"static/media/door_tag_20_filled.cd69a38e717420b9e89b.svg"}}]);

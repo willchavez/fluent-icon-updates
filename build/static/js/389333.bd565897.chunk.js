@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[389333],{389333:function(e,s,p){e.exports=p.p+"static/media/desktop_pulse_28_regular.ea3f605f915413c31533.svg"}}]);

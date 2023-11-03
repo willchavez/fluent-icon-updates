@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[905822],{905822:function(e,c,i){e.exports=i.p+"static/media/align_center_horizontal_28_filled.38774646c20f28cf7cd5.svg"}}]);

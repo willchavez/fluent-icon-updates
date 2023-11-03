@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[991287],{991287:function(e,s,i){e.exports=i.p+"static/media/heart_pulse_20_filled.72ad706faa7e2870beb1.svg"}}]);

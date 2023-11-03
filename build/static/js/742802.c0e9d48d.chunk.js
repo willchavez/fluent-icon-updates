@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[742802],{742802:function(e,a,r){e.exports=r.p+"static/media/drawer_arrow_download_24_regular.030fd9e099497a3ea7c0.svg"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[513910],{513910:function(e,i,s){e.exports=s.p+"static/media/thinking_20_filled.ac455261e4ece3fd8bb5.svg"}}]);

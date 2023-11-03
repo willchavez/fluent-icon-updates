@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[199076],{199076:function(e,c,s){e.exports=s.p+"static/media/pentagon_48_regular.676c24ace480675bfbc6.svg"}}]);

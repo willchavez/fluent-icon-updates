@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[887214],{887214:function(e,s,c){e.exports=c.p+"static/media/sign_out_20_regular.c08c47ed6377fb061351.svg"}}]);

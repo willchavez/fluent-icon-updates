@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[673333],{673333:function(e,s,i){e.exports=i.p+"static/media/sticker_12_filled.3aae8523f7f4f6224bee.svg"}}]);

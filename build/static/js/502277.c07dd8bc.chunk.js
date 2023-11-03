@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[502277],{502277:function(e,s,a){e.exports=a.p+"static/media/rectangle_landscape_16_regular.b32d3a5938151b35da45.svg"}}]);

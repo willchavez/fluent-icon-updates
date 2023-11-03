@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[982112],{982112:function(e,s,i){e.exports=i.p+"static/media/point_scan_24_filled.18c23f9909b13de10315.svg"}}]);

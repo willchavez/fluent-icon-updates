@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[480931],{480931:function(e,c,i){e.exports=i.p+"static/media/flip_vertical_20_regular.4282925a28c1c9016b93.svg"}}]);

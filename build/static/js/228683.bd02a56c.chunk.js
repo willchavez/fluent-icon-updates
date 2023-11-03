@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[228683],{228683:function(e,i,s){e.exports=s.p+"static/media/building_retail_shield_20_filled.bee997fae2472fadd185.svg"}}]);

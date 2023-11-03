@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[568478],{568478:function(e,c,s){e.exports=s.p+"static/media/calculator_arrow_clockwise_24_filled.9532fa6993bc9db5b3d9.svg"}}]);

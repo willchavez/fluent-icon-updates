@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[450450],{450450:function(e,c,s){e.exports=s.p+"static/media/power_24_regular.a51c0e4748ccf87954b6.svg"}}]);

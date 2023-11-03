@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[447723],{447723:function(e,c,s){e.exports=s.p+"static/media/text_grammar_checkmark_20_regular.abedc7030387934e844b.svg"}}]);

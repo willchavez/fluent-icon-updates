@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[99250],{99250:function(e,s,a){e.exports=a.p+"static/media/cellular_4g_24_regular.f7fde7114baf57ade96b.svg"}}]);

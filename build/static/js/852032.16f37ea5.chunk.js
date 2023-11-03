@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[852032],{852032:function(e,o,s){e.exports=s.p+"static/media/xbox_controller_error_20_filled.a9ba6fd7cb33770ffb37.svg"}}]);

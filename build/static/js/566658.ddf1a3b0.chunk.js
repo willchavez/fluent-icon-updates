@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[566658],{566658:function(e,i,s){e.exports=s.p+"static/media/gavel_prohibited_20_filled.9599fe5fb3569e324e46.svg"}}]);

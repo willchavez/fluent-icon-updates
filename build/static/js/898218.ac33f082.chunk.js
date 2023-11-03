@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[898218],{898218:function(e,s,c){e.exports=c.p+"static/media/book_question_mark_rtl_20_regular.67f1c21c921940d96ac8.svg"}}]);

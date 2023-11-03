@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[565226],{565226:function(e,s,c){e.exports=c.p+"static/media/rhombus_24_filled.c2aeb49d4e03974c0f5f.svg"}}]);

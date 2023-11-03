@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[820547],{820547:function(e,s,i){e.exports=i.p+"static/media/hand_wave_20_regular.d979be2e9455911e873e.svg"}}]);

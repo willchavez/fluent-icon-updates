@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[896522],{896522:function(e,s,i){e.exports=i.p+"static/media/building_skyscraper_20_filled.1222c23095125c8d59e0.svg"}}]);

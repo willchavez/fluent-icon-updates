@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[549566],{549566:function(e,s,t){e.exports=t.p+"static/media/plant_ragweed_20_regular.f3268759b3997b3e28f0.svg"}}]);

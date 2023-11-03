@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[987824],{987824:function(e,s,c){e.exports=c.p+"static/media/scan_camera_28_regular.6b96d7dd4096f51df7b8.svg"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[671467],{671467:function(e,s,c){e.exports=c.p+"static/media/call_dismiss_24_regular.c5c08d6301a26254cd5a.svg"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[374484],{374484:function(e,s,i){e.exports=i.p+"static/media/presence_dnd_24_filled.b5da4e0ba1772ebaebd7.svg"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[993607],{993607:function(e,i,s){e.exports=s.p+"static/media/cursor_prohibited_20_filled.a71f2b575d61f70a9486.svg"}}]);

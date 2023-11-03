@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[499749],{499749:function(e,s,i){e.exports=i.p+"static/media/breakout_room_24_filled.5fdff7c77be9dfbb02d1.svg"}}]);

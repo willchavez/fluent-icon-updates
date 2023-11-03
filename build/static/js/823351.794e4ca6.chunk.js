@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[823351],{823351:function(e,i,s){e.exports=s.p+"static/media/airplane_landing_20_regular.b90e489a2291c15f564e.svg"}}]);

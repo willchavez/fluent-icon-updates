@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[42780],{42780:function(e,t,s){e.exports=s.p+"static/media/tablet_laptop_20_filled.571524af8640b69fafeb.svg"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[506867],{506867:function(e,s,i){e.exports=i.p+"static/media/speaker_usb_24_filled.9928682aed56a81c96e5.svg"}}]);

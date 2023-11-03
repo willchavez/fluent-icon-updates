@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[306281],{306281:function(e,s,a){e.exports=a.p+"static/media/calendar_today_20_regular.100d6fa7fdd30c921f56.svg"}}]);

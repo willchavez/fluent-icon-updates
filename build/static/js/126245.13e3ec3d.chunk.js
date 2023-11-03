@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[126245],{126245:function(e,s,c){e.exports=c.p+"static/media/luggage_20_regular.d2e7c2ca63d8607ea412.svg"}}]);

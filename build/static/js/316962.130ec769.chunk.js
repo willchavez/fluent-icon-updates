@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[316962],{316962:function(e,s,t){e.exports=t.p+"static/media/hexagon_three_24_regular.384ae6f653ed7a5ee490.svg"}}]);

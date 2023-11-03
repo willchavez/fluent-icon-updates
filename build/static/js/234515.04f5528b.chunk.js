@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[234515],{234515:function(e,s,a){e.exports=a.p+"static/media/calendar_3_day_16_regular.187176bd077d6f659989.svg"}}]);

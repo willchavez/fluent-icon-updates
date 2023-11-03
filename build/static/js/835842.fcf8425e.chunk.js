@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[835842],{835842:function(e,s,c){e.exports=c.p+"static/media/mail_clock_20_regular.0e60d1b6289f480881a9.svg"}}]);

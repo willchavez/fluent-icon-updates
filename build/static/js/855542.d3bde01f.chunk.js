@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[855542],{855542:function(e,c,s){e.exports=s.p+"static/media/call_checkmark_20_regular.1a1dcd5e109e414d7a39.svg"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[356400],{356400:function(e,i,c){e.exports=c.p+"static/media/vehicle_bicycle_20_filled.96d836b4aa6fbffae754.svg"}}]);

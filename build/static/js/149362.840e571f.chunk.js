@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[149362],{149362:function(e,c,i){e.exports=i.p+"static/media/vehicle_cable_car_28_filled.c28a0415b1d8449076b4.svg"}}]);

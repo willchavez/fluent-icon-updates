@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[161420],{161420:function(e,s,t){e.exports=t.p+"static/media/patient_24_regular.0f696cd6f772856c55e6.svg"}}]);

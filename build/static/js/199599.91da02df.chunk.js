@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[199599],{199599:function(e,c,s){e.exports=s.p+"static/media/camera_add_20_filled.892b38f0ca4d25169cce.svg"}}]);

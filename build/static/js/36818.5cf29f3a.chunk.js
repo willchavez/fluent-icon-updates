@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[36818],{36818:function(e,t,s){e.exports=s.p+"static/media/gantt_chart_24_filled.2dcf122b59ee1feb4e34.svg"}}]);

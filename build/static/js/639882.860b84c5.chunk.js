@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[639882],{639882:function(e,s,i){e.exports=i.p+"static/media/arrow_bounce_20_filled.b3a3f1b14d2b4455a04d.svg"}}]);

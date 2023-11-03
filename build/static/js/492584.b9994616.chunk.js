@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[492584],{492584:function(e,s,c){e.exports=c.p+"static/media/cellular_5g_20_regular.37f8c38097ea03d17301.svg"}}]);

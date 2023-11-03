@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[479052],{479052:function(e,s,i){e.exports=i.p+"static/media/swimming_pool_24_regular.463284af28bdbca4ecf7.svg"}}]);

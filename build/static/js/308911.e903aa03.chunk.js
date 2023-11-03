@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[308911],{308911:function(e,s,r){e.exports=r.p+"static/media/hourglass_one_quarter_20_regular.b32cb60323684fdf725b.svg"}}]);

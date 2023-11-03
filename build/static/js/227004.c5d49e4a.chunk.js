@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[227004],{227004:function(e,d,c){e.exports=c.p+"static/media/keyboard_layout_one_handed_left_24_filled.998cb5fdcaddc0061de1.svg"}}]);

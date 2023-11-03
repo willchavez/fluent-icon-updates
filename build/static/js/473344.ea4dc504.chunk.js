@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[473344],{473344:function(e,i,s){e.exports=s.p+"static/media/iot_24_filled.5b1d3efa6056d76ef5bc.svg"}}]);

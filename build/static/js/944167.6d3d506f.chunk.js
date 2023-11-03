@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[944167],{944167:function(e,i,s){e.exports=s.p+"static/media/lightbulb_filament_16_regular.4b33afb0da78fbbb281d.svg"}}]);

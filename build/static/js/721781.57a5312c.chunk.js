@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[721781],{721781:function(e,s,c){e.exports=c.p+"static/media/globe_person_24_regular.21ca1893e9eae8c2d706.svg"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[144996],{144996:function(e,s,i){e.exports=i.p+"static/media/mail_dismiss_28_regular.9d552f48b1748e33d270.svg"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[981257],{981257:function(e,s,i){e.exports=i.p+"static/media/tv_usb_48_filled.b8183d483809b828953b.svg"}}]);

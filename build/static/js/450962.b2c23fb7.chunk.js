@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[450962],{450962:function(e,s,i){e.exports=i.p+"static/media/serial_port_16_filled.7319cf613b3a53244ad1.svg"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[572124],{572124:function(e,c,s){e.exports=s.p+"static/media/earth_16_regular.3d7be06f468cca1fc5fe.svg"}}]);

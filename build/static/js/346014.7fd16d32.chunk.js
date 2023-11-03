@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[346014],{346014:function(e,c,s){e.exports=s.p+"static/media/credit_card_toolbox_20_regular.0e3a658cbb69834eaa74.svg"}}]);

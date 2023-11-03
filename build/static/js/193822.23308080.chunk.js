@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[193822],{193822:function(e,s,i){e.exports=i.p+"static/media/dentist_48_filled.836ed08e18b718e1a7e0.svg"}}]);

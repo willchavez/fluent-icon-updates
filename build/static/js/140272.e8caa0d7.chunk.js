@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[140272],{140272:function(e,s,t){e.exports=t.p+"static/media/text_period_asterisk_20_regular.5f9028bc8857780047fb.svg"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[637745],{637745:function(e,s,c){e.exports=c.p+"static/media/service_bell_20_regular.37cff9ad13a5e0148894.svg"}}]);

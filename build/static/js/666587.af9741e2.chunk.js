@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[666587],{666587:function(e,i,c){e.exports=c.p+"static/media/lightbulb_circle_24_filled.196775676a5b946c2052.svg"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[871994],{871994:function(e,c,s){e.exports=s.p+"static/media/remote_16_regular.457cd75b3c272c5d9e29.svg"}}]);

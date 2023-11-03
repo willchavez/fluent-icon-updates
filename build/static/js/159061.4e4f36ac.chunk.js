@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[159061],{159061:function(e,c,i){e.exports=i.p+"static/media/receipt_bag_24_filled.1755cccd8eca98ef9326.svg"}}]);

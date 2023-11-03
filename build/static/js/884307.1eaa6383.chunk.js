@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[884307],{884307:function(e,c,i){e.exports=i.p+"static/media/pin_off_28_filled.1cfc8c56d63f367301d0.svg"}}]);

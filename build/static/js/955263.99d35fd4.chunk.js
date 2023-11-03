@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[955263],{955263:function(e,s,t){e.exports=t.p+"static/media/food_toast_24_filled.0c0850d73d6c9833673a.svg"}}]);

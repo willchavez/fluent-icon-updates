@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[630359],{630359:function(e,s,f){e.exports=f.p+"static/media/leaf_one_20_filled.927fd4f82d13be8f0f3b.svg"}}]);

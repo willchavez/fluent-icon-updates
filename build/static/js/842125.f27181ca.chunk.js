@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[842125],{842125:function(e,t,s){e.exports=s.p+"static/media/text_number_list_ltr_24_regular.80785a9dcdb886dd35e6.svg"}}]);

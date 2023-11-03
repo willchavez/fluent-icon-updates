@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[812725],{812725:function(e,s,i){e.exports=i.p+"static/media/number_symbol_square_20_regular.8554b5d16a03f33f8ed9.svg"}}]);

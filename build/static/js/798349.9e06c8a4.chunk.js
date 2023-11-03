@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[798349],{798349:function(e,s,i){e.exports=i.p+"static/media/pivot_20_regular.9b9ddd147d1b998e30a6.svg"}}]);

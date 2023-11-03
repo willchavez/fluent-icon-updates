@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[394233],{394233:function(e,i,s){e.exports=s.p+"static/media/branch_fork_link_20_filled.05bb4a220c9f2d295d1b.svg"}}]);

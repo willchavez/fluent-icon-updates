@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[179262],{179262:function(e,s,a){e.exports=a.p+"static/media/megaphone_loud_20_regular.0b687faa5552de57b8d3.svg"}}]);

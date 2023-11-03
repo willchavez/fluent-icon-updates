@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[33020],{33020:function(e,c,s){e.exports=s.p+"static/media/checkmark_circle_20_regular.647a444b1610324e0f77.svg"}}]);

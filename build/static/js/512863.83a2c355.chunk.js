@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[512863],{512863:function(e,s,c){e.exports=c.p+"static/media/database_switch_20_regular.55729b9bc66dfcedc8e9.svg"}}]);

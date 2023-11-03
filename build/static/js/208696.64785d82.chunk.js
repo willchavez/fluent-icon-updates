@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[208696],{208696:function(e,a,r){e.exports=r.p+"static/media/currency_dollar_euro_20_regular.a95aaf84b2ba49545965.svg"}}]);

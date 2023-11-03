@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[915228],{915228:function(e,s,i){e.exports=i.p+"static/media/money_dismiss_20_filled.6f77c9b6598f9cce65a8.svg"}}]);

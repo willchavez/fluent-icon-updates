@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[912278],{912278:function(e,i,s){e.exports=s.p+"static/media/slide_transition_24_filled.28179b5df169f626c9c7.svg"}}]);

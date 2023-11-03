@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[815942],{815942:function(e,s,i){e.exports=i.p+"static/media/book_database_24_filled.1403e7d3af7bf16fb207.svg"}}]);

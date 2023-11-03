@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[94993],{94993:function(e,s,c){e.exports=c.p+"static/media/trophy_lock_16_regular.4a52abd9c2444e4f2eaf.svg"}}]);

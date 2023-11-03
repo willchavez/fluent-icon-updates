@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[748329],{748329:function(e,s,c){e.exports=c.p+"static/media/notepad_person_24_regular.40816b42e9e7e4ccaf1d.svg"}}]);

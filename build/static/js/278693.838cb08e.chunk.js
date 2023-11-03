@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[278693],{278693:function(e,s,i){e.exports=i.p+"static/media/video_person_clock_28_filled.29755b9a20e8120f42ae.svg"}}]);

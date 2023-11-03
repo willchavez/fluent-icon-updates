@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[50348],{50348:function(e,s,i){e.exports=i.p+"static/media/kiosk_24_regular.74431084099c06f4e247.svg"}}]);

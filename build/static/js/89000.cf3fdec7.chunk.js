@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[89e3],{89e3:function(e,c,s){e.exports=s.p+"static/media/phone_update_checkmark_24_filled.22231ac07ccab90fb64b.svg"}}]);

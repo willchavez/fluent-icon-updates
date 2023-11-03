@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[522525],{522525:function(e,c,i){e.exports=i.p+"static/media/walkie_talkie_28_filled.c41285b4c10cbca3cf0e.svg"}}]);

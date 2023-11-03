@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[112740],{112740:function(e,s,c){e.exports=c.p+"static/media/phone_vertical_scroll_24_regular.8bd8808fe341286f679d.svg"}}]);

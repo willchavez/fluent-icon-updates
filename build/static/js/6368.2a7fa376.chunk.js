@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[6368],{6368:function(e,c,s){e.exports=s.p+"static/media/presence_available_16_filled.6dc1cc08d7701decc924.svg"}}]);

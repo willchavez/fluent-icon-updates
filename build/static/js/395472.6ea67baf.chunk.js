@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[395472],{395472:function(e,s,c){e.exports=c.p+"static/media/sound_wave_circle_20_regular.c2459d83b32350252a69.svg"}}]);

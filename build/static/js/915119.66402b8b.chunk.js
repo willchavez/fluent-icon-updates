@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[915119],{915119:function(e,s,t){e.exports=t.p+"static/media/real_estate_24_filled.6cbff6ea56ffd1f2d102.svg"}}]);

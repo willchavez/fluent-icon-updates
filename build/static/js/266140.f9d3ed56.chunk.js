@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[266140],{266140:function(e,a,i){e.exports=i.p+"static/media/decimal_arrow_left_24_filled.a0ac73ede5f63336a71a.svg"}}]);

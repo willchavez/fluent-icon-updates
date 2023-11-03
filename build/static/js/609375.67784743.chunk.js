@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[609375],{609375:function(e,c,s){e.exports=s.p+"static/media/calendar_cancel_16_filled.11528bef30fe4b108bb9.svg"}}]);

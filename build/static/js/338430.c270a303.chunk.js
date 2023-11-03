@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[338430],{338430:function(e,s,c){e.exports=c.p+"static/media/surface_earbuds_20_regular.ef964e921ee8ce1b9f76.svg"}}]);

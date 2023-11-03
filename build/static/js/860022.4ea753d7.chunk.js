@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[860022],{860022:function(e,c,s){e.exports=s.p+"static/media/font_increase_20_regular.a94cc87da1b6138ca9cc.svg"}}]);

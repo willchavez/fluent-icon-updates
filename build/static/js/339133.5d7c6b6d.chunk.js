@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[339133],{339133:function(e,s,t){e.exports=t.p+"static/media/battery_6_20_filled.bf823f8e57f16b586c07.svg"}}]);

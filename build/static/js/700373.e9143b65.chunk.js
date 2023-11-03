@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[700373],{700373:function(e,s,i){e.exports=i.p+"static/media/share_android_24_filled.2219acf00ee5c13697bb.svg"}}]);

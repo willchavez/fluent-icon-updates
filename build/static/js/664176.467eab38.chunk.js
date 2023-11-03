@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[664176],{664176:function(e,s,i){e.exports=i.p+"static/media/projection_screen_28_filled.84442e518d88672244f3.svg"}}]);

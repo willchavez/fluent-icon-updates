@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[484304],{484304:function(e,s,i){e.exports=i.p+"static/media/remix_add_32_regular.8089df7fe52e6750cf40.svg"}}]);

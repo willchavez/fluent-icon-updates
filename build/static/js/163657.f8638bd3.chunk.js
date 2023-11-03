@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[163657],{163657:function(e,c,s){e.exports=s.p+"static/media/pause_circle_20_regular.2bc608500fcc4eba7091.svg"}}]);

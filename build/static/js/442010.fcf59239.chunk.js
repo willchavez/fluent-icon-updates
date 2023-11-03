@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[442010],{442010:function(e,s,i){e.exports=i.p+"static/media/squares_nested_20_filled.4a335a5ee23b239af6ed.svg"}}]);

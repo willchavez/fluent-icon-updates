@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[856716],{856716:function(e,o,s){e.exports=s.p+"static/media/people_team_toolbox_20_filled.869938de39823d38d678.svg"}}]);

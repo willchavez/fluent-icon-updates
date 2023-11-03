@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[184201],{184201:function(e,c,t){e.exports=t.p+"static/media/panel_right_contract_24_regular.b977f0d5fa6760ca0fcf.svg"}}]);

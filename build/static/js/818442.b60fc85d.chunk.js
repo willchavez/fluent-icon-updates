@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[818442],{818442:function(e,s,t){e.exports=t.p+"static/media/calendar_week_start_28_regular.74e81d84543caf4db865.svg"}}]);

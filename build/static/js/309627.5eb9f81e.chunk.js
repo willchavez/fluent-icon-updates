@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[309627],{309627:function(e,i,s){e.exports=s.p+"static/media/puzzle_piece_shield_20_filled.e3a5d63a209590d01634.svg"}}]);

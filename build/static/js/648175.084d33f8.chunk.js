@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[648175],{648175:function(e,i,s){e.exports=s.p+"static/media/building_bank_toolbox_20_regular.dc5f4e6316d279d6066f.svg"}}]);

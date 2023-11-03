@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[93858],{93858:function(e,c,s){e.exports=s.p+"static/media/conference_room_20_filled.fecc154849b6ee5465b8.svg"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[786063],{786063:function(e,s,i){e.exports=i.p+"static/media/xray_24_filled.e0bd00595029b34dd39e.svg"}}]);

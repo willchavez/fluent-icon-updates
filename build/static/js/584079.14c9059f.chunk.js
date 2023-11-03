@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[584079],{584079:function(e,i,s){e.exports=s.p+"static/media/mail_prohibited_28_filled.a1aa196628fe7ab5c450.svg"}}]);

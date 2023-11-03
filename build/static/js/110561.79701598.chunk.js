@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[110561],{110561:function(e,c,s){e.exports=s.p+"static/media/megaphone_off_16_regular.bc380432ce00c6b5f516.svg"}}]);

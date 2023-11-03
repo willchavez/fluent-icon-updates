@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[197542],{197542:function(e,s,t){e.exports=t.p+"static/media/teddy_24_regular.909f2f9df836126591d5.svg"}}]);

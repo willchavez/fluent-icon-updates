@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[543590],{543590:function(e,c,s){e.exports=s.p+"static/media/caret_down_right_12_regular.5b79b89834ec041ff1c5.svg"}}]);

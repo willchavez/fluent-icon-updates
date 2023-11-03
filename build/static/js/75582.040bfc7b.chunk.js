@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[75582],{75582:function(e,s,c){e.exports=c.p+"static/media/person_walking_20_regular.65c3a83fd9b853825b0c.svg"}}]);

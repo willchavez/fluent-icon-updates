@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[166419],{166419:function(e,t,s){e.exports=s.p+"static/media/text_case_title_20_regular.87a6ceb84ba4fbd27763.svg"}}]);

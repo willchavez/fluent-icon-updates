@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[353195],{353195:function(e,c,s){e.exports=s.p+"static/media/calendar_clock_20_regular.61b9dfbd7d6d27eae16f.svg"}}]);

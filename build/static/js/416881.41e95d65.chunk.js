@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[416881],{416881:function(e,s,i){e.exports=i.p+"static/media/swipe_down_20_regular.2de19ae7c8d645bbb743.svg"}}]);

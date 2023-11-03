@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[595321],{595321:function(e,s,i){e.exports=i.p+"static/media/broom_16_filled.5e530ae999e71d26119e.svg"}}]);

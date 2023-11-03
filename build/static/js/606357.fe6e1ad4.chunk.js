@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[606357],{606357:function(e,s,t){e.exports=t.p+"static/media/alert_urgent_24_regular.576e7c08f7d557b50f94.svg"}}]);

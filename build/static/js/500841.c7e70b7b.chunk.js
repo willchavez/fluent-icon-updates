@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[500841],{500841:function(e,s,i){e.exports=i.p+"static/media/earth_leaf_16_filled.979546da7120fa0c774e.svg"}}]);

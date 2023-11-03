@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[365241],{365241:function(e,s,c){e.exports=c.p+"static/media/classification_16_regular.c98a431dde5e4c4b4fbe.svg"}}]);

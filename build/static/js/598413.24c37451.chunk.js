@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[598413],{598413:function(e,s,i){e.exports=i.p+"static/media/bed_20_regular.93a0d6f0423752f4b1ef.svg"}}]);

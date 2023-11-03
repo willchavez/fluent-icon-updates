@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[489364],{489364:function(e,s,i){e.exports=i.p+"static/media/text_line_spacing_24_regular.b1e9b2aa743ee4b4eb1f.svg"}}]);

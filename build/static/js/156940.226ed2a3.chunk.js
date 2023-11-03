@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[156940],{156940:function(e,c,s){e.exports=s.p+"static/media/person_delete_16_regular.aec1f3b6cdd9cc77598f.svg"}}]);

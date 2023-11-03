@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[206169],{206169:function(e,c,s){e.exports=s.p+"static/media/book_clock_24_filled.6f87ce9f48d295bde8e7.svg"}}]);

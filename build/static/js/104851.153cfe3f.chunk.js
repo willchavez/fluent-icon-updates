@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[104851],{104851:function(e,s,t){e.exports=t.p+"static/media/home_database_24_regular.4f4edb034fe0587731f2.svg"}}]);

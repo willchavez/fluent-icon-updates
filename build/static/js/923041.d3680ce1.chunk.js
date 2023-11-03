@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[923041],{923041:function(e,s,t){e.exports=t.p+"static/media/temperature_32_regular.89345fa4dec1d431407b.svg"}}]);

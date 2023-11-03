@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[879053],{879053:function(e,i,s){e.exports=s.p+"static/media/glance_horizontal_24_filled.fc36956b7e5ee3eb274b.svg"}}]);

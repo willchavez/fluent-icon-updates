@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[890471],{890471:function(e,s,i){e.exports=i.p+"static/media/subtitles_24_filled.e1aeca8b6e3d5fa8515b.svg"}}]);

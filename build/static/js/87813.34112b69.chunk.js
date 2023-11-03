@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[87813],{87813:function(e,c,s){e.exports=s.p+"static/media/arrow_rotate_counterclockwise_24_regular.5bdbab8d1e1c2269d9e5.svg"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[105264],{105264:function(e,t,s){e.exports=s.p+"static/media/panel_left_contract_28_filled.8309a3147dd77e878bdd.svg"}}]);

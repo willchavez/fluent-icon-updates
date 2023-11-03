@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[959550],{959550:function(e,c,i){e.exports=i.p+"static/media/mail_error_20_filled.585bcf9376459e28ccf6.svg"}}]);

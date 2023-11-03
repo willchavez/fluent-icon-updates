@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[421550],{421550:function(e,s,c){e.exports=c.p+"static/media/rocket_24_regular.153a61f7a7b9acb4d566.svg"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[899880],{899880:function(e,s,i){e.exports=i.p+"static/media/dual_screen_mirror_20_filled.379d1c765169aa24af87.svg"}}]);

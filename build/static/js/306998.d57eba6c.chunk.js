@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[306998],{306998:function(e,i,s){e.exports=s.p+"static/media/mail_shield_16_filled.ec0a3df2f753e446fcc8.svg"}}]);

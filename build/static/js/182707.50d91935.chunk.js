@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[182707],{182707:function(e,c,s){e.exports=s.p+"static/media/book_arrow_clockwise_20_filled.72715eff3be95c4dcd4f.svg"}}]);

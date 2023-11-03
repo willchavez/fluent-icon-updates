@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[889996],{889996:function(e,s,c){e.exports=c.p+"static/media/heart_pulse_checkmark_20_filled.7325d275b4c288b056d3.svg"}}]);

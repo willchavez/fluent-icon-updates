@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[855274],{855274:function(e,s,c){e.exports=c.p+"static/media/presence_offline_20_regular.44182af9576ed56fabec.svg"}}]);

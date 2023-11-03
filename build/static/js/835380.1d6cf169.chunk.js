@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[835380],{835380:function(e,s,t){e.exports=t.p+"static/media/alert_snooze_20_regular.df64549c7638fbd4df80.svg"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[262933],{262933:function(e,s,c){e.exports=c.p+"static/media/mic_pulse_20_filled.f84c4b7f852a81804fc8.svg"}}]);

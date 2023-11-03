@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[964654],{964654:function(e,c,s){e.exports=s.p+"static/media/ruler_20_regular.d8a6bcf6cf3dcfe2a2ec.svg"}}]);

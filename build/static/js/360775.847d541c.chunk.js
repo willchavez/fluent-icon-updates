@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[360775],{360775:function(e,c,s){e.exports=s.p+"static/media/mic_sync_20_regular.bc9f82be2b96fb5f18c8.svg"}}]);

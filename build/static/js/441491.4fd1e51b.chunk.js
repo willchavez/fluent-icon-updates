@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[441491],{441491:function(e,s,i){e.exports=i.p+"static/media/hdr_off_20_filled.de8d3444242b64db86bf.svg"}}]);

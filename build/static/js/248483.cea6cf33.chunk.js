@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[248483],{248483:function(e,s,c){e.exports=c.p+"static/media/border_all_20_filled.fd2002c84109fdbec45e.svg"}}]);

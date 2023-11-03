@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[184789],{184789:function(e,s,t){e.exports=t.p+"static/media/calendar_week_start_24_regular.f1644023dff8d3020925.svg"}}]);

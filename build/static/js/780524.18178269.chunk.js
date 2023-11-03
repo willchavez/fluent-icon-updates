@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[780524],{780524:function(e,s,i){e.exports=i.p+"static/media/shifts_question_mark_20_regular.4b55e4cc26b79befe09d.svg"}}]);

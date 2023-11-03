@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[972790],{972790:function(e,i,s){e.exports=s.p+"static/media/port_hdmi_24_filled.3162055d0db90421c796.svg"}}]);
