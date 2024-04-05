@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[974251],{974251:function(e,s,a){e.exports=a.p+"static/media/layer_diagonal_sparkle_20_filled.8a6eb7ca20f058041f6c.svg"}}]);

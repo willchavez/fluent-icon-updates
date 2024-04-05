@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[835279],{835279:function(e,o,c){e.exports=c.p+"static/media/phone_footer_arrow_down_20_regular.980e929162cfc5c9a44d.svg"}}]);

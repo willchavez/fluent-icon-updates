@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[873560],{873560:function(e,s,i){e.exports=i.p+"static/media/building_swap_32_regular.058972c3a85b7436465d.svg"}}]);

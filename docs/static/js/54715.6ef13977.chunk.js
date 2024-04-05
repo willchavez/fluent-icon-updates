@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[54715],{54715:function(e,d,s){e.exports=s.p+"static/media/tab_desktop_multiple_sparkle_24_filled.6d4d87d9490ddd836fd9.svg"}}]);

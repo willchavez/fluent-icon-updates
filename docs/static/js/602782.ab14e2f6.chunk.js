@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[602782],{602782:function(e,s,t){e.exports=t.p+"static/media/subtract_parentheses_16_filled.9b2f3bfe476d3d1548ab.svg"}}]);

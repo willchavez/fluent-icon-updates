@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[246384],{246384:function(e,s,f){e.exports=f.p+"static/media/rectangle_landscape_sparkle_24_filled.fff60e0bf24f14fe2444.svg"}}]);

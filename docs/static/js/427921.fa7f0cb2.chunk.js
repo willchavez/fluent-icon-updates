@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[427921],{427921:function(e,s,c){e.exports=c.p+"static/media/payment_wireless_20_regular.176527f96da5228dcca9.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[897315],{897315:function(e,c,i){e.exports=i.p+"static/media/mail_clock_24_filled.18b7776aa36e99bc0ba1.svg"}}]);

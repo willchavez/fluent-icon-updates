@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[19585],{19585:function(e,s,i){e.exports=i.p+"static/media/video_person_pulse_28_regular.b86536e668a053618a03.svg"}}]);

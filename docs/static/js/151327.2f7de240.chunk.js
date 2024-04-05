@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[151327],{151327:function(e,i,s){e.exports=s.p+"static/media/video_clip_wand_24_filled.a5b569c44622966ed76a.svg"}}]);

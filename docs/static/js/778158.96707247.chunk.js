@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[778158],{778158:function(e,s,f){e.exports=f.p+"static/media/star_32_filled.904f33df05a0f5ff555c.svg"}}]);

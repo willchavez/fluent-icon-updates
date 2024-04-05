@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[920051],{920051:function(e,s,c){e.exports=c.p+"static/media/scan_dash_28_filled.95c17e9bdfa81213e063.svg"}}]);

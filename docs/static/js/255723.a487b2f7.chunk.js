@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[255723],{255723:function(e,s,i){e.exports=i.p+"static/media/hand_point_24_regular.1991736956f7a4fc483e.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[353207],{353207:function(e,s,a){e.exports=a.p+"static/media/seat_24_filled.a05fa5e8a014f361aef1.svg"}}]);

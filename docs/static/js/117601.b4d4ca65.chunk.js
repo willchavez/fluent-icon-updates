@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[117601],{117601:function(e,i,s){e.exports=s.p+"static/media/communication_shield_20_filled.5b362131afd41543203d.svg"}}]);

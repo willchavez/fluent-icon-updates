@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[131267],{131267:function(e,s,i){e.exports=i.p+"static/media/person_prohibited_32_regular.7417b1d2000c70261524.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[225882],{225882:function(e,s,a){e.exports=a.p+"static/media/glance_horizontal_sparkles_20_regular.ab2d5c98068fd93e6642.svg"}}]);

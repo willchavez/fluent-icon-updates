@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[850123],{850123:function(e,s,i){e.exports=i.p+"static/media/building_government_search_32_regular.809006414f4a044a841b.svg"}}]);

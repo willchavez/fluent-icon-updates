@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[773460],{773460:function(e,c,s){e.exports=s.p+"static/media/person_square_checkmark_16_regular.74b9a00c83f36c023e7c.svg"}}]);

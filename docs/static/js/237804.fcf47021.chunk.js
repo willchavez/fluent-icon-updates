@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[237804],{237804:function(e,i,s){e.exports=s.p+"static/media/building_desktop_32_filled.6f777822ccd82eed5ef9.svg"}}]);

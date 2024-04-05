@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[68943],{68943:function(e,s,c){e.exports=c.p+"static/media/calendar_record_20_regular.52717da0d84f10e79f68.svg"}}]);

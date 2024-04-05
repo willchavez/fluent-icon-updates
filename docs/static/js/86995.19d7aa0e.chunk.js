@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[86995],{86995:function(e,s,c){e.exports=c.p+"static/media/bench_24_regular.d054f3aa5294f7961df4.svg"}}]);

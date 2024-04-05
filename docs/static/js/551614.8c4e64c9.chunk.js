@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[551614],{551614:function(e,s,i){e.exports=i.p+"static/media/person_ribbon_24_filled.3fe4ae11581ebae975cc.svg"}}]);

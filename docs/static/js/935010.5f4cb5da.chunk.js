@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[935010],{935010:function(e,c,s){e.exports=s.p+"static/media/vehicle_tractor_24_regular.d826b54fd48c9eb7a271.svg"}}]);

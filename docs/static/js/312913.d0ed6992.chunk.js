@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[312913],{312913:function(e,s,c){e.exports=c.p+"static/media/calendar_sparkle_16_regular.3860f13b6da7cb882c81.svg"}}]);

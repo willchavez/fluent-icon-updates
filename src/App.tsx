@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import { IconList } from './ui/IconList';
 import html2canvas from 'html2canvas';
-import { Camera20Filled } from '@fluentui/react-icons';
+import screenshot from 'image-screenshot'
 
 function App() {
 	let [files, setFiles] = React.useState([]);
@@ -47,6 +47,7 @@ function App() {
 						scale: 3,
 					}
 				).then((canvas: any) => {
+					
 					var image = canvas
 						.toDataURL('image/png')
 						.replace('image/png', 'image/octet-stream'); // here is the most important part because if you dont replace you will get a DOM 18 exception.
@@ -66,7 +67,7 @@ function App() {
 				});
 			}}
 		>
-			<Camera20Filled />
+			{/* <Camera20Filled /> */}
 		</button>
 	);
 

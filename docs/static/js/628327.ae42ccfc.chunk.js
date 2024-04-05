@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[628327],{628327:function(e,s,c){e.exports=c.p+"static/media/clipboard_math_formula_24_regular.8d80978164d2d19c20f7.svg"}}]);

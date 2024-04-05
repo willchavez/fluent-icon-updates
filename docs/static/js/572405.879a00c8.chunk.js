@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[572405],{572405:function(e,s,i){e.exports=i.p+"static/media/person_warning_20_regular.b72a4e7f9f9064497fe7.svg"}}]);

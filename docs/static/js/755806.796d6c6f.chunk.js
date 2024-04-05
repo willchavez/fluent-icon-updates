@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[755806],{755806:function(e,i,o){e.exports=o.p+"static/media/organization_horizontal_24_regular.30e0521edcf385383525.svg"}}]);

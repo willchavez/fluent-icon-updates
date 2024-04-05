@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[859663],{859663:function(e,s,t){e.exports=t.p+"static/media/document_signature_24_regular.06ef419dffaa35dd6f95.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[28985],{28985:function(e,s,c){e.exports=c.p+"static/media/spatula_spoon_48_regular.1129f8c5c133ce78ca7a.svg"}}]);

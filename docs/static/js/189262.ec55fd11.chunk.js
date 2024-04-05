@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[189262],{189262:function(e,s,i){e.exports=i.p+"static/media/shopping_bag_add_20_filled.9831ee25fe12d526de6d.svg"}}]);

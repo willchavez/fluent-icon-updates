@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[951975],{951975:function(e,t,s){e.exports=s.p+"static/media/plant_cattail_24_regular.a302c23360155b113344.svg"}}]);
