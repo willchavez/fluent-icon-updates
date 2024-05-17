@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[655327],{655327:function(e,s,i){e.exports=i.p+"static/media/paint_brush_sparkle_20_filled.36f0388e24b8de7e68da.svg"}}]);

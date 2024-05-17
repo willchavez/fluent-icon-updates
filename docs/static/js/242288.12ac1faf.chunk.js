@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[242288],{242288:function(e,c,s){e.exports=s.p+"static/media/book_contacts_28_regular.e3993bbbb0fce6cd8b36.svg"}}]);

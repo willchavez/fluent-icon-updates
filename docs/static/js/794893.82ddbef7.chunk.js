@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[794893],{794893:function(e,s,c){e.exports=c.p+"static/media/haptic_strong_24_regular.2df17c11ddb3f487cbb8.svg"}}]);

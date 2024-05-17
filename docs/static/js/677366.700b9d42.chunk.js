@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[677366],{677366:function(e,s,t){e.exports=t.p+"static/media/book_contacts_20_filled.0b19e3182a5bd2aa5331.svg"}}]);

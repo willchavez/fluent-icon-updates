@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkview_exported_icons=self.webpackChunkview_exported_icons||[]).push([[387861],{387861:function(e,c,s){e.exports=s.p+"static/media/hexagon_sparkle_24_regular.fcb5b63a2ea5c2a1c1c5.svg"}}]);
